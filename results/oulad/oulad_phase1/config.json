@@ -1,0 +1,54 @@
+{
+  "output_dir": "/Users/khalidsabih/Downloads/final/oulad_phase1",
+  "oulad_dir": "/Users/khalidsabih/Downloads/final/archive",
+  "experiment_type": "natural_disparity",
+  "dataset_name": "OULAD",
+  "module": "BBB",
+  "protected_attribute": "gender",
+  "group_a_value": "M",
+  "group_b_value": "F",
+  "test_size": 0.2,
+  "probe_size": 0.15,
+  "validation_size": 0.15,
+  "hidden_dim_1": 64,
+  "hidden_dim_2": 32,
+  "dropout": 0.2,
+  "batch_size": 128,
+  "epochs": 60,
+  "learning_rate": 0.001,
+  "weight_decay": 0.0001,
+  "patience": 8,
+  "seed": 42,
+  "decision_threshold": 0.5,
+  "source_student_info": "/Users/khalidsabih/Downloads/final/archive/studentInfo.csv",
+  "target_definition": {
+    "positive": [
+      "Pass",
+      "Distinction"
+    ],
+    "negative": [
+      "Fail",
+      "Withdrawn"
+    ]
+  },
+  "protected_group_mapping": {
+    "A": "M",
+    "B": "F"
+  },
+  "categorical_features": [
+    "code_presentation",
+    "region",
+    "highest_education",
+    "imd_band",
+    "age_band",
+    "disability"
+  ],
+  "numerical_features": [
+    "num_of_prev_attempts",
+    "studied_credits"
+  ],
+  "bias_injection_applied": false,
+  "oracle_model_available": false,
+  "fairness_probe_used_for_training": false,
+  "test_used_for_model_selection": false
+}

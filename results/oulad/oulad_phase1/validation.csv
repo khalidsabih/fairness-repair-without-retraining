@@ -1,0 +1,1187 @@
+sample_id,id_student,code_module,code_presentation,gender,demo,final_result,label,observed_label,was_corrupted,region,highest_education,imd_band,age_band,disability,num_of_prev_attempts,studied_credits
+BBB_2014J_596072,596072,BBB,2014J,F,B,Withdrawn,0,0,0,West Midlands Region,A Level or Equivalent,0-10%,0-35,N,0,60
+BBB_2014B_618816,618816,BBB,2014B,F,B,Fail,0,0,0,London Region,Lower Than A Level,0-10%,0-35,N,0,60
+BBB_2013J_596112,596112,BBB,2013J,F,B,Withdrawn,0,0,0,Wales,A Level or Equivalent,50-60%,35-55,N,0,60
+BBB_2014J_700458,700458,BBB,2014J,F,B,Fail,0,0,0,Wales,HE Qualification,20-30%,0-35,N,0,60
+BBB_2013J_577692,577692,BBB,2013J,F,B,Fail,0,0,0,West Midlands Region,Lower Than A Level,40-50%,0-35,N,0,120
+BBB_2013B_161678,161678,BBB,2013B,F,B,Fail,0,0,0,North Western Region,Lower Than A Level,0-10%,0-35,N,1,60
+BBB_2014B_466248,466248,BBB,2014B,F,B,Withdrawn,0,0,0,East Anglian Region,Lower Than A Level,20-30%,0-35,N,1,60
+BBB_2014B_505248,505248,BBB,2014B,F,B,Withdrawn,0,0,0,South Region,A Level or Equivalent,50-60%,0-35,N,0,60
+BBB_2013B_1997796,1997796,BBB,2013B,F,B,Distinction,1,1,0,North Region,A Level or Equivalent,,35-55,N,0,60
+BBB_2013B_507485,507485,BBB,2013B,F,B,Withdrawn,0,0,0,London Region,Lower Than A Level,0-10%,0-35,N,0,60
+BBB_2014J_396016,396016,BBB,2014J,F,B,Fail,0,0,0,East Anglian Region,A Level or Equivalent,60-70%,0-35,N,0,60
+BBB_2013B_2173572,2173572,BBB,2013B,F,B,Pass,1,1,0,North Western Region,Lower Than A Level,20-30%,0-35,N,0,90
+BBB_2013B_558701,558701,BBB,2013B,F,B,Withdrawn,0,0,0,South Region,A Level or Equivalent,40-50%,35-55,N,0,60
+BBB_2013B_529174,529174,BBB,2013B,F,B,Fail,0,0,0,Wales,Lower Than A Level,90-100%,0-35,N,1,120
+BBB_2013B_519222,519222,BBB,2013B,F,B,Pass,1,1,0,Wales,A Level or Equivalent,80-90%,0-35,N,1,120
+BBB_2014B_616511,616511,BBB,2014B,F,B,Distinction,1,1,0,South West Region,A Level or Equivalent,80-90%,35-55,N,0,60
+BBB_2013J_556089,556089,BBB,2013J,F,B,Distinction,1,1,0,East Anglian Region,Lower Than A Level,30-40%,0-35,N,0,60
+BBB_2013J_339656,339656,BBB,2013J,F,B,Withdrawn,0,0,0,London Region,A Level or Equivalent,0-10%,35-55,N,0,60
+BBB_2014J_690940,690940,BBB,2014J,F,B,Withdrawn,0,0,0,East Midlands Region,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2013B_205231,205231,BBB,2013B,F,B,Fail,0,0,0,Scotland,Lower Than A Level,10-20,35-55,N,1,60
+BBB_2014J_446619,446619,BBB,2014J,M,A,Withdrawn,0,0,0,Ireland,A Level or Equivalent,20-30%,0-35,N,0,60
+BBB_2014B_578282,578282,BBB,2014B,F,B,Fail,0,0,0,North Region,Lower Than A Level,30-40%,0-35,N,0,120
+BBB_2013J_580612,580612,BBB,2013J,F,B,Pass,1,1,0,North Region,Lower Than A Level,30-40%,0-35,N,0,60
+BBB_2013B_515959,515959,BBB,2013B,F,B,Pass,1,1,0,London Region,A Level or Equivalent,50-60%,0-35,N,0,60
+BBB_2014J_551242,551242,BBB,2014J,F,B,Pass,1,1,0,South West Region,HE Qualification,20-30%,35-55,N,0,60
+BBB_2014J_653952,653952,BBB,2014J,F,B,Withdrawn,0,0,0,East Midlands Region,A Level or Equivalent,20-30%,35-55,N,0,150
+BBB_2013J_592471,592471,BBB,2013J,M,A,Distinction,1,1,0,Scotland,HE Qualification,60-70%,35-55,N,0,60
+BBB_2013B_482766,482766,BBB,2013B,F,B,Pass,1,1,0,South Region,HE Qualification,50-60%,35-55,N,0,120
+BBB_2014B_625124,625124,BBB,2014B,F,B,Fail,0,0,0,Wales,A Level or Equivalent,20-30%,0-35,N,0,60
+BBB_2014J_687578,687578,BBB,2014J,F,B,Withdrawn,0,0,0,London Region,Lower Than A Level,10-20,0-35,N,0,60
+BBB_2014B_354560,354560,BBB,2014B,F,B,Withdrawn,0,0,0,West Midlands Region,Lower Than A Level,10-20,0-35,N,1,120
+BBB_2013J_586407,586407,BBB,2013J,F,B,Withdrawn,0,0,0,South West Region,Lower Than A Level,20-30%,0-35,N,0,90
+BBB_2013B_278447,278447,BBB,2013B,F,B,Pass,1,1,0,South East Region,A Level or Equivalent,60-70%,0-35,N,0,60
+BBB_2013J_577695,577695,BBB,2013J,F,B,Withdrawn,0,0,0,South West Region,A Level or Equivalent,30-40%,35-55,N,0,120
+BBB_2014B_625619,625619,BBB,2014B,F,B,Withdrawn,0,0,0,West Midlands Region,A Level or Equivalent,30-40%,0-35,N,0,60
+BBB_2013B_432319,432319,BBB,2013B,F,B,Withdrawn,0,0,0,West Midlands Region,A Level or Equivalent,60-70%,0-35,N,2,120
+BBB_2014J_586134,586134,BBB,2014J,F,B,Pass,1,1,0,London Region,Lower Than A Level,0-10%,35-55,N,0,60
+BBB_2013J_227416,227416,BBB,2013J,M,A,Fail,0,0,0,South East Region,A Level or Equivalent,30-40%,0-35,N,0,60
+BBB_2013J_489889,489889,BBB,2013J,M,A,Pass,1,1,0,West Midlands Region,A Level or Equivalent,0-10%,0-35,N,0,120
+BBB_2013J_573225,573225,BBB,2013J,F,B,Fail,0,0,0,Wales,Lower Than A Level,50-60%,0-35,N,0,60
+BBB_2013J_571083,571083,BBB,2013J,F,B,Pass,1,1,0,Yorkshire Region,A Level or Equivalent,60-70%,0-35,N,0,60
+BBB_2013J_570864,570864,BBB,2013J,F,B,Pass,1,1,0,Wales,Lower Than A Level,80-90%,0-35,N,0,60
+BBB_2014J_2263129,2263129,BBB,2014J,F,B,Fail,0,0,0,Scotland,A Level or Equivalent,80-90%,35-55,N,0,120
+BBB_2013B_507320,507320,BBB,2013B,M,A,Withdrawn,0,0,0,North Western Region,Lower Than A Level,50-60%,0-35,N,0,150
+BBB_2014B_494896,494896,BBB,2014B,F,B,Pass,1,1,0,East Anglian Region,Lower Than A Level,90-100%,0-35,N,1,120
+BBB_2013J_596108,596108,BBB,2013J,M,A,Pass,1,1,0,Wales,Lower Than A Level,30-40%,35-55,N,0,60
+BBB_2014B_628119,628119,BBB,2014B,F,B,Fail,0,0,0,Ireland,A Level or Equivalent,60-70%,35-55,N,0,60
+BBB_2014J_689952,689952,BBB,2014J,M,A,Withdrawn,0,0,0,London Region,A Level or Equivalent,10-20,0-35,N,0,120
+BBB_2014J_2684107,2684107,BBB,2014J,F,B,Withdrawn,0,0,0,Yorkshire Region,A Level or Equivalent,10-20,35-55,N,0,120
+BBB_2013B_522383,522383,BBB,2013B,F,B,Fail,0,0,0,Wales,Lower Than A Level,0-10%,0-35,Y,1,120
+BBB_2013J_512581,512581,BBB,2013J,F,B,Fail,0,0,0,Scotland,Lower Than A Level,60-70%,0-35,N,1,60
+BBB_2013B_499380,499380,BBB,2013B,F,B,Distinction,1,1,0,Yorkshire Region,A Level or Equivalent,20-30%,35-55,N,0,60
+BBB_2014J_646636,646636,BBB,2014J,F,B,Withdrawn,0,0,0,London Region,Lower Than A Level,10-20,35-55,N,0,60
+BBB_2014J_161811,161811,BBB,2014J,F,B,Withdrawn,0,0,0,South West Region,A Level or Equivalent,40-50%,0-35,N,0,60
+BBB_2013B_521903,521903,BBB,2013B,F,B,Fail,0,0,0,South West Region,Lower Than A Level,70-80%,0-35,Y,1,120
+BBB_2014J_678801,678801,BBB,2014J,F,B,Withdrawn,0,0,0,West Midlands Region,HE Qualification,10-20,0-35,N,0,60
+BBB_2014J_646844,646844,BBB,2014J,F,B,Pass,1,1,0,East Anglian Region,A Level or Equivalent,60-70%,35-55,N,0,120
+BBB_2014J_687406,687406,BBB,2014J,F,B,Pass,1,1,0,Wales,HE Qualification,50-60%,35-55,N,0,60
+BBB_2013J_434585,434585,BBB,2013J,F,B,Pass,1,1,0,East Anglian Region,A Level or Equivalent,70-80%,0-35,N,0,90
+BBB_2014J_647964,647964,BBB,2014J,F,B,Withdrawn,0,0,0,West Midlands Region,Lower Than A Level,50-60%,0-35,N,0,120
+BBB_2014J_600398,600398,BBB,2014J,F,B,Pass,1,1,0,East Anglian Region,A Level or Equivalent,40-50%,0-35,N,0,60
+BBB_2014B_634265,634265,BBB,2014B,F,B,Pass,1,1,0,South East Region,A Level or Equivalent,60-70%,0-35,N,0,60
+BBB_2014B_2482994,2482994,BBB,2014B,F,B,Withdrawn,0,0,0,South Region,Lower Than A Level,90-100%,0-35,N,0,60
+BBB_2013B_504028,504028,BBB,2013B,F,B,Pass,1,1,0,Yorkshire Region,A Level or Equivalent,20-30%,0-35,N,1,180
+BBB_2014B_625024,625024,BBB,2014B,F,B,Pass,1,1,0,South Region,Lower Than A Level,70-80%,35-55,N,0,60
+BBB_2013B_232600,232600,BBB,2013B,F,B,Withdrawn,0,0,0,North Western Region,Lower Than A Level,10-20,0-35,N,2,60
+BBB_2014B_625477,625477,BBB,2014B,F,B,Distinction,1,1,0,South East Region,A Level or Equivalent,30-40%,0-35,N,0,60
+BBB_2013B_540614,540614,BBB,2013B,F,B,Pass,1,1,0,East Anglian Region,A Level or Equivalent,30-40%,0-35,N,0,120
+BBB_2013B_465730,465730,BBB,2013B,F,B,Withdrawn,0,0,0,Wales,A Level or Equivalent,30-40%,0-35,N,1,120
+BBB_2013B_267761,267761,BBB,2013B,F,B,Pass,1,1,0,West Midlands Region,A Level or Equivalent,0-10%,0-35,N,1,120
+BBB_2014J_618858,618858,BBB,2014J,F,B,Withdrawn,0,0,0,London Region,Lower Than A Level,20-30%,0-35,N,1,60
+BBB_2014B_622925,622925,BBB,2014B,F,B,Withdrawn,0,0,0,East Anglian Region,Lower Than A Level,50-60%,0-35,N,0,60
+BBB_2014B_529438,529438,BBB,2014B,M,A,Fail,0,0,0,Wales,A Level or Equivalent,50-60%,0-35,N,0,60
+BBB_2014B_602991,602991,BBB,2014B,F,B,Pass,1,1,0,North Western Region,A Level or Equivalent,80-90%,35-55,N,0,60
+BBB_2013J_554243,554243,BBB,2013J,F,B,Fail,0,0,0,South West Region,Lower Than A Level,60-70%,0-35,N,0,60
+BBB_2014B_620128,620128,BBB,2014B,F,B,Pass,1,1,0,East Anglian Region,A Level or Equivalent,90-100%,0-35,N,0,60
+BBB_2013B_548839,548839,BBB,2013B,M,A,Pass,1,1,0,South West Region,A Level or Equivalent,20-30%,35-55,N,0,60
+BBB_2013J_526506,526506,BBB,2013J,F,B,Withdrawn,0,0,0,Yorkshire Region,A Level or Equivalent,60-70%,0-35,N,2,60
+BBB_2013B_25107,25107,BBB,2013B,F,B,Pass,1,1,0,East Anglian Region,Lower Than A Level,20-30%,0-35,N,0,120
+BBB_2014J_649980,649980,BBB,2014J,F,B,Withdrawn,0,0,0,Scotland,A Level or Equivalent,10-20,0-35,N,0,120
+BBB_2014J_560597,560597,BBB,2014J,F,B,Distinction,1,1,0,North Western Region,A Level or Equivalent,20-30%,35-55,N,0,60
+BBB_2014J_686200,686200,BBB,2014J,F,B,Distinction,1,1,0,Yorkshire Region,A Level or Equivalent,60-70%,35-55,N,0,60
+BBB_2013J_358289,358289,BBB,2013J,M,A,Withdrawn,0,0,0,East Anglian Region,Lower Than A Level,10-20,0-35,Y,0,180
+BBB_2014B_613743,613743,BBB,2014B,F,B,Pass,1,1,0,Wales,HE Qualification,70-80%,35-55,N,0,120
+BBB_2014B_629037,629037,BBB,2014B,F,B,Pass,1,1,0,Scotland,HE Qualification,40-50%,35-55,N,0,60
+BBB_2013J_602767,602767,BBB,2013J,F,B,Fail,0,0,0,North Western Region,Lower Than A Level,0-10%,0-35,N,0,60
+BBB_2013B_548275,548275,BBB,2013B,F,B,Pass,1,1,0,East Anglian Region,A Level or Equivalent,30-40%,0-35,N,0,120
+BBB_2013B_2598220,2598220,BBB,2013B,F,B,Fail,0,0,0,Yorkshire Region,A Level or Equivalent,10-20,0-35,N,0,120
+BBB_2014B_588096,588096,BBB,2014B,F,B,Withdrawn,0,0,0,West Midlands Region,Lower Than A Level,80-90%,0-35,N,0,60
+BBB_2014J_646063,646063,BBB,2014J,F,B,Pass,1,1,0,East Midlands Region,A Level or Equivalent,40-50%,35-55,N,0,60
+BBB_2013J_440751,440751,BBB,2013J,M,A,Withdrawn,0,0,0,South West Region,Lower Than A Level,10-20,35-55,N,1,60
+BBB_2014B_617146,617146,BBB,2014B,F,B,Fail,0,0,0,Wales,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2013J_595711,595711,BBB,2013J,F,B,Fail,0,0,0,East Anglian Region,A Level or Equivalent,10-20,35-55,N,0,60
+BBB_2013B_550428,550428,BBB,2013B,F,B,Fail,0,0,0,East Midlands Region,A Level or Equivalent,80-90%,35-55,N,0,60
+BBB_2014J_2349805,2349805,BBB,2014J,F,B,Fail,0,0,0,East Anglian Region,Lower Than A Level,50-60%,35-55,N,0,60
+BBB_2013J_572163,572163,BBB,2013J,F,B,Withdrawn,0,0,0,Wales,Lower Than A Level,0-10%,0-35,N,0,60
+BBB_2013B_534343,534343,BBB,2013B,M,A,Distinction,1,1,0,North Region,A Level or Equivalent,60-70%,0-35,N,0,60
+BBB_2013B_173335,173335,BBB,2013B,F,B,Fail,0,0,0,North Western Region,Lower Than A Level,40-50%,0-35,N,1,60
+BBB_2013J_497130,497130,BBB,2013J,F,B,Pass,1,1,0,South Region,Lower Than A Level,80-90%,35-55,N,0,60
+BBB_2014J_652226,652226,BBB,2014J,F,B,Pass,1,1,0,South West Region,A Level or Equivalent,60-70%,0-35,N,0,60
+BBB_2014J_442745,442745,BBB,2014J,F,B,Withdrawn,0,0,0,South Region,A Level or Equivalent,40-50%,35-55,N,0,60
+BBB_2014B_397747,397747,BBB,2014B,F,B,Pass,1,1,0,South Region,Lower Than A Level,50-60%,0-35,N,2,60
+BBB_2013B_548744,548744,BBB,2013B,M,A,Pass,1,1,0,West Midlands Region,A Level or Equivalent,30-40%,0-35,N,0,60
+BBB_2014J_679568,679568,BBB,2014J,F,B,Withdrawn,0,0,0,East Midlands Region,Lower Than A Level,10-20,0-35,N,0,240
+BBB_2014J_656122,656122,BBB,2014J,F,B,Withdrawn,0,0,0,Ireland,Lower Than A Level,30-40%,35-55,N,0,60
+BBB_2013J_588445,588445,BBB,2013J,F,B,Withdrawn,0,0,0,East Anglian Region,Lower Than A Level,50-60%,0-35,N,0,120
+BBB_2014B_629976,629976,BBB,2014B,F,B,Withdrawn,0,0,0,Scotland,HE Qualification,0-10%,0-35,N,0,60
+BBB_2013B_522090,522090,BBB,2013B,F,B,Pass,1,1,0,East Midlands Region,A Level or Equivalent,10-20,0-35,N,0,60
+BBB_2013B_539253,539253,BBB,2013B,F,B,Fail,0,0,0,Wales,Lower Than A Level,50-60%,0-35,N,0,60
+BBB_2013J_590502,590502,BBB,2013J,F,B,Fail,0,0,0,Wales,No Formal quals,30-40%,35-55,N,0,60
+BBB_2013J_274971,274971,BBB,2013J,F,B,Pass,1,1,0,Ireland,Lower Than A Level,80-90%,35-55,N,0,75
+BBB_2013J_322728,322728,BBB,2013J,F,B,Withdrawn,0,0,0,North Western Region,Lower Than A Level,30-40%,0-35,N,1,270
+BBB_2014J_539657,539657,BBB,2014J,M,A,Withdrawn,0,0,0,West Midlands Region,Lower Than A Level,0-10%,0-35,N,1,120
+BBB_2013B_560468,560468,BBB,2013B,F,B,Pass,1,1,0,South East Region,A Level or Equivalent,70-80%,0-35,N,0,60
+BBB_2013B_539041,539041,BBB,2013B,F,B,Withdrawn,0,0,0,Wales,A Level or Equivalent,70-80%,0-35,N,1,120
+BBB_2013J_345128,345128,BBB,2013J,F,B,Fail,0,0,0,East Anglian Region,A Level or Equivalent,80-90%,0-35,N,2,90
+BBB_2014J_690469,690469,BBB,2014J,F,B,Pass,1,1,0,Scotland,A Level or Equivalent,40-50%,0-35,N,0,60
+BBB_2013J_495875,495875,BBB,2013J,F,B,Fail,0,0,0,Yorkshire Region,Lower Than A Level,80-90%,0-35,N,1,60
+BBB_2013J_522891,522891,BBB,2013J,F,B,Pass,1,1,0,Scotland,Lower Than A Level,50-60%,35-55,N,0,60
+BBB_2013B_536112,536112,BBB,2013B,F,B,Pass,1,1,0,Yorkshire Region,A Level or Equivalent,20-30%,0-35,N,0,120
+BBB_2014J_563820,563820,BBB,2014J,F,B,Pass,1,1,0,West Midlands Region,A Level or Equivalent,0-10%,0-35,Y,0,60
+BBB_2013B_540055,540055,BBB,2013B,F,B,Distinction,1,1,0,Yorkshire Region,Lower Than A Level,80-90%,35-55,N,0,60
+BBB_2014B_512118,512118,BBB,2014B,F,B,Withdrawn,0,0,0,South East Region,Lower Than A Level,40-50%,0-35,N,0,60
+BBB_2014B_1108120,1108120,BBB,2014B,F,B,Withdrawn,0,0,0,East Midlands Region,A Level or Equivalent,30-40%,35-55,N,0,60
+BBB_2014J_648310,648310,BBB,2014J,F,B,Pass,1,1,0,East Anglian Region,Lower Than A Level,80-90%,0-35,N,0,60
+BBB_2014J_292813,292813,BBB,2014J,F,B,Withdrawn,0,0,0,East Anglian Region,A Level or Equivalent,90-100%,0-35,Y,1,120
+BBB_2014J_581235,581235,BBB,2014J,F,B,Pass,1,1,0,West Midlands Region,Lower Than A Level,90-100%,0-35,N,1,60
+BBB_2013B_499067,499067,BBB,2013B,F,B,Fail,0,0,0,South East Region,Lower Than A Level,30-40%,35-55,Y,0,60
+BBB_2013B_387702,387702,BBB,2013B,F,B,Fail,0,0,0,West Midlands Region,A Level or Equivalent,0-10%,0-35,N,0,60
+BBB_2014J_2444705,2444705,BBB,2014J,F,B,Pass,1,1,0,North Western Region,Lower Than A Level,0-10%,35-55,N,3,60
+BBB_2013B_33666,33666,BBB,2013B,F,B,Withdrawn,0,0,0,London Region,A Level or Equivalent,10-20,0-35,N,1,60
+BBB_2013J_277537,277537,BBB,2013J,M,A,Fail,0,0,0,North Western Region,Lower Than A Level,30-40%,35-55,N,0,60
+BBB_2014J_699007,699007,BBB,2014J,F,B,Distinction,1,1,0,London Region,A Level or Equivalent,30-40%,0-35,N,0,120
+BBB_2014B_620923,620923,BBB,2014B,F,B,Pass,1,1,0,South West Region,HE Qualification,40-50%,0-35,N,0,60
+BBB_2014J_676785,676785,BBB,2014J,F,B,Withdrawn,0,0,0,East Midlands Region,HE Qualification,20-30%,35-55,N,0,60
+BBB_2014J_605770,605770,BBB,2014J,F,B,Pass,1,1,0,Wales,A Level or Equivalent,30-40%,0-35,N,0,120
+BBB_2014B_570627,570627,BBB,2014B,F,B,Distinction,1,1,0,South East Region,A Level or Equivalent,90-100%,35-55,N,0,60
+BBB_2013B_535530,535530,BBB,2013B,F,B,Pass,1,1,0,East Anglian Region,A Level or Equivalent,60-70%,0-35,Y,0,60
+BBB_2013J_272617,272617,BBB,2013J,F,B,Withdrawn,0,0,0,East Midlands Region,Lower Than A Level,20-30%,0-35,Y,2,60
+BBB_2013J_596583,596583,BBB,2013J,F,B,Fail,0,0,0,Scotland,A Level or Equivalent,60-70%,35-55,N,0,60
+BBB_2013J_572918,572918,BBB,2013J,F,B,Fail,0,0,0,South Region,A Level or Equivalent,90-100%,0-35,N,0,120
+BBB_2014B_560117,560117,BBB,2014B,M,A,Fail,0,0,0,West Midlands Region,Lower Than A Level,40-50%,0-35,N,1,60
+BBB_2014B_611977,611977,BBB,2014B,F,B,Withdrawn,0,0,0,East Anglian Region,Lower Than A Level,80-90%,0-35,N,0,120
+BBB_2014B_613946,613946,BBB,2014B,F,B,Pass,1,1,0,East Midlands Region,Lower Than A Level,90-100%,35-55,N,0,60
+BBB_2014J_687683,687683,BBB,2014J,F,B,Pass,1,1,0,South Region,HE Qualification,50-60%,0-35,N,0,120
+BBB_2014J_642836,642836,BBB,2014J,F,B,Withdrawn,0,0,0,South Region,HE Qualification,70-80%,0-35,N,0,60
+BBB_2013J_447516,447516,BBB,2013J,F,B,Pass,1,1,0,London Region,Lower Than A Level,50-60%,0-35,N,0,120
+BBB_2014J_484490,484490,BBB,2014J,F,B,Pass,1,1,0,South Region,A Level or Equivalent,40-50%,35-55,N,0,60
+BBB_2014J_530021,530021,BBB,2014J,F,B,Withdrawn,0,0,0,London Region,A Level or Equivalent,40-50%,0-35,N,1,60
+BBB_2013J_438551,438551,BBB,2013J,M,A,Pass,1,1,0,Wales,Lower Than A Level,50-60%,0-35,N,0,60
+BBB_2013B_552420,552420,BBB,2013B,F,B,Withdrawn,0,0,0,West Midlands Region,A Level or Equivalent,0-10%,0-35,N,0,60
+BBB_2014J_653086,653086,BBB,2014J,F,B,Distinction,1,1,0,East Anglian Region,A Level or Equivalent,90-100%,35-55,Y,0,60
+BBB_2014J_568019,568019,BBB,2014J,F,B,Pass,1,1,0,South Region,Lower Than A Level,90-100%,0-35,N,0,60
+BBB_2014B_632148,632148,BBB,2014B,F,B,Fail,0,0,0,West Midlands Region,A Level or Equivalent,20-30%,0-35,Y,0,60
+BBB_2014B_625390,625390,BBB,2014B,F,B,Pass,1,1,0,South East Region,A Level or Equivalent,60-70%,0-35,N,0,60
+BBB_2014B_52426,52426,BBB,2014B,F,B,Fail,0,0,0,Scotland,Lower Than A Level,70-80%,35-55,N,1,60
+BBB_2014J_655546,655546,BBB,2014J,F,B,Pass,1,1,0,Ireland,HE Qualification,,35-55,N,0,60
+BBB_2013J_592854,592854,BBB,2013J,F,B,Pass,1,1,0,South West Region,A Level or Equivalent,70-80%,0-35,N,0,120
+BBB_2013B_563330,563330,BBB,2013B,M,A,Pass,1,1,0,London Region,A Level or Equivalent,40-50%,35-55,N,0,60
+BBB_2013B_546500,546500,BBB,2013B,F,B,Fail,0,0,0,North Western Region,A Level or Equivalent,0-10%,0-35,N,0,60
+BBB_2013J_613200,613200,BBB,2013J,F,B,Pass,1,1,0,Ireland,Lower Than A Level,30-40%,0-35,N,0,60
+BBB_2013B_550354,550354,BBB,2013B,F,B,Distinction,1,1,0,North Region,A Level or Equivalent,70-80%,0-35,N,0,60
+BBB_2013J_584892,584892,BBB,2013J,F,B,Withdrawn,0,0,0,West Midlands Region,Lower Than A Level,0-10%,0-35,N,0,60
+BBB_2014J_613102,613102,BBB,2014J,F,B,Pass,1,1,0,North Western Region,A Level or Equivalent,30-40%,35-55,N,0,60
+BBB_2014J_620115,620115,BBB,2014J,F,B,Fail,0,0,0,Wales,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2013B_560208,560208,BBB,2013B,M,A,Fail,0,0,0,East Anglian Region,Lower Than A Level,40-50%,0-35,N,0,60
+BBB_2014J_608068,608068,BBB,2014J,F,B,Withdrawn,0,0,0,South Region,A Level or Equivalent,90-100%,0-35,N,0,120
+BBB_2013J_585200,585200,BBB,2013J,F,B,Distinction,1,1,0,South East Region,Lower Than A Level,60-70%,0-35,N,0,60
+BBB_2014B_2494258,2494258,BBB,2014B,F,B,Withdrawn,0,0,0,East Anglian Region,A Level or Equivalent,10-20,0-35,N,0,120
+BBB_2013B_543473,543473,BBB,2013B,F,B,Pass,1,1,0,South East Region,Lower Than A Level,80-90%,35-55,N,0,90
+BBB_2014B_580688,580688,BBB,2014B,F,B,Distinction,1,1,0,South Region,A Level or Equivalent,60-70%,0-35,N,0,180
+BBB_2014J_1813493,1813493,BBB,2014J,M,A,Fail,0,0,0,Yorkshire Region,Lower Than A Level,30-40%,35-55,N,0,60
+BBB_2014J_623376,623376,BBB,2014J,F,B,Pass,1,1,0,South West Region,A Level or Equivalent,20-30%,0-35,N,0,60
+BBB_2014B_634075,634075,BBB,2014B,F,B,Distinction,1,1,0,West Midlands Region,A Level or Equivalent,90-100%,0-35,N,0,120
+BBB_2013B_339379,339379,BBB,2013B,F,B,Pass,1,1,0,East Midlands Region,A Level or Equivalent,40-50%,0-35,N,0,60
+BBB_2013J_575207,575207,BBB,2013J,M,A,Withdrawn,0,0,0,East Anglian Region,Lower Than A Level,10-20,35-55,N,0,120
+BBB_2013B_539345,539345,BBB,2013B,F,B,Pass,1,1,0,Scotland,HE Qualification,20-30%,0-35,N,0,60
+BBB_2014J_603731,603731,BBB,2014J,M,A,Pass,1,1,0,Scotland,A Level or Equivalent,0-10%,0-35,N,0,60
+BBB_2014J_675576,675576,BBB,2014J,F,B,Pass,1,1,0,South East Region,Lower Than A Level,20-30%,35-55,N,0,60
+BBB_2014J_692572,692572,BBB,2014J,F,B,Pass,1,1,0,Yorkshire Region,Lower Than A Level,70-80%,0-35,N,0,60
+BBB_2014J_676322,676322,BBB,2014J,F,B,Distinction,1,1,0,Scotland,Lower Than A Level,60-70%,0-35,N,0,120
+BBB_2014J_648082,648082,BBB,2014J,F,B,Fail,0,0,0,East Anglian Region,Lower Than A Level,40-50%,0-35,N,0,120
+BBB_2013J_575982,575982,BBB,2013J,M,A,Fail,0,0,0,Wales,A Level or Equivalent,40-50%,35-55,N,0,60
+BBB_2013B_542745,542745,BBB,2013B,F,B,Fail,0,0,0,East Anglian Region,HE Qualification,30-40%,35-55,N,0,60
+BBB_2014J_647393,647393,BBB,2014J,F,B,Pass,1,1,0,South Region,HE Qualification,90-100%,0-35,N,0,60
+BBB_2013J_604147,604147,BBB,2013J,F,B,Fail,0,0,0,Scotland,A Level or Equivalent,50-60%,35-55,N,0,60
+BBB_2013B_529065,529065,BBB,2013B,F,B,Pass,1,1,0,North Region,Lower Than A Level,0-10%,0-35,N,0,60
+BBB_2013J_596144,596144,BBB,2013J,F,B,Pass,1,1,0,East Anglian Region,A Level or Equivalent,40-50%,0-35,N,0,90
+BBB_2013B_557351,557351,BBB,2013B,F,B,Fail,0,0,0,South West Region,A Level or Equivalent,50-60%,0-35,N,0,90
+BBB_2014B_289993,289993,BBB,2014B,F,B,Withdrawn,0,0,0,North Region,HE Qualification,10-20,0-35,N,0,120
+BBB_2013B_561461,561461,BBB,2013B,F,B,Pass,1,1,0,South West Region,Lower Than A Level,,0-35,N,0,120
+BBB_2014J_686752,686752,BBB,2014J,F,B,Withdrawn,0,0,0,South East Region,A Level or Equivalent,50-60%,0-35,N,0,60
+BBB_2014J_648131,648131,BBB,2014J,F,B,Fail,0,0,0,London Region,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2014J_247967,247967,BBB,2014J,F,B,Withdrawn,0,0,0,West Midlands Region,Lower Than A Level,0-10%,0-35,N,0,60
+BBB_2014J_568775,568775,BBB,2014J,F,B,Withdrawn,0,0,0,East Midlands Region,Lower Than A Level,30-40%,0-35,N,1,60
+BBB_2014J_692826,692826,BBB,2014J,F,B,Fail,0,0,0,West Midlands Region,Lower Than A Level,10-20,35-55,N,0,60
+BBB_2013B_540826,540826,BBB,2013B,F,B,Fail,0,0,0,East Midlands Region,A Level or Equivalent,20-30%,0-35,N,0,60
+BBB_2013B_550403,550403,BBB,2013B,F,B,Pass,1,1,0,South West Region,A Level or Equivalent,20-30%,35-55,N,0,60
+BBB_2014J_590444,590444,BBB,2014J,F,B,Withdrawn,0,0,0,South Region,A Level or Equivalent,50-60%,35-55,N,0,60
+BBB_2013B_427704,427704,BBB,2013B,M,A,Pass,1,1,0,West Midlands Region,Lower Than A Level,0-10%,35-55,Y,0,120
+BBB_2014J_694190,694190,BBB,2014J,M,A,Pass,1,1,0,Wales,A Level or Equivalent,20-30%,0-35,Y,0,60
+BBB_2014J_2003628,2003628,BBB,2014J,F,B,Withdrawn,0,0,0,South Region,A Level or Equivalent,60-70%,35-55,N,0,60
+BBB_2013J_573441,573441,BBB,2013J,F,B,Withdrawn,0,0,0,Yorkshire Region,Lower Than A Level,0-10%,0-35,N,0,60
+BBB_2013B_2302925,2302925,BBB,2013B,F,B,Withdrawn,0,0,0,East Anglian Region,A Level or Equivalent,70-80%,35-55,N,0,60
+BBB_2014J_675161,675161,BBB,2014J,M,A,Withdrawn,0,0,0,London Region,Lower Than A Level,10-20,0-35,Y,0,120
+BBB_2014J_678080,678080,BBB,2014J,F,B,Fail,0,0,0,Wales,A Level or Equivalent,20-30%,0-35,N,0,120
+BBB_2013B_404022,404022,BBB,2013B,F,B,Pass,1,1,0,South West Region,A Level or Equivalent,30-40%,0-35,N,0,60
+BBB_2014J_681166,681166,BBB,2014J,F,B,Withdrawn,0,0,0,West Midlands Region,A Level or Equivalent,60-70%,0-35,N,0,60
+BBB_2014J_2172163,2172163,BBB,2014J,F,B,Pass,1,1,0,Ireland,Lower Than A Level,80-90%,35-55,N,1,120
+BBB_2014J_656784,656784,BBB,2014J,F,B,Fail,0,0,0,Scotland,HE Qualification,20-30%,0-35,N,0,60
+BBB_2014B_634304,634304,BBB,2014B,F,B,Pass,1,1,0,London Region,A Level or Equivalent,20-30%,0-35,N,0,60
+BBB_2013J_382920,382920,BBB,2013J,F,B,Pass,1,1,0,East Anglian Region,Lower Than A Level,50-60%,0-35,N,0,60
+BBB_2014J_627119,627119,BBB,2014J,F,B,Withdrawn,0,0,0,East Anglian Region,No Formal quals,40-50%,0-35,N,1,60
+BBB_2013B_524968,524968,BBB,2013B,F,B,Withdrawn,0,0,0,West Midlands Region,Lower Than A Level,60-70%,0-35,N,0,60
+BBB_2013J_549445,549445,BBB,2013J,F,B,Pass,1,1,0,Ireland,Lower Than A Level,30-40%,35-55,N,0,75
+BBB_2013J_57369,57369,BBB,2013J,M,A,Withdrawn,0,0,0,Ireland,Lower Than A Level,40-50%,35-55,N,0,60
+BBB_2014B_615212,615212,BBB,2014B,F,B,Withdrawn,0,0,0,East Midlands Region,A Level or Equivalent,20-30%,0-35,N,0,60
+BBB_2014J_586818,586818,BBB,2014J,F,B,Fail,0,0,0,East Anglian Region,Lower Than A Level,20-30%,0-35,Y,0,60
+BBB_2014B_614732,614732,BBB,2014B,M,A,Pass,1,1,0,South Region,A Level or Equivalent,40-50%,0-35,N,0,60
+BBB_2014J_689828,689828,BBB,2014J,M,A,Pass,1,1,0,South Region,A Level or Equivalent,90-100%,0-35,N,0,60
+BBB_2013J_500552,500552,BBB,2013J,F,B,Pass,1,1,0,London Region,Lower Than A Level,60-70%,35-55,N,0,60
+BBB_2014J_481593,481593,BBB,2014J,F,B,Distinction,1,1,0,Wales,HE Qualification,70-80%,35-55,N,0,60
+BBB_2014B_573853,573853,BBB,2014B,F,B,Pass,1,1,0,Ireland,A Level or Equivalent,,35-55,N,0,60
+BBB_2014J_574244,574244,BBB,2014J,M,A,Fail,0,0,0,Scotland,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2013B_432004,432004,BBB,2013B,F,B,Fail,0,0,0,London Region,HE Qualification,40-50%,0-35,N,0,120
+BBB_2014J_649209,649209,BBB,2014J,F,B,Withdrawn,0,0,0,East Midlands Region,Lower Than A Level,70-80%,0-35,N,0,120
+BBB_2014J_695186,695186,BBB,2014J,F,B,Fail,0,0,0,Wales,A Level or Equivalent,60-70%,0-35,N,0,60
+BBB_2014J_592733,592733,BBB,2014J,F,B,Pass,1,1,0,East Anglian Region,HE Qualification,90-100%,0-35,N,0,120
+BBB_2014J_689665,689665,BBB,2014J,F,B,Pass,1,1,0,South West Region,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2014J_610494,610494,BBB,2014J,F,B,Withdrawn,0,0,0,Wales,Lower Than A Level,10-20,0-35,N,1,60
+BBB_2014B_619508,619508,BBB,2014B,F,B,Withdrawn,0,0,0,London Region,HE Qualification,20-30%,0-35,N,0,120
+BBB_2014J_695411,695411,BBB,2014J,F,B,Withdrawn,0,0,0,South Region,Lower Than A Level,80-90%,0-35,N,0,120
+BBB_2014J_444545,444545,BBB,2014J,F,B,Pass,1,1,0,Scotland,Lower Than A Level,80-90%,35-55,N,0,60
+BBB_2013B_556988,556988,BBB,2013B,F,B,Withdrawn,0,0,0,South West Region,Lower Than A Level,50-60%,0-35,N,0,60
+BBB_2013B_71433,71433,BBB,2013B,F,B,Fail,0,0,0,North Western Region,A Level or Equivalent,50-60%,0-35,N,1,150
+BBB_2013J_606355,606355,BBB,2013J,F,B,Withdrawn,0,0,0,Yorkshire Region,A Level or Equivalent,50-60%,35-55,N,0,120
+BBB_2014J_1888723,1888723,BBB,2014J,F,B,Withdrawn,0,0,0,North Western Region,Lower Than A Level,30-40%,35-55,N,0,60
+BBB_2013J_598596,598596,BBB,2013J,F,B,Withdrawn,0,0,0,North Western Region,Lower Than A Level,0-10%,0-35,N,0,90
+BBB_2014J_648845,648845,BBB,2014J,F,B,Pass,1,1,0,Wales,Lower Than A Level,50-60%,0-35,N,0,120
+BBB_2013B_534983,534983,BBB,2013B,F,B,Pass,1,1,0,West Midlands Region,A Level or Equivalent,50-60%,0-35,N,0,120
+BBB_2013B_360188,360188,BBB,2013B,F,B,Pass,1,1,0,South West Region,Lower Than A Level,50-60%,0-35,N,0,120
+BBB_2013B_437562,437562,BBB,2013B,F,B,Pass,1,1,0,West Midlands Region,Lower Than A Level,60-70%,0-35,N,0,60
+BBB_2013B_551480,551480,BBB,2013B,F,B,Pass,1,1,0,East Anglian Region,A Level or Equivalent,10-20,0-35,N,0,60
+BBB_2014B_629671,629671,BBB,2014B,F,B,Withdrawn,0,0,0,London Region,HE Qualification,20-30%,0-35,N,0,60
+BBB_2014B_468349,468349,BBB,2014B,F,B,Fail,0,0,0,East Anglian Region,A Level or Equivalent,30-40%,0-35,N,1,60
+BBB_2014B_627550,627550,BBB,2014B,F,B,Pass,1,1,0,London Region,No Formal quals,0-10%,0-35,N,0,60
+BBB_2014B_609426,609426,BBB,2014B,F,B,Pass,1,1,0,Wales,Lower Than A Level,10-20,0-35,N,0,120
+BBB_2014J_685592,685592,BBB,2014J,F,B,Distinction,1,1,0,South Region,Lower Than A Level,90-100%,35-55,N,0,60
+BBB_2014J_534428,534428,BBB,2014J,F,B,Pass,1,1,0,North Region,Lower Than A Level,20-30%,0-35,N,1,120
+BBB_2014J_393529,393529,BBB,2014J,F,B,Withdrawn,0,0,0,Scotland,HE Qualification,30-40%,0-35,N,3,60
+BBB_2013B_92947,92947,BBB,2013B,F,B,Distinction,1,1,0,Wales,HE Qualification,10-20,35-55,N,0,120
+BBB_2014B_619980,619980,BBB,2014B,M,A,Fail,0,0,0,Scotland,HE Qualification,70-80%,0-35,N,0,120
+BBB_2013B_2418877,2418877,BBB,2013B,F,B,Withdrawn,0,0,0,Ireland,Lower Than A Level,0-10%,0-35,Y,1,60
+BBB_2013J_527799,527799,BBB,2013J,M,A,Fail,0,0,0,London Region,A Level or Equivalent,10-20,35-55,N,1,60
+BBB_2014B_630052,630052,BBB,2014B,F,B,Distinction,1,1,0,West Midlands Region,Lower Than A Level,0-10%,0-35,N,0,60
+BBB_2014J_2677541,2677541,BBB,2014J,F,B,Distinction,1,1,0,Wales,Lower Than A Level,50-60%,0-35,N,1,120
+BBB_2014B_629490,629490,BBB,2014B,F,B,Fail,0,0,0,Scotland,Lower Than A Level,0-10%,0-35,N,0,60
+BBB_2013B_523630,523630,BBB,2013B,F,B,Pass,1,1,0,South Region,Lower Than A Level,30-40%,35-55,N,0,120
+BBB_2013B_544642,544642,BBB,2013B,F,B,Pass,1,1,0,East Anglian Region,A Level or Equivalent,50-60%,0-35,N,0,60
+BBB_2013J_2299338,2299338,BBB,2013J,F,B,Distinction,1,1,0,South East Region,A Level or Equivalent,60-70%,0-35,N,0,120
+BBB_2014J_676969,676969,BBB,2014J,F,B,Fail,0,0,0,Scotland,Lower Than A Level,0-10%,0-35,N,0,60
+BBB_2013J_573986,573986,BBB,2013J,F,B,Pass,1,1,0,West Midlands Region,Lower Than A Level,0-10%,0-35,N,0,60
+BBB_2013J_386904,386904,BBB,2013J,M,A,Withdrawn,0,0,0,West Midlands Region,A Level or Equivalent,20-30%,35-55,N,0,60
+BBB_2013J_26677,26677,BBB,2013J,M,A,Withdrawn,0,0,0,West Midlands Region,A Level or Equivalent,0-10%,0-35,N,4,60
+BBB_2013J_593444,593444,BBB,2013J,F,B,Pass,1,1,0,Ireland,Lower Than A Level,30-40%,0-35,N,0,60
+BBB_2013J_1467014,1467014,BBB,2013J,M,A,Pass,1,1,0,Wales,Lower Than A Level,70-80%,35-55,N,0,60
+BBB_2013J_325887,325887,BBB,2013J,M,A,Pass,1,1,0,South East Region,Lower Than A Level,70-80%,0-35,Y,0,60
+BBB_2014J_678327,678327,BBB,2014J,F,B,Withdrawn,0,0,0,West Midlands Region,Lower Than A Level,70-80%,0-35,N,0,60
+BBB_2014B_430002,430002,BBB,2014B,M,A,Fail,0,0,0,South Region,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2014J_698432,698432,BBB,2014J,F,B,Withdrawn,0,0,0,South East Region,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2013J_515646,515646,BBB,2013J,F,B,Pass,1,1,0,East Anglian Region,Lower Than A Level,60-70%,0-35,N,0,60
+BBB_2014J_685000,685000,BBB,2014J,F,B,Withdrawn,0,0,0,South Region,A Level or Equivalent,50-60%,0-35,N,0,60
+BBB_2013J_138289,138289,BBB,2013J,F,B,Fail,0,0,0,East Midlands Region,Lower Than A Level,40-50%,0-35,N,0,60
+BBB_2014J_688600,688600,BBB,2014J,F,B,Withdrawn,0,0,0,London Region,Lower Than A Level,50-60%,0-35,N,0,120
+BBB_2013J_605930,605930,BBB,2013J,F,B,Pass,1,1,0,Ireland,Lower Than A Level,30-40%,35-55,N,0,60
+BBB_2013B_478873,478873,BBB,2013B,F,B,Fail,0,0,0,North Western Region,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2014J_686791,686791,BBB,2014J,M,A,Pass,1,1,0,East Anglian Region,A Level or Equivalent,60-70%,0-35,N,0,60
+BBB_2013B_524452,524452,BBB,2013B,F,B,Pass,1,1,0,South West Region,A Level or Equivalent,50-60%,0-35,N,0,60
+BBB_2014J_679174,679174,BBB,2014J,M,A,Pass,1,1,0,South West Region,A Level or Equivalent,60-70%,0-35,N,0,60
+BBB_2014B_1508708,1508708,BBB,2014B,M,A,Fail,0,0,0,South East Region,A Level or Equivalent,50-60%,35-55,Y,0,90
+BBB_2014B_299027,299027,BBB,2014B,F,B,Fail,0,0,0,Wales,Lower Than A Level,60-70%,35-55,N,0,120
+BBB_2014J_694155,694155,BBB,2014J,F,B,Fail,0,0,0,Wales,A Level or Equivalent,80-90%,0-35,N,0,120
+BBB_2013B_351271,351271,BBB,2013B,F,B,Pass,1,1,0,Scotland,HE Qualification,10-20,0-35,N,0,120
+BBB_2014B_1782665,1782665,BBB,2014B,F,B,Fail,0,0,0,West Midlands Region,HE Qualification,70-80%,0-35,N,0,60
+BBB_2013J_576947,576947,BBB,2013J,F,B,Fail,0,0,0,Wales,Lower Than A Level,80-90%,0-35,N,0,60
+BBB_2014J_682056,682056,BBB,2014J,F,B,Fail,0,0,0,Scotland,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2014J_513751,513751,BBB,2014J,F,B,Pass,1,1,0,North Western Region,HE Qualification,20-30%,35-55,Y,0,60
+BBB_2014J_2682693,2682693,BBB,2014J,M,A,Fail,0,0,0,North Region,Lower Than A Level,80-90%,0-35,N,0,120
+BBB_2013B_554336,554336,BBB,2013B,F,B,Pass,1,1,0,Yorkshire Region,HE Qualification,30-40%,0-35,N,0,60
+BBB_2014J_490648,490648,BBB,2014J,F,B,Fail,0,0,0,North Western Region,Lower Than A Level,10-20,0-35,N,0,120
+BBB_2014J_677498,677498,BBB,2014J,F,B,Fail,0,0,0,Wales,A Level or Equivalent,50-60%,0-35,N,0,120
+BBB_2014B_622217,622217,BBB,2014B,F,B,Fail,0,0,0,East Anglian Region,A Level or Equivalent,80-90%,0-35,N,0,60
+BBB_2013B_512805,512805,BBB,2013B,F,B,Fail,0,0,0,West Midlands Region,Lower Than A Level,0-10%,0-35,N,1,120
+BBB_2014B_63721,63721,BBB,2014B,F,B,Distinction,1,1,0,South East Region,Lower Than A Level,80-90%,0-35,Y,0,60
+BBB_2013B_78645,78645,BBB,2013B,F,B,Fail,0,0,0,East Anglian Region,Lower Than A Level,40-50%,0-35,N,0,60
+BBB_2014J_623319,623319,BBB,2014J,M,A,Withdrawn,0,0,0,North Western Region,HE Qualification,0-10%,0-35,N,0,180
+BBB_2014B_598313,598313,BBB,2014B,M,A,Withdrawn,0,0,0,London Region,A Level or Equivalent,40-50%,35-55,N,0,120
+BBB_2013B_545392,545392,BBB,2013B,F,B,Pass,1,1,0,Yorkshire Region,A Level or Equivalent,10-20,0-35,N,0,60
+BBB_2014J_651586,651586,BBB,2014J,F,B,Withdrawn,0,0,0,East Midlands Region,Lower Than A Level,30-40%,0-35,N,0,120
+BBB_2014J_691312,691312,BBB,2014J,F,B,Pass,1,1,0,Ireland,A Level or Equivalent,70-80%,0-35,N,0,60
+BBB_2014J_609203,609203,BBB,2014J,F,B,Fail,0,0,0,West Midlands Region,Lower Than A Level,50-60%,35-55,N,0,60
+BBB_2013B_535760,535760,BBB,2013B,F,B,Pass,1,1,0,East Anglian Region,A Level or Equivalent,30-40%,0-35,N,0,60
+BBB_2013B_556692,556692,BBB,2013B,F,B,Withdrawn,0,0,0,South Region,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2013B_2439201,2439201,BBB,2013B,F,B,Pass,1,1,0,North Region,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2013B_548488,548488,BBB,2013B,F,B,Withdrawn,0,0,0,South East Region,A Level or Equivalent,50-60%,0-35,Y,0,60
+BBB_2014J_631230,631230,BBB,2014J,F,B,Pass,1,1,0,Yorkshire Region,A Level or Equivalent,10-20,0-35,N,0,60
+BBB_2014J_647511,647511,BBB,2014J,F,B,Fail,0,0,0,Wales,A Level or Equivalent,50-60%,0-35,N,0,60
+BBB_2014B_521957,521957,BBB,2014B,F,B,Withdrawn,0,0,0,Ireland,Lower Than A Level,70-80%,0-35,N,3,120
+BBB_2013J_595959,595959,BBB,2013J,M,A,Fail,0,0,0,Wales,Lower Than A Level,0-10%,35-55,N,0,60
+BBB_2013B_550923,550923,BBB,2013B,F,B,Pass,1,1,0,London Region,Lower Than A Level,30-40%,0-35,N,0,120
+BBB_2013J_600967,600967,BBB,2013J,F,B,Fail,0,0,0,London Region,A Level or Equivalent,20-30%,35-55,N,0,120
+BBB_2014B_291848,291848,BBB,2014B,F,B,Fail,0,0,0,Wales,HE Qualification,30-40%,35-55,N,3,120
+BBB_2014B_566181,566181,BBB,2014B,F,B,Pass,1,1,0,South West Region,A Level or Equivalent,50-60%,0-35,N,0,60
+BBB_2014J_650746,650746,BBB,2014J,F,B,Withdrawn,0,0,0,East Anglian Region,Lower Than A Level,70-80%,0-35,N,0,180
+BBB_2013B_554352,554352,BBB,2013B,F,B,Pass,1,1,0,Wales,Lower Than A Level,70-80%,0-35,N,0,120
+BBB_2014J_681016,681016,BBB,2014J,F,B,Withdrawn,0,0,0,South East Region,Lower Than A Level,60-70%,0-35,N,0,120
+BBB_2014B_635244,635244,BBB,2014B,M,A,Pass,1,1,0,Wales,A Level or Equivalent,80-90%,35-55,N,0,60
+BBB_2013J_575100,575100,BBB,2013J,F,B,Fail,0,0,0,London Region,Lower Than A Level,30-40%,0-35,N,0,120
+BBB_2013J_609047,609047,BBB,2013J,F,B,Fail,0,0,0,London Region,A Level or Equivalent,0-10%,0-35,N,0,60
+BBB_2013J_516447,516447,BBB,2013J,F,B,Withdrawn,0,0,0,Scotland,Lower Than A Level,30-40%,0-35,N,2,120
+BBB_2014J_598282,598282,BBB,2014J,F,B,Pass,1,1,0,Ireland,Lower Than A Level,90-100%,0-35,N,1,60
+BBB_2014J_510068,510068,BBB,2014J,F,B,Fail,0,0,0,Scotland,HE Qualification,0-10%,0-35,N,1,120
+BBB_2014B_616526,616526,BBB,2014B,F,B,Fail,0,0,0,West Midlands Region,A Level or Equivalent,20-30%,0-35,Y,0,60
+BBB_2013B_535820,535820,BBB,2013B,F,B,Pass,1,1,0,South West Region,A Level or Equivalent,70-80%,0-35,N,0,120
+BBB_2014J_689397,689397,BBB,2014J,F,B,Fail,0,0,0,Ireland,A Level or Equivalent,90-100%,0-35,N,0,60
+BBB_2014B_598495,598495,BBB,2014B,F,B,Fail,0,0,0,Scotland,HE Qualification,0-10%,0-35,N,0,60
+BBB_2014J_590668,590668,BBB,2014J,F,B,Pass,1,1,0,Yorkshire Region,Lower Than A Level,50-60%,35-55,N,1,120
+BBB_2013B_558820,558820,BBB,2013B,F,B,Fail,0,0,0,Scotland,Lower Than A Level,40-50%,0-35,N,0,60
+BBB_2014J_679559,679559,BBB,2014J,F,B,Pass,1,1,0,East Anglian Region,A Level or Equivalent,20-30%,0-35,N,0,60
+BBB_2013J_574648,574648,BBB,2013J,F,B,Distinction,1,1,0,East Anglian Region,A Level or Equivalent,40-50%,35-55,N,0,60
+BBB_2014J_697417,697417,BBB,2014J,M,A,Pass,1,1,0,West Midlands Region,Lower Than A Level,0-10%,0-35,N,0,60
+BBB_2013B_523789,523789,BBB,2013B,F,B,Withdrawn,0,0,0,London Region,A Level or Equivalent,20-30%,0-35,N,1,240
+BBB_2013B_357928,357928,BBB,2013B,F,B,Fail,0,0,0,Wales,A Level or Equivalent,10-20,0-35,N,0,90
+BBB_2013J_385040,385040,BBB,2013J,F,B,Fail,0,0,0,West Midlands Region,A Level or Equivalent,40-50%,0-35,Y,0,120
+BBB_2014J_699153,699153,BBB,2014J,F,B,Pass,1,1,0,Wales,Lower Than A Level,80-90%,0-35,N,0,60
+BBB_2014B_630497,630497,BBB,2014B,F,B,Fail,0,0,0,East Midlands Region,A Level or Equivalent,20-30%,0-35,N,0,60
+BBB_2014J_637388,637388,BBB,2014J,F,B,Fail,0,0,0,South Region,Lower Than A Level,60-70%,0-35,N,0,60
+BBB_2014J_678680,678680,BBB,2014J,F,B,Pass,1,1,0,South Region,A Level or Equivalent,90-100%,35-55,N,0,60
+BBB_2013J_580854,580854,BBB,2013J,F,B,Withdrawn,0,0,0,East Anglian Region,Lower Than A Level,20-30%,35-55,N,0,60
+BBB_2014B_562642,562642,BBB,2014B,M,A,Fail,0,0,0,South West Region,Lower Than A Level,90-100%,35-55,N,0,60
+BBB_2013J_476278,476278,BBB,2013J,F,B,Pass,1,1,0,Scotland,HE Qualification,70-80%,35-55,N,0,60
+BBB_2013J_2192113,2192113,BBB,2013J,M,A,Withdrawn,0,0,0,Scotland,HE Qualification,40-50%,35-55,Y,0,60
+BBB_2014J_688167,688167,BBB,2014J,F,B,Pass,1,1,0,West Midlands Region,A Level or Equivalent,80-90%,0-35,N,0,150
+BBB_2013B_532140,532140,BBB,2013B,F,B,Pass,1,1,0,West Midlands Region,A Level or Equivalent,30-40%,35-55,N,1,270
+BBB_2013J_580094,580094,BBB,2013J,F,B,Pass,1,1,0,North Region,Lower Than A Level,10-20,0-35,N,0,120
+BBB_2013J_63044,63044,BBB,2013J,F,B,Fail,0,0,0,London Region,Lower Than A Level,20-30%,0-35,N,1,120
+BBB_2014J_698586,698586,BBB,2014J,F,B,Withdrawn,0,0,0,Yorkshire Region,Lower Than A Level,40-50%,0-35,Y,0,120
+BBB_2014J_684681,684681,BBB,2014J,F,B,Fail,0,0,0,Wales,Lower Than A Level,30-40%,0-35,N,0,60
+BBB_2013J_497925,497925,BBB,2013J,F,B,Withdrawn,0,0,0,East Anglian Region,Lower Than A Level,40-50%,0-35,N,1,60
+BBB_2013B_2446144,2446144,BBB,2013B,F,B,Pass,1,1,0,South West Region,A Level or Equivalent,60-70%,35-55,N,0,60
+BBB_2013J_191269,191269,BBB,2013J,F,B,Pass,1,1,0,East Anglian Region,Lower Than A Level,30-40%,35-55,N,0,60
+BBB_2014B_632578,632578,BBB,2014B,M,A,Pass,1,1,0,Wales,Lower Than A Level,60-70%,35-55,N,0,60
+BBB_2013J_581431,581431,BBB,2013J,F,B,Fail,0,0,0,Ireland,Lower Than A Level,40-50%,0-35,N,0,75
+BBB_2014B_622974,622974,BBB,2014B,F,B,Pass,1,1,0,East Midlands Region,A Level or Equivalent,20-30%,35-55,N,0,60
+BBB_2014B_620546,620546,BBB,2014B,F,B,Withdrawn,0,0,0,West Midlands Region,Lower Than A Level,0-10%,0-35,N,0,60
+BBB_2014B_592193,592193,BBB,2014B,F,B,Distinction,1,1,0,South East Region,A Level or Equivalent,80-90%,35-55,N,0,120
+BBB_2014J_654206,654206,BBB,2014J,F,B,Pass,1,1,0,East Anglian Region,Lower Than A Level,80-90%,0-35,N,0,120
+BBB_2014J_1784816,1784816,BBB,2014J,F,B,Pass,1,1,0,West Midlands Region,A Level or Equivalent,10-20,35-55,N,0,120
+BBB_2013B_544408,544408,BBB,2013B,F,B,Fail,0,0,0,East Midlands Region,A Level or Equivalent,30-40%,0-35,N,0,60
+BBB_2013B_494304,494304,BBB,2013B,F,B,Fail,0,0,0,South East Region,Lower Than A Level,0-10%,0-35,N,1,210
+BBB_2013J_619941,619941,BBB,2013J,F,B,Pass,1,1,0,East Anglian Region,HE Qualification,40-50%,35-55,N,0,60
+BBB_2013B_256215,256215,BBB,2013B,F,B,Withdrawn,0,0,0,East Anglian Region,Lower Than A Level,50-60%,35-55,Y,0,150
+BBB_2013J_591912,591912,BBB,2013J,F,B,Withdrawn,0,0,0,North Western Region,A Level or Equivalent,0-10%,35-55,N,0,60
+BBB_2013J_596242,596242,BBB,2013J,F,B,Pass,1,1,0,Wales,A Level or Equivalent,40-50%,35-55,N,0,60
+BBB_2013J_570177,570177,BBB,2013J,F,B,Withdrawn,0,0,0,Ireland,Lower Than A Level,70-80%,0-35,N,0,180
+BBB_2013J_606972,606972,BBB,2013J,F,B,Withdrawn,0,0,0,Scotland,Lower Than A Level,0-10%,0-35,N,0,60
+BBB_2013J_586996,586996,BBB,2013J,F,B,Distinction,1,1,0,Wales,A Level or Equivalent,90-100%,35-55,N,0,60
+BBB_2014J_303165,303165,BBB,2014J,F,B,Pass,1,1,0,Yorkshire Region,Lower Than A Level,10-20,35-55,N,0,60
+BBB_2013B_542012,542012,BBB,2013B,F,B,Fail,0,0,0,East Midlands Region,Lower Than A Level,50-60%,0-35,N,0,60
+BBB_2014B_624406,624406,BBB,2014B,F,B,Distinction,1,1,0,South Region,Lower Than A Level,90-100%,35-55,N,0,60
+BBB_2014J_651659,651659,BBB,2014J,F,B,Pass,1,1,0,London Region,Lower Than A Level,20-30%,35-55,N,0,120
+BBB_2013J_574002,574002,BBB,2013J,F,B,Fail,0,0,0,South Region,Lower Than A Level,20-30%,0-35,N,0,120
+BBB_2014B_487226,487226,BBB,2014B,F,B,Withdrawn,0,0,0,West Midlands Region,A Level or Equivalent,80-90%,0-35,N,1,120
+BBB_2014B_469664,469664,BBB,2014B,F,B,Withdrawn,0,0,0,East Midlands Region,Lower Than A Level,40-50%,0-35,N,0,210
+BBB_2014B_478317,478317,BBB,2014B,F,B,Fail,0,0,0,Scotland,Lower Than A Level,0-10%,0-35,N,2,90
+BBB_2014J_547408,547408,BBB,2014J,F,B,Pass,1,1,0,Scotland,A Level or Equivalent,20-30%,0-35,N,0,120
+BBB_2014J_473095,473095,BBB,2014J,F,B,Pass,1,1,0,East Midlands Region,A Level or Equivalent,40-50%,35-55,N,3,120
+BBB_2013J_607080,607080,BBB,2013J,F,B,Withdrawn,0,0,0,Scotland,HE Qualification,40-50%,0-35,N,0,150
+BBB_2013J_496764,496764,BBB,2013J,F,B,Distinction,1,1,0,Yorkshire Region,No Formal quals,30-40%,0-35,N,0,120
+BBB_2014J_683120,683120,BBB,2014J,F,B,Pass,1,1,0,Wales,HE Qualification,60-70%,0-35,N,0,60
+BBB_2013B_536216,536216,BBB,2013B,F,B,Fail,0,0,0,Ireland,Lower Than A Level,0-10%,35-55,N,0,60
+BBB_2014B_610416,610416,BBB,2014B,F,B,Pass,1,1,0,South East Region,Lower Than A Level,30-40%,35-55,N,0,60
+BBB_2013B_514987,514987,BBB,2013B,F,B,Pass,1,1,0,West Midlands Region,A Level or Equivalent,0-10%,0-35,N,1,120
+BBB_2014J_653262,653262,BBB,2014J,M,A,Pass,1,1,0,South West Region,A Level or Equivalent,20-30%,0-35,N,0,120
+BBB_2013B_514140,514140,BBB,2013B,M,A,Pass,1,1,0,Wales,Lower Than A Level,50-60%,35-55,N,0,120
+BBB_2014B_2221869,2221869,BBB,2014B,F,B,Fail,0,0,0,Wales,HE Qualification,10-20,35-55,N,0,150
+BBB_2013J_485006,485006,BBB,2013J,F,B,Pass,1,1,0,Wales,Lower Than A Level,10-20,35-55,Y,0,60
+BBB_2014J_685830,685830,BBB,2014J,F,B,Pass,1,1,0,East Anglian Region,HE Qualification,80-90%,0-35,N,0,60
+BBB_2014J_391937,391937,BBB,2014J,F,B,Pass,1,1,0,South West Region,A Level or Equivalent,60-70%,35-55,N,0,60
+BBB_2014J_691509,691509,BBB,2014J,F,B,Withdrawn,0,0,0,London Region,A Level or Equivalent,10-20,0-35,N,0,120
+BBB_2013B_430357,430357,BBB,2013B,F,B,Fail,0,0,0,Yorkshire Region,A Level or Equivalent,0-10%,0-35,N,2,120
+BBB_2014B_629029,629029,BBB,2014B,M,A,Withdrawn,0,0,0,West Midlands Region,Lower Than A Level,0-10%,35-55,N,0,150
+BBB_2014J_689147,689147,BBB,2014J,F,B,Pass,1,1,0,Ireland,A Level or Equivalent,30-40%,0-35,N,0,60
+BBB_2013J_532615,532615,BBB,2013J,F,B,Distinction,1,1,0,Wales,Lower Than A Level,50-60%,35-55,N,0,120
+BBB_2014B_446755,446755,BBB,2014B,F,B,Distinction,1,1,0,South West Region,HE Qualification,30-40%,35-55,N,0,60
+BBB_2014J_2578532,2578532,BBB,2014J,F,B,Pass,1,1,0,South Region,Lower Than A Level,10-20,0-35,N,0,120
+BBB_2014B_630451,630451,BBB,2014B,F,B,Distinction,1,1,0,East Midlands Region,A Level or Equivalent,90-100%,35-55,N,0,60
+BBB_2014J_70750,70750,BBB,2014J,F,B,Withdrawn,0,0,0,London Region,Lower Than A Level,50-60%,0-35,N,1,120
+BBB_2013B_522249,522249,BBB,2013B,F,B,Pass,1,1,0,South West Region,Lower Than A Level,40-50%,35-55,N,0,60
+BBB_2013J_560490,560490,BBB,2013J,F,B,Withdrawn,0,0,0,South Region,A Level or Equivalent,80-90%,0-35,N,0,210
+BBB_2013J_388549,388549,BBB,2013J,F,B,Fail,0,0,0,Wales,A Level or Equivalent,0-10%,0-35,N,2,60
+BBB_2013B_550077,550077,BBB,2013B,F,B,Pass,1,1,0,West Midlands Region,A Level or Equivalent,90-100%,0-35,N,0,60
+BBB_2014B_590812,590812,BBB,2014B,F,B,Fail,0,0,0,Wales,Lower Than A Level,0-10%,35-55,N,1,120
+BBB_2013J_593930,593930,BBB,2013J,F,B,Withdrawn,0,0,0,East Anglian Region,Lower Than A Level,80-90%,35-55,Y,0,60
+BBB_2013J_566369,566369,BBB,2013J,F,B,Pass,1,1,0,West Midlands Region,A Level or Equivalent,10-20,35-55,N,0,60
+BBB_2014B_631354,631354,BBB,2014B,F,B,Withdrawn,0,0,0,South West Region,A Level or Equivalent,10-20,0-35,N,0,120
+BBB_2013J_505413,505413,BBB,2013J,F,B,Pass,1,1,0,South Region,A Level or Equivalent,80-90%,35-55,N,0,60
+BBB_2014J_578418,578418,BBB,2014J,F,B,Withdrawn,0,0,0,Scotland,A Level or Equivalent,20-30%,0-35,N,0,60
+BBB_2014B_626928,626928,BBB,2014B,F,B,Pass,1,1,0,South West Region,A Level or Equivalent,30-40%,35-55,N,0,60
+BBB_2014B_574944,574944,BBB,2014B,F,B,Withdrawn,0,0,0,West Midlands Region,A Level or Equivalent,20-30%,0-35,N,0,60
+BBB_2013J_518496,518496,BBB,2013J,F,B,Pass,1,1,0,East Anglian Region,Lower Than A Level,70-80%,35-55,Y,0,60
+BBB_2013J_572739,572739,BBB,2013J,F,B,Withdrawn,0,0,0,Wales,Lower Than A Level,40-50%,0-35,N,0,120
+BBB_2014B_2436707,2436707,BBB,2014B,M,A,Fail,0,0,0,South Region,A Level or Equivalent,10-20,0-35,N,0,60
+BBB_2014B_103535,103535,BBB,2014B,F,B,Pass,1,1,0,South West Region,A Level or Equivalent,40-50%,0-35,N,0,120
+BBB_2014B_631225,631225,BBB,2014B,M,A,Pass,1,1,0,South East Region,A Level or Equivalent,70-80%,0-35,N,0,60
+BBB_2014J_647762,647762,BBB,2014J,F,B,Pass,1,1,0,South East Region,Lower Than A Level,90-100%,35-55,N,0,60
+BBB_2014J_678213,678213,BBB,2014J,F,B,Withdrawn,0,0,0,South West Region,A Level or Equivalent,20-30%,0-35,Y,0,60
+BBB_2013J_314850,314850,BBB,2013J,F,B,Withdrawn,0,0,0,South East Region,A Level or Equivalent,70-80%,35-55,N,1,120
+BBB_2013J_25629,25629,BBB,2013J,F,B,Withdrawn,0,0,0,Scotland,Lower Than A Level,20-30%,0-35,N,0,120
+BBB_2014J_576445,576445,BBB,2014J,F,B,Withdrawn,0,0,0,East Midlands Region,Lower Than A Level,10-20,35-55,Y,0,120
+BBB_2013J_509236,509236,BBB,2013J,F,B,Fail,0,0,0,Yorkshire Region,A Level or Equivalent,30-40%,0-35,N,0,180
+BBB_2014B_624738,624738,BBB,2014B,M,A,Pass,1,1,0,Yorkshire Region,Lower Than A Level,10-20,0-35,N,0,60
+BBB_2013J_349554,349554,BBB,2013J,F,B,Pass,1,1,0,Scotland,HE Qualification,80-90%,35-55,N,0,60
+BBB_2014B_634491,634491,BBB,2014B,F,B,Pass,1,1,0,East Anglian Region,A Level or Equivalent,70-80%,35-55,N,0,60
+BBB_2013J_2463950,2463950,BBB,2013J,F,B,Pass,1,1,0,London Region,A Level or Equivalent,60-70%,0-35,N,1,120
+BBB_2014J_623042,623042,BBB,2014J,F,B,Fail,0,0,0,West Midlands Region,A Level or Equivalent,0-10%,0-35,N,1,60
+BBB_2013J_2617839,2617839,BBB,2013J,F,B,Pass,1,1,0,Wales,A Level or Equivalent,70-80%,0-35,N,0,60
+BBB_2014B_473095,473095,BBB,2014B,F,B,Withdrawn,0,0,0,East Midlands Region,A Level or Equivalent,40-50%,0-35,N,2,120
+BBB_2014B_625180,625180,BBB,2014B,F,B,Fail,0,0,0,South Region,HE Qualification,50-60%,0-35,N,0,60
+BBB_2013B_398084,398084,BBB,2013B,F,B,Pass,1,1,0,London Region,Lower Than A Level,10-20,0-35,N,0,60
+BBB_2013B_365488,365488,BBB,2013B,F,B,Fail,0,0,0,Wales,A Level or Equivalent,60-70%,0-35,N,1,60
+BBB_2013J_287309,287309,BBB,2013J,F,B,Pass,1,1,0,South West Region,Lower Than A Level,40-50%,0-35,N,2,120
+BBB_2014B_612561,612561,BBB,2014B,F,B,Withdrawn,0,0,0,West Midlands Region,Lower Than A Level,60-70%,0-35,N,0,60
+BBB_2013J_485534,485534,BBB,2013J,F,B,Distinction,1,1,0,Wales,A Level or Equivalent,0-10%,35-55,N,0,60
+BBB_2013J_527393,527393,BBB,2013J,F,B,Pass,1,1,0,Scotland,Lower Than A Level,40-50%,0-35,N,0,60
+BBB_2013B_504689,504689,BBB,2013B,F,B,Withdrawn,0,0,0,Yorkshire Region,A Level or Equivalent,50-60%,0-35,N,0,120
+BBB_2014J_642595,642595,BBB,2014J,F,B,Pass,1,1,0,South Region,A Level or Equivalent,70-80%,35-55,N,0,60
+BBB_2014B_622345,622345,BBB,2014B,F,B,Pass,1,1,0,East Midlands Region,A Level or Equivalent,40-50%,0-35,N,0,60
+BBB_2013J_559139,559139,BBB,2013J,F,B,Withdrawn,0,0,0,East Anglian Region,A Level or Equivalent,30-40%,35-55,N,0,60
+BBB_2013J_583170,583170,BBB,2013J,M,A,Distinction,1,1,0,South West Region,A Level or Equivalent,30-40%,0-35,N,0,60
+BBB_2014J_680862,680862,BBB,2014J,F,B,Pass,1,1,0,West Midlands Region,Lower Than A Level,10-20,0-35,Y,0,60
+BBB_2013J_573810,573810,BBB,2013J,F,B,Withdrawn,0,0,0,Yorkshire Region,Lower Than A Level,10-20,0-35,N,0,120
+BBB_2013J_552515,552515,BBB,2013J,F,B,Pass,1,1,0,South West Region,A Level or Equivalent,30-40%,35-55,N,0,120
+BBB_2013J_2578802,2578802,BBB,2013J,F,B,Pass,1,1,0,Yorkshire Region,Lower Than A Level,60-70%,0-35,N,0,120
+BBB_2013J_599037,599037,BBB,2013J,F,B,Pass,1,1,0,South East Region,Lower Than A Level,40-50%,35-55,Y,0,60
+BBB_2014J_694342,694342,BBB,2014J,F,B,Pass,1,1,0,South Region,HE Qualification,60-70%,35-55,N,0,60
+BBB_2014J_614405,614405,BBB,2014J,M,A,Withdrawn,0,0,0,East Anglian Region,A Level or Equivalent,50-60%,0-35,N,0,60
+BBB_2013J_578953,578953,BBB,2013J,F,B,Withdrawn,0,0,0,North Western Region,Lower Than A Level,10-20,0-35,N,0,120
+BBB_2014B_617225,617225,BBB,2014B,F,B,Pass,1,1,0,North Region,Lower Than A Level,10-20,35-55,N,0,60
+BBB_2013J_2271743,2271743,BBB,2013J,F,B,Withdrawn,0,0,0,Wales,A Level or Equivalent,0-10%,0-35,Y,1,180
+BBB_2013J_607888,607888,BBB,2013J,F,B,Withdrawn,0,0,0,East Anglian Region,No Formal quals,40-50%,0-35,N,0,90
+BBB_2013B_476709,476709,BBB,2013B,F,B,Pass,1,1,0,South East Region,HE Qualification,80-90%,0-35,N,0,120
+BBB_2013B_423871,423871,BBB,2013B,F,B,Pass,1,1,0,Yorkshire Region,A Level or Equivalent,0-10%,0-35,N,0,90
+BBB_2013B_75399,75399,BBB,2013B,F,B,Pass,1,1,0,East Anglian Region,Lower Than A Level,60-70%,35-55,N,0,60
+BBB_2014B_439925,439925,BBB,2014B,F,B,Withdrawn,0,0,0,London Region,Lower Than A Level,40-50%,0-35,N,0,60
+BBB_2013J_584342,584342,BBB,2013J,F,B,Withdrawn,0,0,0,West Midlands Region,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2013J_556062,556062,BBB,2013J,F,B,Fail,0,0,0,North Western Region,A Level or Equivalent,20-30%,0-35,N,0,60
+BBB_2013J_494214,494214,BBB,2013J,F,B,Distinction,1,1,0,South West Region,A Level or Equivalent,50-60%,35-55,N,0,60
+BBB_2014B_477779,477779,BBB,2014B,F,B,Fail,0,0,0,London Region,A Level or Equivalent,10-20,0-35,N,0,120
+BBB_2014J_698201,698201,BBB,2014J,F,B,Pass,1,1,0,Wales,Lower Than A Level,50-60%,35-55,N,0,60
+BBB_2013B_559475,559475,BBB,2013B,F,B,Pass,1,1,0,South East Region,A Level or Equivalent,80-90%,0-35,N,0,120
+BBB_2014B_618882,618882,BBB,2014B,F,B,Pass,1,1,0,North Western Region,A Level or Equivalent,10-20,0-35,Y,0,60
+BBB_2013J_603113,603113,BBB,2013J,F,B,Withdrawn,0,0,0,South East Region,A Level or Equivalent,10-20,0-35,Y,0,120
+BBB_2014J_684055,684055,BBB,2014J,F,B,Pass,1,1,0,South East Region,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2013J_602245,602245,BBB,2013J,F,B,Pass,1,1,0,Scotland,Lower Than A Level,10-20,35-55,N,0,60
+BBB_2013J_575560,575560,BBB,2013J,F,B,Distinction,1,1,0,East Anglian Region,A Level or Equivalent,90-100%,35-55,N,0,60
+BBB_2014B_624350,624350,BBB,2014B,F,B,Withdrawn,0,0,0,East Midlands Region,Lower Than A Level,10-20,0-35,N,0,60
+BBB_2014B_633193,633193,BBB,2014B,F,B,Pass,1,1,0,East Midlands Region,Lower Than A Level,30-40%,0-35,N,0,60
+BBB_2014J_631416,631416,BBB,2014J,F,B,Pass,1,1,0,Yorkshire Region,A Level or Equivalent,10-20,0-35,N,0,60
+BBB_2013B_515311,515311,BBB,2013B,F,B,Pass,1,1,0,West Midlands Region,A Level or Equivalent,20-30%,0-35,Y,1,120
+BBB_2013J_532868,532868,BBB,2013J,F,B,Fail,0,0,0,East Anglian Region,Lower Than A Level,70-80%,0-35,N,0,60
+BBB_2013J_389471,389471,BBB,2013J,F,B,Fail,0,0,0,East Midlands Region,Lower Than A Level,10-20,0-35,Y,2,60
+BBB_2014J_677411,677411,BBB,2014J,F,B,Withdrawn,0,0,0,North Region,Lower Than A Level,30-40%,0-35,N,0,60
+BBB_2014J_694792,694792,BBB,2014J,F,B,Pass,1,1,0,East Anglian Region,Lower Than A Level,20-30%,0-35,N,0,120
+BBB_2013B_476855,476855,BBB,2013B,F,B,Withdrawn,0,0,0,South Region,Lower Than A Level,40-50%,0-35,N,1,180
+BBB_2014B_186565,186565,BBB,2014B,F,B,Fail,0,0,0,East Midlands Region,A Level or Equivalent,10-20,0-35,N,1,120
+BBB_2013J_601472,601472,BBB,2013J,F,B,Withdrawn,0,0,0,Ireland,Lower Than A Level,0-10%,35-55,N,0,60
+BBB_2014J_698203,698203,BBB,2014J,F,B,Pass,1,1,0,Wales,HE Qualification,30-40%,0-35,N,0,60
+BBB_2013J_614072,614072,BBB,2013J,F,B,Pass,1,1,0,Wales,A Level or Equivalent,70-80%,0-35,N,0,60
+BBB_2014B_585727,585727,BBB,2014B,F,B,Fail,0,0,0,East Anglian Region,A Level or Equivalent,90-100%,35-55,N,0,120
+BBB_2013B_422752,422752,BBB,2013B,F,B,Withdrawn,0,0,0,North Western Region,Lower Than A Level,30-40%,0-35,Y,0,60
+BBB_2014J_2285017,2285017,BBB,2014J,F,B,Withdrawn,0,0,0,Scotland,A Level or Equivalent,10-20,0-35,N,0,60
+BBB_2013J_564105,564105,BBB,2013J,F,B,Pass,1,1,0,South West Region,A Level or Equivalent,70-80%,0-35,N,0,60
+BBB_2013J_509607,509607,BBB,2013J,F,B,Distinction,1,1,0,North Region,Lower Than A Level,,0-35,N,1,60
+BBB_2013B_559452,559452,BBB,2013B,M,A,Distinction,1,1,0,South Region,HE Qualification,80-90%,0-35,N,0,120
+BBB_2014J_484158,484158,BBB,2014J,M,A,Withdrawn,0,0,0,Scotland,HE Qualification,50-60%,35-55,N,0,120
+BBB_2013J_566813,566813,BBB,2013J,F,B,Pass,1,1,0,East Anglian Region,A Level or Equivalent,30-40%,0-35,N,0,60
+BBB_2013B_536856,536856,BBB,2013B,F,B,Fail,0,0,0,Wales,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2014J_681289,681289,BBB,2014J,F,B,Fail,0,0,0,East Anglian Region,A Level or Equivalent,10-20,0-35,N,0,60
+BBB_2014B_624950,624950,BBB,2014B,F,B,Withdrawn,0,0,0,East Anglian Region,A Level or Equivalent,0-10%,0-35,N,0,120
+BBB_2014B_429099,429099,BBB,2014B,F,B,Distinction,1,1,0,Yorkshire Region,A Level or Equivalent,40-50%,0-35,N,2,90
+BBB_2014B_2437428,2437428,BBB,2014B,F,B,Fail,0,0,0,South West Region,A Level or Equivalent,60-70%,0-35,N,0,90
+BBB_2013J_593706,593706,BBB,2013J,F,B,Fail,0,0,0,Ireland,Lower Than A Level,10-20,0-35,N,0,60
+BBB_2013B_552535,552535,BBB,2013B,M,A,Pass,1,1,0,West Midlands Region,A Level or Equivalent,40-50%,0-35,N,0,60
+BBB_2013J_369507,369507,BBB,2013J,F,B,Withdrawn,0,0,0,East Midlands Region,Lower Than A Level,0-10%,0-35,N,0,60
+BBB_2013J_482356,482356,BBB,2013J,F,B,Pass,1,1,0,Wales,Lower Than A Level,10-20,0-35,N,0,90
+BBB_2013B_552017,552017,BBB,2013B,F,B,Distinction,1,1,0,West Midlands Region,HE Qualification,20-30%,35-55,N,0,60
+BBB_2014J_656566,656566,BBB,2014J,F,B,Fail,0,0,0,London Region,A Level or Equivalent,10-20,0-35,N,0,180
+BBB_2013J_2522312,2522312,BBB,2013J,M,A,Withdrawn,0,0,0,South Region,Lower Than A Level,90-100%,35-55,N,0,60
+BBB_2014J_598035,598035,BBB,2014J,F,B,Pass,1,1,0,East Midlands Region,Lower Than A Level,30-40%,0-35,N,0,60
+BBB_2013B_553840,553840,BBB,2013B,F,B,Distinction,1,1,0,North Western Region,A Level or Equivalent,30-40%,35-55,Y,0,60
+BBB_2014J_504066,504066,BBB,2014J,F,B,Withdrawn,0,0,0,East Midlands Region,Lower Than A Level,50-60%,0-35,N,0,120
+BBB_2013B_2521745,2521745,BBB,2013B,F,B,Fail,0,0,0,Yorkshire Region,Lower Than A Level,0-10%,0-35,N,0,60
+BBB_2014B_557029,557029,BBB,2014B,M,A,Fail,0,0,0,East Midlands Region,HE Qualification,10-20,35-55,N,0,130
+BBB_2013J_546195,546195,BBB,2013J,M,A,Fail,0,0,0,London Region,Lower Than A Level,0-10%,0-35,N,0,150
+BBB_2013J_344568,344568,BBB,2013J,F,B,Pass,1,1,0,West Midlands Region,Lower Than A Level,70-80%,0-35,N,0,60
+BBB_2013B_87604,87604,BBB,2013B,F,B,Withdrawn,0,0,0,West Midlands Region,A Level or Equivalent,30-40%,0-35,N,0,180
+BBB_2013J_607493,607493,BBB,2013J,M,A,Pass,1,1,0,Ireland,Lower Than A Level,50-60%,0-35,N,0,60
+BBB_2014J_650451,650451,BBB,2014J,F,B,Withdrawn,0,0,0,Wales,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2014J_653193,653193,BBB,2014J,F,B,Withdrawn,0,0,0,London Region,Lower Than A Level,20-30%,35-55,N,0,60
+BBB_2013J_2229783,2229783,BBB,2013J,F,B,Fail,0,0,0,London Region,HE Qualification,0-10%,35-55,N,0,60
+BBB_2013J_563022,563022,BBB,2013J,F,B,Withdrawn,0,0,0,Yorkshire Region,Lower Than A Level,20-30%,0-35,N,0,120
+BBB_2013J_37622,37622,BBB,2013J,F,B,Pass,1,1,0,Scotland,HE Qualification,80-90%,0-35,N,1,120
+BBB_2014B_575251,575251,BBB,2014B,F,B,Withdrawn,0,0,0,Scotland,A Level or Equivalent,0-10%,35-55,Y,0,120
+BBB_2013B_563157,563157,BBB,2013B,F,B,Withdrawn,0,0,0,London Region,A Level or Equivalent,30-40%,35-55,N,0,60
+BBB_2013B_91322,91322,BBB,2013B,F,B,Pass,1,1,0,Yorkshire Region,A Level or Equivalent,40-50%,35-55,N,0,60
+BBB_2014J_622117,622117,BBB,2014J,F,B,Withdrawn,0,0,0,London Region,A Level or Equivalent,60-70%,0-35,N,0,60
+BBB_2014J_689112,689112,BBB,2014J,F,B,Withdrawn,0,0,0,Ireland,Lower Than A Level,20-30%,35-55,N,0,60
+BBB_2014B_626843,626843,BBB,2014B,F,B,Pass,1,1,0,London Region,A Level or Equivalent,0-10%,0-35,N,0,60
+BBB_2014J_651980,651980,BBB,2014J,F,B,Distinction,1,1,0,West Midlands Region,A Level or Equivalent,50-60%,0-35,N,0,120
+BBB_2014J_683664,683664,BBB,2014J,F,B,Pass,1,1,0,Scotland,Lower Than A Level,30-40%,0-35,N,0,60
+BBB_2013J_564268,564268,BBB,2013J,F,B,Pass,1,1,0,East Anglian Region,A Level or Equivalent,80-90%,0-35,N,0,90
+BBB_2014J_651148,651148,BBB,2014J,F,B,Pass,1,1,0,Scotland,A Level or Equivalent,30-40%,0-35,N,0,60
+BBB_2013J_339608,339608,BBB,2013J,F,B,Pass,1,1,0,East Anglian Region,A Level or Equivalent,70-80%,35-55,N,1,60
+BBB_2013J_575480,575480,BBB,2013J,F,B,Fail,0,0,0,Wales,Lower Than A Level,60-70%,0-35,N,0,60
+BBB_2014B_531290,531290,BBB,2014B,F,B,Withdrawn,0,0,0,East Anglian Region,Lower Than A Level,30-40%,0-35,N,0,60
+BBB_2014J_675246,675246,BBB,2014J,F,B,Withdrawn,0,0,0,West Midlands Region,HE Qualification,70-80%,0-35,N,0,60
+BBB_2014J_676898,676898,BBB,2014J,F,B,Pass,1,1,0,South West Region,A Level or Equivalent,70-80%,0-35,N,0,120
+BBB_2013B_549391,549391,BBB,2013B,F,B,Distinction,1,1,0,South West Region,A Level or Equivalent,80-90%,0-35,N,0,60
+BBB_2013J_602652,602652,BBB,2013J,F,B,Withdrawn,0,0,0,East Anglian Region,Lower Than A Level,80-90%,0-35,N,0,60
+BBB_2014J_655084,655084,BBB,2014J,F,B,Pass,1,1,0,East Midlands Region,Lower Than A Level,50-60%,0-35,N,0,120
+BBB_2014J_2428341,2428341,BBB,2014J,F,B,Pass,1,1,0,South East Region,A Level or Equivalent,40-50%,35-55,N,0,60
+BBB_2013J_475682,475682,BBB,2013J,F,B,Withdrawn,0,0,0,Yorkshire Region,Lower Than A Level,0-10%,0-35,N,1,60
+BBB_2014J_695205,695205,BBB,2014J,M,A,Distinction,1,1,0,Ireland,A Level or Equivalent,30-40%,0-35,N,0,60
+BBB_2014J_693692,693692,BBB,2014J,F,B,Fail,0,0,0,North Region,A Level or Equivalent,0-10%,0-35,N,0,60
+BBB_2013J_613199,613199,BBB,2013J,F,B,Withdrawn,0,0,0,Ireland,A Level or Equivalent,0-10%,0-35,Y,0,120
+BBB_2014J_1536122,1536122,BBB,2014J,F,B,Distinction,1,1,0,Ireland,A Level or Equivalent,20-30%,35-55,N,1,120
+BBB_2014J_684375,684375,BBB,2014J,M,A,Pass,1,1,0,West Midlands Region,A Level or Equivalent,0-10%,0-35,Y,0,60
+BBB_2013B_2535788,2535788,BBB,2013B,F,B,Fail,0,0,0,Yorkshire Region,A Level or Equivalent,10-20,35-55,N,2,60
+BBB_2014B_575602,575602,BBB,2014B,F,B,Pass,1,1,0,London Region,A Level or Equivalent,70-80%,0-35,N,0,120
+BBB_2013J_593514,593514,BBB,2013J,M,A,Fail,0,0,0,South East Region,A Level or Equivalent,40-50%,0-35,N,0,60
+BBB_2014J_648317,648317,BBB,2014J,F,B,Withdrawn,0,0,0,South Region,No Formal quals,90-100%,0-35,N,0,150
+BBB_2014B_622838,622838,BBB,2014B,F,B,Fail,0,0,0,Wales,Lower Than A Level,0-10%,0-35,N,0,60
+BBB_2013B_509737,509737,BBB,2013B,F,B,Fail,0,0,0,Scotland,Lower Than A Level,10-20,35-55,N,1,120
+BBB_2014B_562783,562783,BBB,2014B,F,B,Withdrawn,0,0,0,East Midlands Region,Lower Than A Level,40-50%,0-35,N,0,60
+BBB_2014J_586142,586142,BBB,2014J,F,B,Distinction,1,1,0,East Midlands Region,A Level or Equivalent,80-90%,35-55,N,0,60
+BBB_2013B_381722,381722,BBB,2013B,F,B,Withdrawn,0,0,0,West Midlands Region,A Level or Equivalent,40-50%,0-35,N,0,150
+BBB_2014J_643208,643208,BBB,2014J,F,B,Pass,1,1,0,South West Region,Lower Than A Level,70-80%,35-55,N,0,60
+BBB_2014J_606861,606861,BBB,2014J,F,B,Pass,1,1,0,Yorkshire Region,A Level or Equivalent,0-10%,0-35,N,0,60
+BBB_2013B_2265234,2265234,BBB,2013B,F,B,Withdrawn,0,0,0,South West Region,Lower Than A Level,50-60%,35-55,N,0,120
+BBB_2014B_551053,551053,BBB,2014B,F,B,Fail,0,0,0,Wales,Lower Than A Level,10-20,35-55,Y,1,120
+BBB_2013B_515497,515497,BBB,2013B,F,B,Pass,1,1,0,London Region,A Level or Equivalent,0-10%,0-35,N,0,120
+BBB_2013B_2458984,2458984,BBB,2013B,F,B,Pass,1,1,0,East Midlands Region,A Level or Equivalent,40-50%,0-35,Y,0,60
+BBB_2013J_68556,68556,BBB,2013J,F,B,Fail,0,0,0,South East Region,HE Qualification,70-80%,0-35,N,0,60
+BBB_2014J_641540,641540,BBB,2014J,F,B,Withdrawn,0,0,0,East Midlands Region,Lower Than A Level,0-10%,0-35,Y,0,120
+BBB_2014J_630465,630465,BBB,2014J,M,A,Withdrawn,0,0,0,East Midlands Region,Lower Than A Level,0-10%,0-35,N,0,60
+BBB_2013J_503322,503322,BBB,2013J,F,B,Pass,1,1,0,South West Region,Lower Than A Level,10-20,35-55,N,0,60
+BBB_2014J_473444,473444,BBB,2014J,F,B,Withdrawn,0,0,0,North Western Region,Lower Than A Level,80-90%,0-35,N,0,60
+BBB_2014J_646580,646580,BBB,2014J,F,B,Withdrawn,0,0,0,South West Region,A Level or Equivalent,50-60%,0-35,N,0,60
+BBB_2014B_627321,627321,BBB,2014B,F,B,Fail,0,0,0,London Region,HE Qualification,20-30%,35-55,N,0,60
+BBB_2014B_633052,633052,BBB,2014B,F,B,Withdrawn,0,0,0,Ireland,Lower Than A Level,30-40%,0-35,N,0,60
+BBB_2014J_642633,642633,BBB,2014J,F,B,Fail,0,0,0,Scotland,HE Qualification,70-80%,0-35,N,0,60
+BBB_2014J_626835,626835,BBB,2014J,F,B,Withdrawn,0,0,0,Ireland,Lower Than A Level,0-10%,0-35,N,0,60
+BBB_2013B_539303,539303,BBB,2013B,F,B,Pass,1,1,0,Yorkshire Region,Lower Than A Level,60-70%,0-35,N,0,60
+BBB_2014B_620257,620257,BBB,2014B,F,B,Pass,1,1,0,East Midlands Region,Lower Than A Level,90-100%,0-35,N,0,60
+BBB_2014J_654265,654265,BBB,2014J,F,B,Withdrawn,0,0,0,South East Region,A Level or Equivalent,70-80%,0-35,N,0,60
+BBB_2013B_372624,372624,BBB,2013B,F,B,Withdrawn,0,0,0,West Midlands Region,Lower Than A Level,0-10%,0-35,Y,1,300
+BBB_2014B_614039,614039,BBB,2014B,F,B,Pass,1,1,0,Wales,A Level or Equivalent,40-50%,35-55,N,0,60
+BBB_2014J_600404,600404,BBB,2014J,F,B,Fail,0,0,0,North Western Region,Lower Than A Level,40-50%,35-55,N,0,60
+BBB_2014J_582964,582964,BBB,2014J,F,B,Pass,1,1,0,Scotland,Lower Than A Level,70-80%,35-55,N,0,60
+BBB_2014J_574253,574253,BBB,2014J,F,B,Distinction,1,1,0,South Region,A Level or Equivalent,90-100%,35-55,N,0,60
+BBB_2013J_23632,23632,BBB,2013J,F,B,Withdrawn,0,0,0,East Anglian Region,A Level or Equivalent,40-50%,0-35,N,0,60
+BBB_2013J_610780,610780,BBB,2013J,F,B,Fail,0,0,0,East Midlands Region,A Level or Equivalent,0-10%,0-35,N,0,120
+BBB_2014B_630778,630778,BBB,2014B,F,B,Pass,1,1,0,Wales,A Level or Equivalent,90-100%,35-55,N,0,60
+BBB_2013J_586165,586165,BBB,2013J,F,B,Fail,0,0,0,East Midlands Region,A Level or Equivalent,60-70%,0-35,N,0,120
+BBB_2014J_678367,678367,BBB,2014J,M,A,Withdrawn,0,0,0,Scotland,Lower Than A Level,60-70%,0-35,N,0,60
+BBB_2014J_530960,530960,BBB,2014J,F,B,Withdrawn,0,0,0,South West Region,HE Qualification,30-40%,0-35,N,0,120
+BBB_2014J_609194,609194,BBB,2014J,F,B,Pass,1,1,0,Yorkshire Region,Lower Than A Level,0-10%,0-35,N,1,90
+BBB_2014J_617525,617525,BBB,2014J,F,B,Pass,1,1,0,London Region,A Level or Equivalent,60-70%,0-35,N,1,60
+BBB_2013B_285633,285633,BBB,2013B,F,B,Fail,0,0,0,West Midlands Region,HE Qualification,20-30%,0-35,Y,1,120
+BBB_2013B_237304,237304,BBB,2013B,M,A,Fail,0,0,0,North Region,A Level or Equivalent,0-10%,0-35,N,0,60
+BBB_2014B_235428,235428,BBB,2014B,M,A,Fail,0,0,0,London Region,Lower Than A Level,20-30%,35-55,N,1,150
+BBB_2014J_632632,632632,BBB,2014J,F,B,Pass,1,1,0,South West Region,HE Qualification,10-20,0-35,N,1,60
+BBB_2013B_338912,338912,BBB,2013B,F,B,Withdrawn,0,0,0,South West Region,A Level or Equivalent,20-30%,0-35,N,0,90
+BBB_2014J_690767,690767,BBB,2014J,F,B,Fail,0,0,0,West Midlands Region,A Level or Equivalent,40-50%,0-35,N,0,60
+BBB_2014J_696799,696799,BBB,2014J,F,B,Fail,0,0,0,London Region,HE Qualification,20-30%,0-35,N,0,60
+BBB_2014B_628178,628178,BBB,2014B,F,B,Distinction,1,1,0,Scotland,HE Qualification,60-70%,35-55,N,0,60
+BBB_2013B_1659662,1659662,BBB,2013B,F,B,Pass,1,1,0,London Region,A Level or Equivalent,90-100%,35-55,N,0,60
+BBB_2013J_398956,398956,BBB,2013J,F,B,Fail,0,0,0,Wales,Lower Than A Level,80-90%,0-35,N,0,120
+BBB_2013J_555614,555614,BBB,2013J,F,B,Distinction,1,1,0,East Midlands Region,Lower Than A Level,90-100%,35-55,N,1,60
+BBB_2014B_624298,624298,BBB,2014B,F,B,Withdrawn,0,0,0,London Region,Lower Than A Level,0-10%,0-35,N,0,60
+BBB_2013J_597866,597866,BBB,2013J,F,B,Fail,0,0,0,North Region,Lower Than A Level,10-20,0-35,N,0,120
+BBB_2014B_605693,605693,BBB,2014B,F,B,Pass,1,1,0,East Anglian Region,Lower Than A Level,50-60%,0-35,N,0,60
+BBB_2014B_625578,625578,BBB,2014B,F,B,Withdrawn,0,0,0,East Midlands Region,Lower Than A Level,20-30%,35-55,N,0,60
+BBB_2013B_187793,187793,BBB,2013B,F,B,Fail,0,0,0,North Western Region,Lower Than A Level,10-20,35-55,Y,1,120
+BBB_2014B_2554464,2554464,BBB,2014B,F,B,Fail,0,0,0,East Midlands Region,Lower Than A Level,40-50%,0-35,N,0,60
+BBB_2013B_536551,536551,BBB,2013B,F,B,Fail,0,0,0,Wales,A Level or Equivalent,0-10%,0-35,N,0,75
+BBB_2013B_544881,544881,BBB,2013B,F,B,Pass,1,1,0,South Region,A Level or Equivalent,90-100%,0-35,N,0,120
+BBB_2013J_605594,605594,BBB,2013J,F,B,Fail,0,0,0,London Region,Lower Than A Level,30-40%,0-35,N,0,120
+BBB_2013J_514776,514776,BBB,2013J,F,B,Fail,0,0,0,Scotland,Lower Than A Level,40-50%,0-35,Y,2,60
+BBB_2013J_2625315,2625315,BBB,2013J,F,B,Fail,0,0,0,Yorkshire Region,A Level or Equivalent,30-40%,0-35,N,0,60
+BBB_2013J_581586,581586,BBB,2013J,F,B,Pass,1,1,0,West Midlands Region,HE Qualification,0-10%,0-35,N,0,120
+BBB_2013B_535396,535396,BBB,2013B,F,B,Withdrawn,0,0,0,Ireland,Lower Than A Level,50-60%,35-55,N,0,60
+BBB_2014J_272617,272617,BBB,2014J,F,B,Withdrawn,0,0,0,East Midlands Region,Lower Than A Level,20-30%,0-35,Y,3,60
+BBB_2013J_568523,568523,BBB,2013J,F,B,Withdrawn,0,0,0,North Western Region,Lower Than A Level,10-20,0-35,N,0,60
+BBB_2014J_575630,575630,BBB,2014J,F,B,Pass,1,1,0,East Midlands Region,Lower Than A Level,0-10%,0-35,N,2,120
+BBB_2013J_499624,499624,BBB,2013J,F,B,Withdrawn,0,0,0,London Region,A Level or Equivalent,20-30%,0-35,N,2,60
+BBB_2013J_304069,304069,BBB,2013J,F,B,Withdrawn,0,0,0,South East Region,A Level or Equivalent,70-80%,35-55,N,0,90
+BBB_2014B_626386,626386,BBB,2014B,F,B,Withdrawn,0,0,0,East Midlands Region,Lower Than A Level,10-20,0-35,Y,0,60
+BBB_2014J_650961,650961,BBB,2014J,F,B,Withdrawn,0,0,0,West Midlands Region,A Level or Equivalent,50-60%,0-35,N,0,60
+BBB_2014J_445647,445647,BBB,2014J,F,B,Withdrawn,0,0,0,South West Region,A Level or Equivalent,40-50%,0-35,N,0,180
+BBB_2013J_572626,572626,BBB,2013J,F,B,Withdrawn,0,0,0,Yorkshire Region,A Level or Equivalent,70-80%,0-35,N,0,60
+BBB_2013B_536670,536670,BBB,2013B,F,B,Withdrawn,0,0,0,Wales,A Level or Equivalent,40-50%,35-55,N,0,60
+BBB_2014B_501095,501095,BBB,2014B,F,B,Pass,1,1,0,South West Region,Lower Than A Level,70-80%,35-55,N,0,60
+BBB_2014J_655086,655086,BBB,2014J,F,B,Fail,0,0,0,East Anglian Region,Lower Than A Level,50-60%,35-55,N,0,60
+BBB_2013J_604921,604921,BBB,2013J,F,B,Fail,0,0,0,Ireland,Lower Than A Level,0-10%,35-55,N,0,60
+BBB_2013J_567929,567929,BBB,2013J,F,B,Fail,0,0,0,Yorkshire Region,A Level or Equivalent,10-20,35-55,N,0,60
+BBB_2013B_1971393,1971393,BBB,2013B,F,B,Pass,1,1,0,West Midlands Region,Lower Than A Level,30-40%,35-55,N,0,60
+BBB_2013J_600579,600579,BBB,2013J,F,B,Withdrawn,0,0,0,South East Region,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2014J_169400,169400,BBB,2014J,F,B,Distinction,1,1,0,Wales,HE Qualification,90-100%,0-35,N,0,120
+BBB_2014J_402180,402180,BBB,2014J,F,B,Pass,1,1,0,Yorkshire Region,Lower Than A Level,0-10%,0-35,N,0,60
+BBB_2014B_622180,622180,BBB,2014B,M,A,Withdrawn,0,0,0,South West Region,Lower Than A Level,10-20,0-35,N,0,120
+BBB_2013B_516456,516456,BBB,2013B,F,B,Pass,1,1,0,South West Region,A Level or Equivalent,40-50%,0-35,N,0,150
+BBB_2014B_629274,629274,BBB,2014B,F,B,Pass,1,1,0,South East Region,A Level or Equivalent,80-90%,0-35,N,0,60
+BBB_2013J_73489,73489,BBB,2013J,F,B,Pass,1,1,0,South Region,HE Qualification,80-90%,0-35,N,0,120
+BBB_2013J_80717,80717,BBB,2013J,F,B,Distinction,1,1,0,South West Region,Lower Than A Level,60-70%,35-55,N,0,60
+BBB_2013B_561459,561459,BBB,2013B,F,B,Distinction,1,1,0,South West Region,A Level or Equivalent,20-30%,35-55,N,0,120
+BBB_2014B_570721,570721,BBB,2014B,F,B,Withdrawn,0,0,0,East Midlands Region,HE Qualification,10-20,0-35,N,0,60
+BBB_2013J_596849,596849,BBB,2013J,F,B,Fail,0,0,0,Scotland,HE Qualification,50-60%,0-35,N,0,60
+BBB_2014B_610589,610589,BBB,2014B,F,B,Withdrawn,0,0,0,East Midlands Region,A Level or Equivalent,80-90%,0-35,Y,0,180
+BBB_2014J_57285,57285,BBB,2014J,F,B,Pass,1,1,0,London Region,A Level or Equivalent,0-10%,0-35,N,0,60
+BBB_2013B_517474,517474,BBB,2013B,F,B,Pass,1,1,0,Ireland,Lower Than A Level,30-40%,0-35,N,0,90
+BBB_2013B_531427,531427,BBB,2013B,F,B,Fail,0,0,0,East Midlands Region,A Level or Equivalent,60-70%,0-35,N,0,120
+BBB_2013J_607804,607804,BBB,2013J,M,A,Pass,1,1,0,Scotland,A Level or Equivalent,90-100%,35-55,N,0,60
+BBB_2014B_598451,598451,BBB,2014B,M,A,Withdrawn,0,0,0,East Anglian Region,Lower Than A Level,80-90%,35-55,N,0,120
+BBB_2013J_593023,593023,BBB,2013J,F,B,Pass,1,1,0,South Region,HE Qualification,60-70%,35-55,N,0,60
+BBB_2014B_569761,569761,BBB,2014B,F,B,Pass,1,1,0,East Midlands Region,Lower Than A Level,0-10%,0-35,N,0,60
+BBB_2013B_547755,547755,BBB,2013B,F,B,Withdrawn,0,0,0,Wales,Lower Than A Level,90-100%,35-55,N,0,120
+BBB_2014B_614668,614668,BBB,2014B,F,B,Pass,1,1,0,Wales,A Level or Equivalent,90-100%,0-35,N,0,60
+BBB_2013J_611017,611017,BBB,2013J,F,B,Pass,1,1,0,South Region,A Level or Equivalent,50-60%,0-35,N,0,60
+BBB_2013J_508028,508028,BBB,2013J,F,B,Pass,1,1,0,South West Region,A Level or Equivalent,30-40%,35-55,N,0,60
+BBB_2014J_2559992,2559992,BBB,2014J,F,B,Fail,0,0,0,Scotland,Lower Than A Level,80-90%,0-35,N,1,120
+BBB_2014J_687173,687173,BBB,2014J,F,B,Pass,1,1,0,North Western Region,Lower Than A Level,10-20,0-35,N,0,60
+BBB_2014J_682289,682289,BBB,2014J,F,B,Withdrawn,0,0,0,East Midlands Region,A Level or Equivalent,30-40%,35-55,Y,0,120
+BBB_2013J_151800,151800,BBB,2013J,F,B,Fail,0,0,0,Wales,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2014J_647200,647200,BBB,2014J,F,B,Fail,0,0,0,West Midlands Region,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2013J_494896,494896,BBB,2013J,F,B,Withdrawn,0,0,0,East Anglian Region,Lower Than A Level,90-100%,0-35,N,0,120
+BBB_2014J_683054,683054,BBB,2014J,F,B,Withdrawn,0,0,0,London Region,No Formal quals,10-20,0-35,N,0,240
+BBB_2014J_684971,684971,BBB,2014J,F,B,Fail,0,0,0,London Region,Lower Than A Level,10-20,35-55,N,0,60
+BBB_2013B_562465,562465,BBB,2013B,F,B,Pass,1,1,0,West Midlands Region,Lower Than A Level,0-10%,0-35,N,0,120
+BBB_2014J_694001,694001,BBB,2014J,F,B,Withdrawn,0,0,0,West Midlands Region,A Level or Equivalent,20-30%,0-35,N,0,180
+BBB_2014J_681971,681971,BBB,2014J,F,B,Withdrawn,0,0,0,West Midlands Region,Lower Than A Level,0-10%,0-35,N,0,60
+BBB_2013J_610449,610449,BBB,2013J,F,B,Withdrawn,0,0,0,East Anglian Region,A Level or Equivalent,90-100%,0-35,Y,0,120
+BBB_2013B_507303,507303,BBB,2013B,F,B,Withdrawn,0,0,0,South Region,Lower Than A Level,30-40%,0-35,N,0,60
+BBB_2014J_675929,675929,BBB,2014J,F,B,Fail,0,0,0,West Midlands Region,Lower Than A Level,0-10%,0-35,N,0,60
+BBB_2013J_2421929,2421929,BBB,2013J,F,B,Fail,0,0,0,Yorkshire Region,Lower Than A Level,40-50%,0-35,N,1,195
+BBB_2013J_591299,591299,BBB,2013J,F,B,Distinction,1,1,0,Wales,A Level or Equivalent,50-60%,0-35,N,0,60
+BBB_2014J_645678,645678,BBB,2014J,M,A,Pass,1,1,0,South West Region,A Level or Equivalent,40-50%,0-35,Y,0,120
+BBB_2013B_561718,561718,BBB,2013B,M,A,Fail,0,0,0,Wales,Lower Than A Level,80-90%,0-35,N,0,60
+BBB_2014J_554243,554243,BBB,2014J,F,B,Fail,0,0,0,South West Region,Lower Than A Level,60-70%,0-35,N,1,60
+BBB_2013B_513005,513005,BBB,2013B,F,B,Fail,0,0,0,South West Region,Lower Than A Level,30-40%,35-55,N,1,180
+BBB_2014B_613426,613426,BBB,2014B,F,B,Pass,1,1,0,Wales,Lower Than A Level,10-20,0-35,N,0,60
+BBB_2013B_369212,369212,BBB,2013B,F,B,Withdrawn,0,0,0,South West Region,A Level or Equivalent,50-60%,35-55,N,1,60
+BBB_2013J_301987,301987,BBB,2013J,F,B,Pass,1,1,0,South Region,A Level or Equivalent,20-30%,0-35,N,0,60
+BBB_2014B_499952,499952,BBB,2014B,F,B,Withdrawn,0,0,0,Scotland,A Level or Equivalent,70-80%,0-35,N,0,60
+BBB_2013B_349424,349424,BBB,2013B,F,B,Fail,0,0,0,London Region,A Level or Equivalent,70-80%,35-55,N,1,60
+BBB_2014J_589621,589621,BBB,2014J,F,B,Pass,1,1,0,South East Region,A Level or Equivalent,90-100%,35-55,N,0,60
+BBB_2014J_491001,491001,BBB,2014J,F,B,Withdrawn,0,0,0,South East Region,A Level or Equivalent,60-70%,0-35,N,0,120
+BBB_2014B_318500,318500,BBB,2014B,F,B,Fail,0,0,0,East Midlands Region,A Level or Equivalent,30-40%,0-35,N,0,60
+BBB_2014J_655828,655828,BBB,2014J,F,B,Pass,1,1,0,Yorkshire Region,A Level or Equivalent,20-30%,35-55,N,0,60
+BBB_2014J_649542,649542,BBB,2014J,F,B,Withdrawn,0,0,0,South Region,A Level or Equivalent,50-60%,0-35,N,0,60
+BBB_2014J_620000,620000,BBB,2014J,F,B,Pass,1,1,0,London Region,Lower Than A Level,40-50%,0-35,N,0,120
+BBB_2013J_610118,610118,BBB,2013J,M,A,Fail,0,0,0,Ireland,A Level or Equivalent,,35-55,N,0,60
+BBB_2014J_254313,254313,BBB,2014J,F,B,Withdrawn,0,0,0,South East Region,HE Qualification,20-30%,35-55,Y,0,240
+BBB_2014B_620289,620289,BBB,2014B,F,B,Withdrawn,0,0,0,Scotland,Lower Than A Level,0-10%,0-35,N,0,60
+BBB_2014B_97006,97006,BBB,2014B,F,B,Pass,1,1,0,East Anglian Region,A Level or Equivalent,60-70%,35-55,N,1,60
+BBB_2013B_546428,546428,BBB,2013B,F,B,Pass,1,1,0,South East Region,Lower Than A Level,40-50%,0-35,N,0,60
+BBB_2013J_562090,562090,BBB,2013J,F,B,Pass,1,1,0,South Region,Lower Than A Level,40-50%,35-55,N,0,60
+BBB_2014J_556644,556644,BBB,2014J,F,B,Distinction,1,1,0,East Anglian Region,A Level or Equivalent,80-90%,0-35,N,0,60
+BBB_2013B_555946,555946,BBB,2013B,F,B,Fail,0,0,0,Yorkshire Region,Lower Than A Level,10-20,0-35,N,0,60
+BBB_2013J_587755,587755,BBB,2013J,M,A,Pass,1,1,0,South Region,Lower Than A Level,10-20,0-35,N,0,60
+BBB_2014J_684704,684704,BBB,2014J,F,B,Pass,1,1,0,Scotland,Lower Than A Level,0-10%,0-35,Y,0,60
+BBB_2013J_184897,184897,BBB,2013J,F,B,Withdrawn,0,0,0,South Region,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2014J_603203,603203,BBB,2014J,F,B,Withdrawn,0,0,0,South East Region,A Level or Equivalent,20-30%,0-35,N,0,120
+BBB_2013J_2619107,2619107,BBB,2013J,F,B,Distinction,1,1,0,Scotland,A Level or Equivalent,60-70%,0-35,N,0,60
+BBB_2013B_438703,438703,BBB,2013B,F,B,Pass,1,1,0,Wales,A Level or Equivalent,20-30%,0-35,N,0,60
+BBB_2014J_156358,156358,BBB,2014J,F,B,Withdrawn,0,0,0,Ireland,Lower Than A Level,60-70%,0-35,N,2,60
+BBB_2014B_632682,632682,BBB,2014B,F,B,Fail,0,0,0,North Western Region,Lower Than A Level,0-10%,0-35,N,0,60
+BBB_2014B_633212,633212,BBB,2014B,F,B,Pass,1,1,0,Wales,Lower Than A Level,80-90%,0-35,N,0,60
+BBB_2013J_228243,228243,BBB,2013J,M,A,Withdrawn,0,0,0,London Region,A Level or Equivalent,10-20,35-55,N,0,120
+BBB_2014B_537077,537077,BBB,2014B,F,B,Pass,1,1,0,West Midlands Region,A Level or Equivalent,80-90%,0-35,N,0,60
+BBB_2013B_551487,551487,BBB,2013B,F,B,Pass,1,1,0,Scotland,Lower Than A Level,0-10%,0-35,N,0,120
+BBB_2014B_165904,165904,BBB,2014B,F,B,Distinction,1,1,0,South Region,A Level or Equivalent,30-40%,0-35,N,1,120
+BBB_2014J_598317,598317,BBB,2014J,F,B,Withdrawn,0,0,0,East Midlands Region,A Level or Equivalent,40-50%,35-55,N,0,120
+BBB_2013J_597301,597301,BBB,2013J,F,B,Pass,1,1,0,South West Region,Lower Than A Level,80-90%,0-35,N,0,120
+BBB_2014J_680162,680162,BBB,2014J,F,B,Pass,1,1,0,South Region,A Level or Equivalent,80-90%,0-35,N,0,60
+BBB_2014B_2602679,2602679,BBB,2014B,F,B,Distinction,1,1,0,Wales,A Level or Equivalent,30-40%,35-55,N,0,60
+BBB_2014B_577170,577170,BBB,2014B,F,B,Fail,0,0,0,West Midlands Region,HE Qualification,10-20,0-35,N,1,150
+BBB_2013J_508759,508759,BBB,2013J,F,B,Withdrawn,0,0,0,East Anglian Region,A Level or Equivalent,30-40%,0-35,N,0,120
+BBB_2013J_2034300,2034300,BBB,2013J,F,B,Pass,1,1,0,London Region,Lower Than A Level,0-10%,35-55,N,1,60
+BBB_2014B_598415,598415,BBB,2014B,F,B,Withdrawn,0,0,0,South Region,Lower Than A Level,30-40%,0-35,N,0,120
+BBB_2014B_429417,429417,BBB,2014B,M,A,Pass,1,1,0,Scotland,Lower Than A Level,30-40%,35-55,N,0,60
+BBB_2013J_540682,540682,BBB,2013J,F,B,Pass,1,1,0,South East Region,Lower Than A Level,50-60%,0-35,N,0,60
+BBB_2014J_648203,648203,BBB,2014J,F,B,Withdrawn,0,0,0,London Region,A Level or Equivalent,10-20,0-35,N,0,60
+BBB_2014B_629507,629507,BBB,2014B,F,B,Pass,1,1,0,Wales,A Level or Equivalent,40-50%,0-35,N,0,60
+BBB_2013B_490110,490110,BBB,2013B,F,B,Withdrawn,0,0,0,West Midlands Region,A Level or Equivalent,10-20,0-35,N,0,60
+BBB_2013B_556997,556997,BBB,2013B,F,B,Pass,1,1,0,South West Region,A Level or Equivalent,10-20,35-55,N,0,60
+BBB_2013J_547718,547718,BBB,2013J,F,B,Withdrawn,0,0,0,Yorkshire Region,Lower Than A Level,60-70%,0-35,N,0,60
+BBB_2013B_363401,363401,BBB,2013B,M,A,Fail,0,0,0,East Anglian Region,Lower Than A Level,40-50%,35-55,N,1,120
+BBB_2014B_618362,618362,BBB,2014B,F,B,Withdrawn,0,0,0,South Region,A Level or Equivalent,10-20,0-35,N,0,60
+BBB_2014B_2438291,2438291,BBB,2014B,F,B,Withdrawn,0,0,0,London Region,A Level or Equivalent,10-20,35-55,N,0,120
+BBB_2014B_635230,635230,BBB,2014B,F,B,Distinction,1,1,0,Wales,A Level or Equivalent,60-70%,0-35,N,0,60
+BBB_2014J_680541,680541,BBB,2014J,F,B,Pass,1,1,0,South Region,A Level or Equivalent,90-100%,35-55,N,0,60
+BBB_2013J_467606,467606,BBB,2013J,F,B,Withdrawn,0,0,0,South West Region,Lower Than A Level,50-60%,0-35,Y,1,60
+BBB_2013J_588642,588642,BBB,2013J,F,B,Pass,1,1,0,London Region,A Level or Equivalent,0-10%,0-35,N,0,120
+BBB_2013B_528698,528698,BBB,2013B,F,B,Pass,1,1,0,South East Region,Lower Than A Level,70-80%,35-55,N,0,120
+BBB_2013J_588432,588432,BBB,2013J,F,B,Fail,0,0,0,South West Region,A Level or Equivalent,60-70%,0-35,N,0,60
+BBB_2014J_610470,610470,BBB,2014J,F,B,Pass,1,1,0,London Region,Post Graduate Qualification,10-20,35-55,N,0,60
+BBB_2013B_1903527,1903527,BBB,2013B,F,B,Distinction,1,1,0,East Anglian Region,Lower Than A Level,90-100%,35-55,N,1,120
+BBB_2014J_684420,684420,BBB,2014J,F,B,Fail,0,0,0,Yorkshire Region,A Level or Equivalent,40-50%,0-35,N,0,60
+BBB_2014J_330917,330917,BBB,2014J,F,B,Pass,1,1,0,East Midlands Region,A Level or Equivalent,30-40%,35-55,N,0,60
+BBB_2013J_511678,511678,BBB,2013J,F,B,Pass,1,1,0,South Region,A Level or Equivalent,20-30%,0-35,N,0,120
+BBB_2014J_492676,492676,BBB,2014J,F,B,Pass,1,1,0,Scotland,A Level or Equivalent,60-70%,0-35,Y,2,120
+BBB_2013J_591591,591591,BBB,2013J,F,B,Fail,0,0,0,West Midlands Region,A Level or Equivalent,40-50%,0-35,N,0,120
+BBB_2014B_630053,630053,BBB,2014B,F,B,Pass,1,1,0,East Midlands Region,Lower Than A Level,30-40%,0-35,N,0,60
+BBB_2013J_1594621,1594621,BBB,2013J,F,B,Pass,1,1,0,South Region,Lower Than A Level,50-60%,55<=,N,0,60
+BBB_2013B_476297,476297,BBB,2013B,F,B,Withdrawn,0,0,0,Scotland,A Level or Equivalent,40-50%,35-55,N,1,120
+BBB_2014B_563987,563987,BBB,2014B,F,B,Pass,1,1,0,North Western Region,A Level or Equivalent,20-30%,35-55,N,0,120
+BBB_2014B_623654,623654,BBB,2014B,F,B,Distinction,1,1,0,West Midlands Region,A Level or Equivalent,80-90%,0-35,N,0,60
+BBB_2014B_547556,547556,BBB,2014B,F,B,Fail,0,0,0,South Region,Lower Than A Level,80-90%,0-35,N,0,120
+BBB_2014J_647502,647502,BBB,2014J,F,B,Pass,1,1,0,East Midlands Region,HE Qualification,60-70%,35-55,N,0,60
+BBB_2013J_493891,493891,BBB,2013J,F,B,Withdrawn,0,0,0,North Western Region,A Level or Equivalent,20-30%,0-35,N,0,60
+BBB_2013J_605390,605390,BBB,2013J,F,B,Pass,1,1,0,Ireland,Lower Than A Level,50-60%,35-55,N,0,60
+BBB_2013B_549622,549622,BBB,2013B,F,B,Withdrawn,0,0,0,East Anglian Region,A Level or Equivalent,80-90%,0-35,N,0,180
+BBB_2014B_2534954,2534954,BBB,2014B,F,B,Pass,1,1,0,Wales,Lower Than A Level,0-10%,35-55,Y,3,60
+BBB_2014B_365111,365111,BBB,2014B,F,B,Withdrawn,0,0,0,Scotland,HE Qualification,30-40%,0-35,Y,1,75
+BBB_2013J_597321,597321,BBB,2013J,F,B,Withdrawn,0,0,0,North Western Region,Lower Than A Level,0-10%,0-35,N,0,120
+BBB_2014J_544177,544177,BBB,2014J,F,B,Withdrawn,0,0,0,South Region,Lower Than A Level,80-90%,0-35,N,0,120
+BBB_2013J_595672,595672,BBB,2013J,F,B,Fail,0,0,0,South Region,Lower Than A Level,60-70%,0-35,Y,0,120
+BBB_2013J_540005,540005,BBB,2013J,F,B,Pass,1,1,0,West Midlands Region,A Level or Equivalent,0-10%,0-35,N,1,60
+BBB_2014J_2475591,2475591,BBB,2014J,F,B,Pass,1,1,0,Yorkshire Region,HE Qualification,30-40%,35-55,N,0,120
+BBB_2013J_280140,280140,BBB,2013J,F,B,Fail,0,0,0,Scotland,Lower Than A Level,40-50%,0-35,Y,2,60
+BBB_2013J_574766,574766,BBB,2013J,F,B,Fail,0,0,0,West Midlands Region,A Level or Equivalent,0-10%,0-35,N,0,120
+BBB_2014J_683301,683301,BBB,2014J,F,B,Withdrawn,0,0,0,North Western Region,Lower Than A Level,10-20,0-35,N,0,60
+BBB_2014J_381882,381882,BBB,2014J,F,B,Fail,0,0,0,East Anglian Region,A Level or Equivalent,40-50%,0-35,N,1,120
+BBB_2014B_612600,612600,BBB,2014B,F,B,Fail,0,0,0,East Midlands Region,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2014J_687122,687122,BBB,2014J,F,B,Pass,1,1,0,South Region,A Level or Equivalent,80-90%,0-35,N,0,60
+BBB_2013B_554512,554512,BBB,2013B,F,B,Withdrawn,0,0,0,London Region,A Level or Equivalent,40-50%,0-35,N,0,60
+BBB_2013B_554830,554830,BBB,2013B,M,A,Fail,0,0,0,East Anglian Region,A Level or Equivalent,60-70%,35-55,N,0,120
+BBB_2014J_689265,689265,BBB,2014J,F,B,Pass,1,1,0,Ireland,Lower Than A Level,0-10%,0-35,N,0,60
+BBB_2013J_244917,244917,BBB,2013J,F,B,Withdrawn,0,0,0,London Region,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2014J_493609,493609,BBB,2014J,F,B,Withdrawn,0,0,0,Ireland,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2014J_635777,635777,BBB,2014J,F,B,Pass,1,1,0,Wales,A Level or Equivalent,30-40%,0-35,N,1,60
+BBB_2014J_648120,648120,BBB,2014J,M,A,Withdrawn,0,0,0,South Region,A Level or Equivalent,90-100%,35-55,N,0,60
+BBB_2013J_610770,610770,BBB,2013J,F,B,Withdrawn,0,0,0,Wales,No Formal quals,0-10%,35-55,N,0,60
+BBB_2014B_2641657,2641657,BBB,2014B,M,A,Pass,1,1,0,North Region,A Level or Equivalent,0-10%,35-55,N,0,60
+BBB_2013J_612252,612252,BBB,2013J,M,A,Pass,1,1,0,South East Region,A Level or Equivalent,10-20,35-55,N,0,60
+BBB_2014J_651801,651801,BBB,2014J,F,B,Withdrawn,0,0,0,North Western Region,A Level or Equivalent,10-20,0-35,N,0,60
+BBB_2013J_609190,609190,BBB,2013J,F,B,Withdrawn,0,0,0,London Region,Lower Than A Level,10-20,0-35,N,0,150
+BBB_2013B_361603,361603,BBB,2013B,M,A,Pass,1,1,0,North Western Region,A Level or Equivalent,50-60%,0-35,N,1,60
+BBB_2013J_575897,575897,BBB,2013J,F,B,Fail,0,0,0,Scotland,Lower Than A Level,40-50%,0-35,N,0,60
+BBB_2013B_495856,495856,BBB,2013B,M,A,Distinction,1,1,0,South Region,A Level or Equivalent,50-60%,35-55,N,0,60
+BBB_2013J_583977,583977,BBB,2013J,M,A,Fail,0,0,0,Scotland,A Level or Equivalent,70-80%,35-55,N,0,60
+BBB_2013J_603627,603627,BBB,2013J,F,B,Distinction,1,1,0,East Anglian Region,A Level or Equivalent,80-90%,0-35,N,0,120
+BBB_2014J_286338,286338,BBB,2014J,F,B,Pass,1,1,0,South Region,Lower Than A Level,30-40%,35-55,N,0,60
+BBB_2013J_584374,584374,BBB,2013J,F,B,Withdrawn,0,0,0,East Anglian Region,Lower Than A Level,30-40%,0-35,N,0,60
+BBB_2013J_610260,610260,BBB,2013J,F,B,Pass,1,1,0,South West Region,HE Qualification,70-80%,0-35,N,0,60
+BBB_2014J_632255,632255,BBB,2014J,M,A,Withdrawn,0,0,0,South Region,Lower Than A Level,90-100%,35-55,N,1,120
+BBB_2014B_324907,324907,BBB,2014B,F,B,Pass,1,1,0,Wales,Lower Than A Level,0-10%,35-55,N,0,60
+BBB_2014J_654333,654333,BBB,2014J,F,B,Withdrawn,0,0,0,East Midlands Region,A Level or Equivalent,50-60%,0-35,N,0,60
+BBB_2014B_471925,471925,BBB,2014B,M,A,Pass,1,1,0,Yorkshire Region,Lower Than A Level,20-30%,35-55,N,0,60
+BBB_2013J_386889,386889,BBB,2013J,F,B,Pass,1,1,0,South Region,A Level or Equivalent,80-90%,0-35,Y,0,60
+BBB_2013B_555309,555309,BBB,2013B,M,A,Pass,1,1,0,Wales,A Level or Equivalent,50-60%,35-55,N,0,60
+BBB_2013J_586450,586450,BBB,2013J,F,B,Withdrawn,0,0,0,South Region,HE Qualification,80-90%,0-35,N,0,60
+BBB_2014J_470464,470464,BBB,2014J,F,B,Pass,1,1,0,West Midlands Region,A Level or Equivalent,10-20,0-35,Y,0,60
+BBB_2014B_619471,619471,BBB,2014B,F,B,Pass,1,1,0,Wales,HE Qualification,40-50%,0-35,N,0,60
+BBB_2014B_574553,574553,BBB,2014B,F,B,Withdrawn,0,0,0,London Region,Lower Than A Level,20-30%,0-35,N,0,150
+BBB_2013B_559011,559011,BBB,2013B,F,B,Withdrawn,0,0,0,West Midlands Region,Lower Than A Level,40-50%,0-35,N,0,60
+BBB_2013B_485782,485782,BBB,2013B,F,B,Fail,0,0,0,East Midlands Region,Lower Than A Level,20-30%,0-35,N,1,180
+BBB_2013J_576483,576483,BBB,2013J,F,B,Pass,1,1,0,South Region,A Level or Equivalent,70-80%,35-55,N,0,60
+BBB_2014B_487573,487573,BBB,2014B,F,B,Withdrawn,0,0,0,North Western Region,A Level or Equivalent,10-20,0-35,N,2,120
+BBB_2014B_626164,626164,BBB,2014B,F,B,Pass,1,1,0,West Midlands Region,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2014B_623911,623911,BBB,2014B,F,B,Fail,0,0,0,East Anglian Region,Lower Than A Level,40-50%,35-55,N,0,60
+BBB_2014J_2399380,2399380,BBB,2014J,F,B,Withdrawn,0,0,0,South West Region,Lower Than A Level,20-30%,35-55,Y,0,180
+BBB_2014B_634477,634477,BBB,2014B,F,B,Pass,1,1,0,East Anglian Region,A Level or Equivalent,20-30%,35-55,N,0,60
+BBB_2014J_2357372,2357372,BBB,2014J,F,B,Withdrawn,0,0,0,East Midlands Region,Lower Than A Level,20-30%,0-35,N,0,180
+BBB_2013B_434353,434353,BBB,2013B,F,B,Pass,1,1,0,South East Region,HE Qualification,90-100%,35-55,N,1,60
+BBB_2014J_425772,425772,BBB,2014J,F,B,Pass,1,1,0,Yorkshire Region,Lower Than A Level,10-20,0-35,N,0,120
+BBB_2014B_590798,590798,BBB,2014B,M,A,Withdrawn,0,0,0,South Region,HE Qualification,30-40%,0-35,N,0,60
+BBB_2014J_277967,277967,BBB,2014J,M,A,Pass,1,1,0,London Region,Lower Than A Level,70-80%,0-35,N,1,60
+BBB_2014B_628511,628511,BBB,2014B,F,B,Fail,0,0,0,North Western Region,A Level or Equivalent,20-30%,0-35,N,0,60
+BBB_2014J_676948,676948,BBB,2014J,F,B,Pass,1,1,0,Wales,Lower Than A Level,0-10%,35-55,N,0,60
+BBB_2013B_2244724,2244724,BBB,2013B,F,B,Fail,0,0,0,East Anglian Region,A Level or Equivalent,70-80%,35-55,N,0,60
+BBB_2014J_638544,638544,BBB,2014J,F,B,Withdrawn,0,0,0,West Midlands Region,A Level or Equivalent,10-20,0-35,N,0,120
+BBB_2013B_556585,556585,BBB,2013B,F,B,Withdrawn,0,0,0,Yorkshire Region,Lower Than A Level,30-40%,0-35,N,0,60
+BBB_2014J_63467,63467,BBB,2014J,F,B,Pass,1,1,0,North Western Region,A Level or Equivalent,50-60%,35-55,N,0,120
+BBB_2013J_2061889,2061889,BBB,2013J,F,B,Pass,1,1,0,East Midlands Region,Lower Than A Level,60-70%,35-55,N,1,60
+BBB_2013J_594468,594468,BBB,2013J,F,B,Pass,1,1,0,East Anglian Region,A Level or Equivalent,70-80%,35-55,Y,0,60
+BBB_2014J_366791,366791,BBB,2014J,F,B,Withdrawn,0,0,0,North Western Region,Lower Than A Level,50-60%,0-35,N,1,120
+BBB_2014J_562769,562769,BBB,2014J,F,B,Withdrawn,0,0,0,London Region,A Level or Equivalent,80-90%,0-35,N,0,120
+BBB_2014B_405268,405268,BBB,2014B,F,B,Distinction,1,1,0,North Western Region,A Level or Equivalent,40-50%,0-35,N,0,120
+BBB_2014B_354121,354121,BBB,2014B,F,B,Withdrawn,0,0,0,West Midlands Region,Lower Than A Level,20-30%,0-35,N,0,120
+BBB_2014J_649731,649731,BBB,2014J,F,B,Withdrawn,0,0,0,South East Region,Lower Than A Level,40-50%,0-35,N,0,120
+BBB_2013J_506804,506804,BBB,2013J,F,B,Pass,1,1,0,North Region,A Level or Equivalent,20-30%,0-35,N,0,120
+BBB_2013B_514951,514951,BBB,2013B,F,B,Withdrawn,0,0,0,West Midlands Region,A Level or Equivalent,10-20,35-55,N,0,120
+BBB_2014J_647967,647967,BBB,2014J,F,B,Pass,1,1,0,Yorkshire Region,Lower Than A Level,50-60%,0-35,N,0,60
+BBB_2013J_573758,573758,BBB,2013J,F,B,Withdrawn,0,0,0,North Western Region,Lower Than A Level,0-10%,0-35,N,0,60
+BBB_2013J_251815,251815,BBB,2013J,F,B,Fail,0,0,0,Wales,Lower Than A Level,10-20,35-55,Y,1,90
+BBB_2014J_627269,627269,BBB,2014J,F,B,Pass,1,1,0,North Western Region,No Formal quals,0-10%,35-55,N,0,60
+BBB_2014B_618137,618137,BBB,2014B,F,B,Withdrawn,0,0,0,East Anglian Region,A Level or Equivalent,70-80%,0-35,N,0,60
+BBB_2014B_569074,569074,BBB,2014B,F,B,Withdrawn,0,0,0,South West Region,Lower Than A Level,30-40%,35-55,N,0,60
+BBB_2013B_508537,508537,BBB,2013B,F,B,Pass,1,1,0,South West Region,A Level or Equivalent,10-20,0-35,N,0,60
+BBB_2013B_548871,548871,BBB,2013B,F,B,Fail,0,0,0,West Midlands Region,A Level or Equivalent,10-20,0-35,N,0,60
+BBB_2014J_687301,687301,BBB,2014J,F,B,Pass,1,1,0,Wales,Lower Than A Level,10-20,0-35,N,0,60
+BBB_2014J_543439,543439,BBB,2014J,F,B,Pass,1,1,0,South Region,A Level or Equivalent,80-90%,0-35,N,0,60
+BBB_2013B_531464,531464,BBB,2013B,F,B,Fail,0,0,0,East Anglian Region,Lower Than A Level,40-50%,35-55,N,0,60
+BBB_2013B_476369,476369,BBB,2013B,F,B,Pass,1,1,0,West Midlands Region,HE Qualification,10-20,0-35,N,0,60
+BBB_2013J_607309,607309,BBB,2013J,F,B,Withdrawn,0,0,0,South East Region,A Level or Equivalent,90-100%,0-35,N,0,120
+BBB_2013J_581139,581139,BBB,2013J,F,B,Pass,1,1,0,London Region,Lower Than A Level,70-80%,35-55,N,0,60
+BBB_2013J_594056,594056,BBB,2013J,F,B,Pass,1,1,0,Scotland,A Level or Equivalent,20-30%,35-55,N,0,60
+BBB_2014J_695631,695631,BBB,2014J,M,A,Pass,1,1,0,North Western Region,A Level or Equivalent,10-20,35-55,Y,0,60
+BBB_2014B_611233,611233,BBB,2014B,M,A,Withdrawn,0,0,0,South East Region,Lower Than A Level,60-70%,35-55,N,0,60
+BBB_2013B_502713,502713,BBB,2013B,F,B,Fail,0,0,0,Wales,No Formal quals,30-40%,0-35,N,0,60
+BBB_2013J_558755,558755,BBB,2013J,F,B,Fail,0,0,0,North Western Region,A Level or Equivalent,0-10%,35-55,N,0,60
+BBB_2014J_696890,696890,BBB,2014J,F,B,Withdrawn,0,0,0,Scotland,A Level or Equivalent,60-70%,35-55,N,0,120
+BBB_2013J_579571,579571,BBB,2013J,F,B,Pass,1,1,0,Yorkshire Region,Lower Than A Level,0-10%,0-35,N,0,60
+BBB_2013B_200863,200863,BBB,2013B,F,B,Withdrawn,0,0,0,South West Region,A Level or Equivalent,40-50%,0-35,N,1,60
+BBB_2014J_595365,595365,BBB,2014J,F,B,Pass,1,1,0,South East Region,Lower Than A Level,40-50%,0-35,N,0,60
+BBB_2013J_2488714,2488714,BBB,2013J,M,A,Withdrawn,0,0,0,West Midlands Region,Lower Than A Level,90-100%,35-55,N,0,60
+BBB_2013J_446345,446345,BBB,2013J,F,B,Fail,0,0,0,Ireland,A Level or Equivalent,20-30%,0-35,N,0,60
+BBB_2014J_327940,327940,BBB,2014J,F,B,Pass,1,1,0,East Anglian Region,A Level or Equivalent,90-100%,35-55,N,0,60
+BBB_2014J_692479,692479,BBB,2014J,F,B,Withdrawn,0,0,0,Wales,Lower Than A Level,80-90%,0-35,N,0,60
+BBB_2014J_642698,642698,BBB,2014J,F,B,Pass,1,1,0,East Midlands Region,Lower Than A Level,10-20,35-55,N,0,60
+BBB_2014B_349401,349401,BBB,2014B,F,B,Withdrawn,0,0,0,South East Region,A Level or Equivalent,20-30%,0-35,Y,0,180
+BBB_2014J_651798,651798,BBB,2014J,F,B,Withdrawn,0,0,0,North Western Region,Lower Than A Level,30-40%,0-35,N,0,120
+BBB_2013J_586975,586975,BBB,2013J,F,B,Withdrawn,0,0,0,East Anglian Region,A Level or Equivalent,60-70%,35-55,Y,0,120
+BBB_2013J_360101,360101,BBB,2013J,F,B,Withdrawn,0,0,0,West Midlands Region,Lower Than A Level,10-20,0-35,N,0,60
+BBB_2014J_691006,691006,BBB,2014J,F,B,Fail,0,0,0,Scotland,Lower Than A Level,60-70%,35-55,N,0,60
+BBB_2013J_597878,597878,BBB,2013J,F,B,Pass,1,1,0,Scotland,A Level or Equivalent,90-100%,0-35,N,0,60
+BBB_2013J_545247,545247,BBB,2013J,F,B,Fail,0,0,0,West Midlands Region,Lower Than A Level,0-10%,0-35,N,0,60
+BBB_2014J_550081,550081,BBB,2014J,M,A,Pass,1,1,0,South West Region,Lower Than A Level,20-30%,35-55,N,0,60
+BBB_2014J_696595,696595,BBB,2014J,M,A,Withdrawn,0,0,0,East Anglian Region,Lower Than A Level,60-70%,0-35,N,0,60
+BBB_2014J_652149,652149,BBB,2014J,F,B,Pass,1,1,0,East Anglian Region,No Formal quals,20-30%,0-35,N,0,60
+BBB_2013J_604556,604556,BBB,2013J,F,B,Pass,1,1,0,North Region,A Level or Equivalent,0-10%,0-35,N,0,120
+BBB_2014B_634286,634286,BBB,2014B,F,B,Pass,1,1,0,London Region,HE Qualification,20-30%,0-35,N,0,60
+BBB_2013B_539572,539572,BBB,2013B,F,B,Pass,1,1,0,London Region,Lower Than A Level,30-40%,0-35,N,0,60
+BBB_2013J_577280,577280,BBB,2013J,F,B,Pass,1,1,0,Wales,A Level or Equivalent,40-50%,0-35,N,0,150
+BBB_2014B_631422,631422,BBB,2014B,F,B,Withdrawn,0,0,0,Scotland,Lower Than A Level,70-80%,35-55,N,0,60
+BBB_2013J_565402,565402,BBB,2013J,F,B,Withdrawn,0,0,0,South Region,Lower Than A Level,80-90%,0-35,N,0,180
+BBB_2014B_608407,608407,BBB,2014B,F,B,Distinction,1,1,0,North Region,Lower Than A Level,20-30%,0-35,N,0,120
+BBB_2014J_179073,179073,BBB,2014J,F,B,Withdrawn,0,0,0,East Anglian Region,Lower Than A Level,60-70%,0-35,N,1,60
+BBB_2013J_500668,500668,BBB,2013J,F,B,Pass,1,1,0,Scotland,HE Qualification,60-70%,0-35,N,0,120
+BBB_2013B_447782,447782,BBB,2013B,M,A,Distinction,1,1,0,London Region,HE Qualification,50-60%,35-55,N,0,60
+BBB_2014B_554969,554969,BBB,2014B,F,B,Distinction,1,1,0,North Western Region,A Level or Equivalent,50-60%,0-35,N,0,60
+BBB_2014B_607436,607436,BBB,2014B,F,B,Withdrawn,0,0,0,London Region,Lower Than A Level,20-30%,35-55,Y,0,180
+BBB_2014J_680009,680009,BBB,2014J,F,B,Pass,1,1,0,Yorkshire Region,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2014J_697574,697574,BBB,2014J,M,A,Pass,1,1,0,South Region,A Level or Equivalent,40-50%,35-55,N,0,60
+BBB_2013J_492726,492726,BBB,2013J,F,B,Pass,1,1,0,Scotland,A Level or Equivalent,0-10%,0-35,N,0,60
+BBB_2013B_401349,401349,BBB,2013B,F,B,Distinction,1,1,0,West Midlands Region,A Level or Equivalent,20-30%,0-35,N,0,60
+BBB_2014J_646901,646901,BBB,2014J,M,A,Pass,1,1,0,East Anglian Region,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2013J_231959,231959,BBB,2013J,F,B,Withdrawn,0,0,0,North Region,Lower Than A Level,20-30%,35-55,N,1,180
+BBB_2014J_651939,651939,BBB,2014J,F,B,Pass,1,1,0,East Anglian Region,Lower Than A Level,30-40%,0-35,N,0,60
+BBB_2014B_626951,626951,BBB,2014B,F,B,Pass,1,1,0,Wales,A Level or Equivalent,80-90%,35-55,N,0,60
+BBB_2013J_524790,524790,BBB,2013J,F,B,Distinction,1,1,0,South East Region,A Level or Equivalent,90-100%,35-55,N,0,60
+BBB_2013J_599434,599434,BBB,2013J,M,A,Fail,0,0,0,East Midlands Region,A Level or Equivalent,80-90%,0-35,N,0,60
+BBB_2013B_528220,528220,BBB,2013B,F,B,Withdrawn,0,0,0,East Midlands Region,A Level or Equivalent,0-10%,35-55,N,1,180
+BBB_2013B_548800,548800,BBB,2013B,F,B,Withdrawn,0,0,0,South Region,A Level or Equivalent,20-30%,0-35,N,0,120
+BBB_2013J_483876,483876,BBB,2013J,F,B,Pass,1,1,0,London Region,No Formal quals,50-60%,0-35,N,0,120
+BBB_2013B_547372,547372,BBB,2013B,F,B,Fail,0,0,0,Wales,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2013J_426458,426458,BBB,2013J,F,B,Pass,1,1,0,Wales,Lower Than A Level,30-40%,0-35,N,0,180
+BBB_2014B_621301,621301,BBB,2014B,M,A,Pass,1,1,0,Scotland,Lower Than A Level,0-10%,35-55,N,0,60
+BBB_2014B_613896,613896,BBB,2014B,F,B,Withdrawn,0,0,0,East Midlands Region,HE Qualification,30-40%,0-35,N,0,60
+BBB_2013B_109938,109938,BBB,2013B,F,B,Distinction,1,1,0,Wales,HE Qualification,60-70%,0-35,N,0,120
+BBB_2013B_556138,556138,BBB,2013B,F,B,Withdrawn,0,0,0,East Midlands Region,HE Qualification,40-50%,35-55,N,0,60
+BBB_2013J_602631,602631,BBB,2013J,F,B,Withdrawn,0,0,0,Ireland,A Level or Equivalent,0-10%,35-55,N,0,60
+BBB_2013J_595678,595678,BBB,2013J,F,B,Pass,1,1,0,Wales,A Level or Equivalent,70-80%,0-35,N,0,60
+BBB_2014B_626046,626046,BBB,2014B,F,B,Distinction,1,1,0,Yorkshire Region,Lower Than A Level,10-20,35-55,N,0,60
+BBB_2014J_686093,686093,BBB,2014J,F,B,Withdrawn,0,0,0,London Region,HE Qualification,10-20,35-55,N,0,120
+BBB_2013J_576841,576841,BBB,2013J,M,A,Pass,1,1,0,Yorkshire Region,Lower Than A Level,10-20,35-55,N,0,120
+BBB_2013B_542081,542081,BBB,2013B,F,B,Withdrawn,0,0,0,North Western Region,Lower Than A Level,0-10%,0-35,N,0,120
+BBB_2014B_526285,526285,BBB,2014B,F,B,Pass,1,1,0,Scotland,A Level or Equivalent,30-40%,0-35,N,0,60
+BBB_2013B_512995,512995,BBB,2013B,F,B,Pass,1,1,0,West Midlands Region,A Level or Equivalent,10-20,0-35,N,0,60
+BBB_2014B_232539,232539,BBB,2014B,F,B,Distinction,1,1,0,South East Region,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2014B_620047,620047,BBB,2014B,F,B,Withdrawn,0,0,0,South West Region,Lower Than A Level,10-20,0-35,N,0,60
+BBB_2013J_612050,612050,BBB,2013J,F,B,Withdrawn,0,0,0,Scotland,A Level or Equivalent,90-100%,0-35,N,0,75
+BBB_2013J_2227004,2227004,BBB,2013J,F,B,Withdrawn,0,0,0,London Region,A Level or Equivalent,90-100%,35-55,N,1,120
+BBB_2014J_351050,351050,BBB,2014J,F,B,Pass,1,1,0,Ireland,Lower Than A Level,10-20,0-35,N,0,60
+BBB_2013B_546322,546322,BBB,2013B,F,B,Pass,1,1,0,East Anglian Region,Lower Than A Level,30-40%,0-35,N,0,60
+BBB_2013J_604292,604292,BBB,2013J,F,B,Pass,1,1,0,North Western Region,A Level or Equivalent,10-20,35-55,N,0,60
+BBB_2013J_484412,484412,BBB,2013J,F,B,Pass,1,1,0,South West Region,A Level or Equivalent,0-10%,35-55,N,0,120
+BBB_2013B_528353,528353,BBB,2013B,F,B,Pass,1,1,0,East Anglian Region,A Level or Equivalent,70-80%,35-55,N,0,60
+BBB_2013B_511652,511652,BBB,2013B,F,B,Withdrawn,0,0,0,Yorkshire Region,A Level or Equivalent,40-50%,0-35,N,1,240
+BBB_2014J_2229783,2229783,BBB,2014J,F,B,Pass,1,1,0,London Region,HE Qualification,0-10%,35-55,N,1,60
+BBB_2013J_415216,415216,BBB,2013J,F,B,Pass,1,1,0,South West Region,A Level or Equivalent,90-100%,0-35,N,0,60
+BBB_2013B_545658,545658,BBB,2013B,F,B,Pass,1,1,0,Wales,HE Qualification,30-40%,35-55,N,0,60
+BBB_2014J_695516,695516,BBB,2014J,F,B,Withdrawn,0,0,0,East Anglian Region,Lower Than A Level,30-40%,0-35,N,0,60
+BBB_2014B_605388,605388,BBB,2014B,F,B,Withdrawn,0,0,0,Scotland,A Level or Equivalent,90-100%,0-35,N,0,60
+BBB_2014J_607176,607176,BBB,2014J,F,B,Withdrawn,0,0,0,South West Region,A Level or Equivalent,70-80%,0-35,N,0,60
+BBB_2014B_569225,569225,BBB,2014B,F,B,Pass,1,1,0,South Region,A Level or Equivalent,40-50%,0-35,N,0,90
+BBB_2014J_165099,165099,BBB,2014J,F,B,Fail,0,0,0,East Midlands Region,Lower Than A Level,20-30%,0-35,N,0,180
+BBB_2013B_366821,366821,BBB,2013B,F,B,Fail,0,0,0,West Midlands Region,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2014B_578574,578574,BBB,2014B,F,B,Pass,1,1,0,East Midlands Region,Lower Than A Level,20-30%,0-35,N,1,120
+BBB_2013J_567145,567145,BBB,2013J,F,B,Withdrawn,0,0,0,North Region,Lower Than A Level,0-10%,0-35,N,0,60
+BBB_2013J_560430,560430,BBB,2013J,F,B,Fail,0,0,0,East Midlands Region,Lower Than A Level,60-70%,35-55,N,0,60
+BBB_2014B_569664,569664,BBB,2014B,M,A,Pass,1,1,0,London Region,Lower Than A Level,40-50%,35-55,N,0,60
+BBB_2013B_2092834,2092834,BBB,2013B,F,B,Pass,1,1,0,South Region,A Level or Equivalent,60-70%,0-35,N,0,90
+BBB_2013J_593694,593694,BBB,2013J,F,B,Pass,1,1,0,Ireland,Lower Than A Level,50-60%,35-55,N,0,60
+BBB_2014J_123087,123087,BBB,2014J,F,B,Pass,1,1,0,West Midlands Region,A Level or Equivalent,0-10%,0-35,N,0,120
+BBB_2014J_541476,541476,BBB,2014J,F,B,Pass,1,1,0,Wales,A Level or Equivalent,10-20,35-55,N,0,60
+BBB_2014B_468529,468529,BBB,2014B,F,B,Withdrawn,0,0,0,South Region,Lower Than A Level,70-80%,0-35,N,0,120
+BBB_2013J_595232,595232,BBB,2013J,F,B,Withdrawn,0,0,0,South Region,A Level or Equivalent,90-100%,0-35,N,0,180
+BBB_2013J_564898,564898,BBB,2013J,F,B,Distinction,1,1,0,South East Region,A Level or Equivalent,30-40%,0-35,N,0,75
+BBB_2013B_422070,422070,BBB,2013B,F,B,Fail,0,0,0,East Midlands Region,A Level or Equivalent,50-60%,0-35,N,1,90
+BBB_2014J_258268,258268,BBB,2014J,F,B,Pass,1,1,0,East Midlands Region,HE Qualification,30-40%,0-35,N,0,120
+BBB_2014J_691272,691272,BBB,2014J,F,B,Withdrawn,0,0,0,East Anglian Region,HE Qualification,40-50%,0-35,N,0,120
+BBB_2013J_402993,402993,BBB,2013J,F,B,Pass,1,1,0,East Midlands Region,A Level or Equivalent,0-10%,0-35,N,0,60
+BBB_2013J_573431,573431,BBB,2013J,F,B,Withdrawn,0,0,0,South Region,A Level or Equivalent,20-30%,0-35,N,0,60
+BBB_2014B_620175,620175,BBB,2014B,F,B,Withdrawn,0,0,0,London Region,A Level or Equivalent,10-20,0-35,N,0,60
+BBB_2013J_1018682,1018682,BBB,2013J,F,B,Fail,0,0,0,South West Region,HE Qualification,40-50%,35-55,Y,0,120
+BBB_2014B_620865,620865,BBB,2014B,F,B,Withdrawn,0,0,0,North Western Region,Lower Than A Level,10-20,0-35,N,0,120
+BBB_2013J_604079,604079,BBB,2013J,F,B,Withdrawn,0,0,0,North Western Region,A Level or Equivalent,10-20,0-35,Y,0,120
+BBB_2013B_186780,186780,BBB,2013B,F,B,Withdrawn,0,0,0,North Western Region,A Level or Equivalent,10-20,35-55,Y,2,120
+BBB_2013B_550051,550051,BBB,2013B,F,B,Withdrawn,0,0,0,East Midlands Region,A Level or Equivalent,0-10%,0-35,N,0,60
+BBB_2013J_2210666,2210666,BBB,2013J,F,B,Fail,0,0,0,London Region,No Formal quals,50-60%,0-35,N,0,60
+BBB_2014J_306478,306478,BBB,2014J,F,B,Pass,1,1,0,Ireland,Lower Than A Level,80-90%,0-35,N,0,60
+BBB_2014J_693127,693127,BBB,2014J,M,A,Withdrawn,0,0,0,East Anglian Region,A Level or Equivalent,50-60%,0-35,N,0,120
+BBB_2013J_336478,336478,BBB,2013J,F,B,Pass,1,1,0,Yorkshire Region,Lower Than A Level,30-40%,0-35,N,0,60
+BBB_2014J_648760,648760,BBB,2014J,F,B,Pass,1,1,0,East Midlands Region,Lower Than A Level,80-90%,0-35,N,0,120
+BBB_2013J_522894,522894,BBB,2013J,F,B,Pass,1,1,0,Scotland,HE Qualification,30-40%,35-55,N,0,120
+BBB_2014J_697912,697912,BBB,2014J,M,A,Fail,0,0,0,North Western Region,Lower Than A Level,80-90%,35-55,N,0,120
+BBB_2013J_528056,528056,BBB,2013J,F,B,Fail,0,0,0,South West Region,A Level or Equivalent,30-40%,0-35,N,1,60
+BBB_2014J_642201,642201,BBB,2014J,F,B,Pass,1,1,0,Wales,Lower Than A Level,0-10%,0-35,N,0,60
+BBB_2014B_115452,115452,BBB,2014B,F,B,Fail,0,0,0,East Anglian Region,Lower Than A Level,30-40%,0-35,N,1,120
+BBB_2013B_546333,546333,BBB,2013B,F,B,Withdrawn,0,0,0,East Anglian Region,Lower Than A Level,20-30%,35-55,Y,0,60
+BBB_2014J_335765,335765,BBB,2014J,F,B,Withdrawn,0,0,0,West Midlands Region,A Level or Equivalent,0-10%,0-35,N,1,60
+BBB_2014J_698357,698357,BBB,2014J,F,B,Withdrawn,0,0,0,South Region,A Level or Equivalent,90-100%,0-35,N,0,60
+BBB_2013B_381640,381640,BBB,2013B,F,B,Fail,0,0,0,South East Region,HE Qualification,60-70%,0-35,N,0,135
+BBB_2014J_574512,574512,BBB,2014J,F,B,Pass,1,1,0,West Midlands Region,A Level or Equivalent,30-40%,35-55,N,0,60
+BBB_2013J_597582,597582,BBB,2013J,F,B,Fail,0,0,0,South West Region,Lower Than A Level,40-50%,35-55,N,0,60
+BBB_2014J_551276,551276,BBB,2014J,F,B,Pass,1,1,0,East Anglian Region,Lower Than A Level,40-50%,0-35,N,0,180
+BBB_2014B_631081,631081,BBB,2014B,F,B,Pass,1,1,0,West Midlands Region,A Level or Equivalent,80-90%,0-35,N,0,60
+BBB_2013J_603818,603818,BBB,2013J,F,B,Withdrawn,0,0,0,South Region,Lower Than A Level,30-40%,0-35,N,0,120
+BBB_2014B_583102,583102,BBB,2014B,F,B,Fail,0,0,0,East Anglian Region,A Level or Equivalent,50-60%,0-35,N,0,120
+BBB_2013B_536722,536722,BBB,2013B,F,B,Fail,0,0,0,West Midlands Region,A Level or Equivalent,10-20,0-35,N,0,60
+BBB_2014J_647312,647312,BBB,2014J,F,B,Withdrawn,0,0,0,London Region,HE Qualification,0-10%,35-55,N,0,120
+BBB_2014J_688106,688106,BBB,2014J,F,B,Withdrawn,0,0,0,London Region,A Level or Equivalent,0-10%,0-35,N,0,60
+BBB_2013J_264152,264152,BBB,2013J,F,B,Pass,1,1,0,Wales,A Level or Equivalent,30-40%,0-35,N,1,120
+BBB_2014J_601803,601803,BBB,2014J,F,B,Fail,0,0,0,North Region,A Level or Equivalent,30-40%,0-35,N,0,120
+BBB_2013B_539265,539265,BBB,2013B,F,B,Pass,1,1,0,East Anglian Region,Lower Than A Level,60-70%,0-35,N,0,60
+BBB_2013J_598230,598230,BBB,2013J,F,B,Pass,1,1,0,Ireland,A Level or Equivalent,20-30%,35-55,N,0,60
+BBB_2013J_367433,367433,BBB,2013J,F,B,Pass,1,1,0,North Region,Lower Than A Level,40-50%,0-35,N,0,60
+BBB_2014J_26315,26315,BBB,2014J,F,B,Pass,1,1,0,East Anglian Region,Lower Than A Level,60-70%,35-55,N,1,60
+BBB_2013B_446145,446145,BBB,2013B,M,A,Fail,0,0,0,Scotland,A Level or Equivalent,20-30%,0-35,N,0,60
+BBB_2014B_618631,618631,BBB,2014B,F,B,Fail,0,0,0,Scotland,Lower Than A Level,50-60%,0-35,N,0,90
+BBB_2013B_548884,548884,BBB,2013B,F,B,Pass,1,1,0,Wales,Lower Than A Level,0-10%,0-35,N,0,120
+BBB_2014J_647993,647993,BBB,2014J,F,B,Withdrawn,0,0,0,South East Region,Lower Than A Level,80-90%,0-35,N,0,60
+BBB_2013J_504842,504842,BBB,2013J,F,B,Withdrawn,0,0,0,East Midlands Region,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2014J_601874,601874,BBB,2014J,F,B,Fail,0,0,0,Wales,Lower Than A Level,10-20,35-55,N,0,60
+BBB_2014J_590086,590086,BBB,2014J,F,B,Pass,1,1,0,Scotland,A Level or Equivalent,90-100%,0-35,N,0,60
+BBB_2014B_2006364,2006364,BBB,2014B,F,B,Fail,0,0,0,Scotland,Lower Than A Level,10-20,35-55,N,1,60
+BBB_2014J_492579,492579,BBB,2014J,F,B,Withdrawn,0,0,0,West Midlands Region,A Level or Equivalent,90-100%,0-35,N,0,60
+BBB_2013B_531235,531235,BBB,2013B,F,B,Withdrawn,0,0,0,Yorkshire Region,A Level or Equivalent,50-60%,0-35,N,0,60
+BBB_2013J_587423,587423,BBB,2013J,F,B,Distinction,1,1,0,Yorkshire Region,A Level or Equivalent,20-30%,0-35,N,0,180
+BBB_2013J_560773,560773,BBB,2013J,F,B,Pass,1,1,0,South Region,A Level or Equivalent,80-90%,0-35,N,0,120
+BBB_2013B_537464,537464,BBB,2013B,F,B,Pass,1,1,0,South East Region,A Level or Equivalent,60-70%,0-35,N,0,60
+BBB_2013B_530245,530245,BBB,2013B,F,B,Withdrawn,0,0,0,West Midlands Region,A Level or Equivalent,10-20,35-55,N,1,120
+BBB_2013J_373848,373848,BBB,2013J,F,B,Pass,1,1,0,South West Region,Lower Than A Level,50-60%,35-55,N,0,60
+BBB_2013B_543896,543896,BBB,2013B,F,B,Withdrawn,0,0,0,South East Region,A Level or Equivalent,0-10%,0-35,N,0,60
+BBB_2013J_2625752,2625752,BBB,2013J,F,B,Withdrawn,0,0,0,East Anglian Region,Lower Than A Level,20-30%,0-35,N,0,180
+BBB_2013B_399108,399108,BBB,2013B,F,B,Withdrawn,0,0,0,East Midlands Region,A Level or Equivalent,10-20,0-35,N,0,60
+BBB_2013B_560968,560968,BBB,2013B,F,B,Distinction,1,1,0,Wales,HE Qualification,50-60%,35-55,N,0,120
+BBB_2013J_577069,577069,BBB,2013J,F,B,Distinction,1,1,0,London Region,HE Qualification,10-20,0-35,N,0,60
+BBB_2014B_625094,625094,BBB,2014B,M,A,Pass,1,1,0,West Midlands Region,A Level or Equivalent,0-10%,0-35,N,0,60
+BBB_2013J_583967,583967,BBB,2013J,F,B,Withdrawn,0,0,0,East Midlands Region,Lower Than A Level,70-80%,35-55,N,0,60
+BBB_2014B_631445,631445,BBB,2014B,F,B,Pass,1,1,0,Wales,Lower Than A Level,30-40%,35-55,N,0,60
+BBB_2013B_558099,558099,BBB,2013B,F,B,Distinction,1,1,0,South East Region,A Level or Equivalent,40-50%,35-55,N,0,60
+BBB_2013B_546052,546052,BBB,2013B,F,B,Distinction,1,1,0,South Region,Lower Than A Level,90-100%,35-55,N,0,120
+BBB_2013J_563374,563374,BBB,2013J,M,A,Fail,0,0,0,Scotland,Lower Than A Level,80-90%,0-35,N,0,60
+BBB_2014J_685201,685201,BBB,2014J,F,B,Pass,1,1,0,Scotland,A Level or Equivalent,0-10%,35-55,N,0,60
+BBB_2013B_549754,549754,BBB,2013B,F,B,Pass,1,1,0,West Midlands Region,Lower Than A Level,10-20,0-35,N,0,60
+BBB_2013B_500836,500836,BBB,2013B,M,A,Fail,0,0,0,West Midlands Region,A Level or Equivalent,40-50%,0-35,Y,1,240
+BBB_2013J_27759,27759,BBB,2013J,M,A,Fail,0,0,0,North Western Region,Lower Than A Level,40-50%,35-55,Y,0,120
+BBB_2014J_579161,579161,BBB,2014J,F,B,Pass,1,1,0,North Western Region,Lower Than A Level,10-20,0-35,N,0,60
+BBB_2013J_584580,584580,BBB,2013J,F,B,Pass,1,1,0,Ireland,Lower Than A Level,0-10%,0-35,N,0,60
+BBB_2013J_576985,576985,BBB,2013J,F,B,Withdrawn,0,0,0,South East Region,Lower Than A Level,30-40%,0-35,N,0,120
+BBB_2014J_565576,565576,BBB,2014J,F,B,Pass,1,1,0,North Western Region,A Level or Equivalent,80-90%,35-55,N,0,60
+BBB_2013B_479519,479519,BBB,2013B,F,B,Fail,0,0,0,West Midlands Region,No Formal quals,0-10%,0-35,N,1,120
+BBB_2014J_645370,645370,BBB,2014J,F,B,Pass,1,1,0,Yorkshire Region,A Level or Equivalent,10-20,0-35,N,0,60
+BBB_2013B_362760,362760,BBB,2013B,F,B,Fail,0,0,0,Wales,A Level or Equivalent,10-20,0-35,N,0,180
+BBB_2014B_613791,613791,BBB,2014B,F,B,Withdrawn,0,0,0,Scotland,A Level or Equivalent,10-20,0-35,N,0,60
+BBB_2014J_656352,656352,BBB,2014J,F,B,Pass,1,1,0,East Anglian Region,Lower Than A Level,30-40%,35-55,N,0,60
+BBB_2013J_596677,596677,BBB,2013J,F,B,Fail,0,0,0,West Midlands Region,A Level or Equivalent,30-40%,0-35,N,0,60
+BBB_2014B_2317273,2317273,BBB,2014B,F,B,Pass,1,1,0,Wales,HE Qualification,20-30%,35-55,N,0,60
+BBB_2014J_695484,695484,BBB,2014J,M,A,Pass,1,1,0,Ireland,A Level or Equivalent,80-90%,0-35,N,0,60
+BBB_2014J_602666,602666,BBB,2014J,F,B,Pass,1,1,0,South East Region,A Level or Equivalent,20-30%,0-35,Y,1,90
+BBB_2014J_600658,600658,BBB,2014J,F,B,Fail,0,0,0,Wales,Lower Than A Level,40-50%,0-35,N,2,120
+BBB_2013J_519584,519584,BBB,2013J,F,B,Pass,1,1,0,South Region,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2014J_679504,679504,BBB,2014J,F,B,Withdrawn,0,0,0,South East Region,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2014J_557085,557085,BBB,2014J,F,B,Withdrawn,0,0,0,Yorkshire Region,Lower Than A Level,20-30%,35-55,N,0,120
+BBB_2014B_485180,485180,BBB,2014B,F,B,Pass,1,1,0,South West Region,Lower Than A Level,40-50%,0-35,N,0,195
+BBB_2013B_555673,555673,BBB,2013B,F,B,Fail,0,0,0,East Anglian Region,Lower Than A Level,70-80%,0-35,N,0,60
+BBB_2014B_539675,539675,BBB,2014B,F,B,Fail,0,0,0,South East Region,Lower Than A Level,30-40%,0-35,N,1,120
+BBB_2013J_597742,597742,BBB,2013J,F,B,Pass,1,1,0,West Midlands Region,Lower Than A Level,50-60%,0-35,N,0,60
+BBB_2013B_535278,535278,BBB,2013B,F,B,Fail,0,0,0,Scotland,Lower Than A Level,10-20,0-35,N,0,60
+BBB_2014J_695461,695461,BBB,2014J,M,A,Withdrawn,0,0,0,Ireland,Lower Than A Level,0-10%,0-35,N,0,60
+BBB_2013J_335481,335481,BBB,2013J,F,B,Fail,0,0,0,South East Region,HE Qualification,90-100%,35-55,N,3,60
+BBB_2014B_572987,572987,BBB,2014B,M,A,Withdrawn,0,0,0,Yorkshire Region,Lower Than A Level,0-10%,35-55,Y,1,180
+BBB_2014B_467100,467100,BBB,2014B,F,B,Fail,0,0,0,South Region,Lower Than A Level,30-40%,0-35,N,0,120
+BBB_2013J_572508,572508,BBB,2013J,F,B,Pass,1,1,0,South Region,Lower Than A Level,10-20,0-35,N,0,60
+BBB_2013B_442012,442012,BBB,2013B,F,B,Pass,1,1,0,South West Region,Lower Than A Level,40-50%,35-55,N,1,60
+BBB_2013J_2464683,2464683,BBB,2013J,F,B,Pass,1,1,0,East Midlands Region,A Level or Equivalent,20-30%,35-55,Y,0,90
+BBB_2014J_2511519,2511519,BBB,2014J,F,B,Distinction,1,1,0,Ireland,A Level or Equivalent,30-40%,35-55,N,0,60
+BBB_2013J_473509,473509,BBB,2013J,M,A,Withdrawn,0,0,0,West Midlands Region,Lower Than A Level,90-100%,35-55,N,1,300
+BBB_2013J_594812,594812,BBB,2013J,M,A,Withdrawn,0,0,0,East Anglian Region,Lower Than A Level,40-50%,0-35,N,0,180
+BBB_2014J_366479,366479,BBB,2014J,F,B,Pass,1,1,0,East Anglian Region,A Level or Equivalent,40-50%,35-55,N,0,60
+BBB_2013J_590625,590625,BBB,2013J,F,B,Pass,1,1,0,Wales,Lower Than A Level,10-20,0-35,N,0,60
+BBB_2013B_425820,425820,BBB,2013B,F,B,Pass,1,1,0,Scotland,A Level or Equivalent,60-70%,0-35,N,0,60
+BBB_2013J_605832,605832,BBB,2013J,F,B,Pass,1,1,0,East Midlands Region,A Level or Equivalent,0-10%,0-35,Y,0,60
+BBB_2013J_574194,574194,BBB,2013J,F,B,Pass,1,1,0,North Western Region,A Level or Equivalent,10-20,0-35,N,0,60
+BBB_2013B_544848,544848,BBB,2013B,F,B,Pass,1,1,0,South East Region,Lower Than A Level,30-40%,0-35,N,0,60
+BBB_2014B_581353,581353,BBB,2014B,F,B,Pass,1,1,0,South West Region,Lower Than A Level,90-100%,0-35,N,0,180
+BBB_2014J_653577,653577,BBB,2014J,F,B,Distinction,1,1,0,South Region,HE Qualification,90-100%,35-55,N,0,60
+BBB_2013J_613418,613418,BBB,2013J,F,B,Pass,1,1,0,East Anglian Region,A Level or Equivalent,0-10%,0-35,N,0,60
+BBB_2014B_628389,628389,BBB,2014B,F,B,Distinction,1,1,0,East Anglian Region,HE Qualification,90-100%,0-35,N,0,60
+BBB_2013J_586581,586581,BBB,2013J,F,B,Pass,1,1,0,South Region,A Level or Equivalent,90-100%,0-35,N,0,60
+BBB_2013J_595138,595138,BBB,2013J,F,B,Pass,1,1,0,London Region,HE Qualification,30-40%,0-35,N,0,60
+BBB_2014B_622604,622604,BBB,2014B,F,B,Pass,1,1,0,South Region,A Level or Equivalent,80-90%,0-35,N,0,120
+BBB_2013B_519647,519647,BBB,2013B,F,B,Withdrawn,0,0,0,South West Region,Lower Than A Level,10-20,0-35,N,0,60
+BBB_2013B_535328,535328,BBB,2013B,F,B,Pass,1,1,0,South East Region,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2013B_502441,502441,BBB,2013B,F,B,Distinction,1,1,0,South West Region,A Level or Equivalent,80-90%,35-55,N,0,60
+BBB_2013J_600749,600749,BBB,2013J,M,A,Fail,0,0,0,Yorkshire Region,Lower Than A Level,10-20,0-35,N,0,120
+BBB_2013B_540594,540594,BBB,2013B,F,B,Withdrawn,0,0,0,West Midlands Region,A Level or Equivalent,0-10%,0-35,N,0,60
+BBB_2014J_687154,687154,BBB,2014J,F,B,Withdrawn,0,0,0,South Region,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2013J_2642717,2642717,BBB,2013J,M,A,Pass,1,1,0,South East Region,Lower Than A Level,30-40%,35-55,N,0,120
+BBB_2013J_2451269,2451269,BBB,2013J,F,B,Pass,1,1,0,Scotland,Lower Than A Level,50-60%,0-35,N,0,180
+BBB_2014J_675627,675627,BBB,2014J,F,B,Withdrawn,0,0,0,London Region,Lower Than A Level,0-10%,0-35,N,0,120
+BBB_2013J_278773,278773,BBB,2013J,F,B,Withdrawn,0,0,0,East Midlands Region,A Level or Equivalent,90-100%,0-35,N,0,120
+BBB_2014J_678105,678105,BBB,2014J,F,B,Pass,1,1,0,West Midlands Region,A Level or Equivalent,10-20,0-35,N,0,60
+BBB_2013B_521069,521069,BBB,2013B,M,A,Fail,0,0,0,South Region,A Level or Equivalent,10-20,35-55,N,0,60
+BBB_2014J_697065,697065,BBB,2014J,F,B,Withdrawn,0,0,0,South East Region,Lower Than A Level,50-60%,0-35,Y,0,60
+BBB_2014J_564115,564115,BBB,2014J,F,B,Distinction,1,1,0,South East Region,Lower Than A Level,20-30%,35-55,N,0,60
+BBB_2013J_381541,381541,BBB,2013J,F,B,Pass,1,1,0,Yorkshire Region,Lower Than A Level,0-10%,0-35,N,0,120
+BBB_2013J_583964,583964,BBB,2013J,F,B,Pass,1,1,0,London Region,Lower Than A Level,0-10%,35-55,N,0,60
+BBB_2013J_594845,594845,BBB,2013J,M,A,Fail,0,0,0,London Region,Lower Than A Level,10-20,35-55,N,0,60
+BBB_2014J_293989,293989,BBB,2014J,F,B,Withdrawn,0,0,0,Yorkshire Region,A Level or Equivalent,10-20,0-35,Y,0,60
+BBB_2014J_674576,674576,BBB,2014J,F,B,Pass,1,1,0,North Western Region,A Level or Equivalent,60-70%,35-55,N,0,60
+BBB_2013J_593798,593798,BBB,2013J,F,B,Pass,1,1,0,Wales,Lower Than A Level,60-70%,0-35,N,0,60
+BBB_2014J_653951,653951,BBB,2014J,F,B,Fail,0,0,0,South East Region,HE Qualification,80-90%,0-35,N,0,60
+BBB_2014J_654256,654256,BBB,2014J,F,B,Withdrawn,0,0,0,North Western Region,Lower Than A Level,20-30%,0-35,N,0,120
+BBB_2013J_516214,516214,BBB,2013J,F,B,Withdrawn,0,0,0,London Region,A Level or Equivalent,40-50%,0-35,N,0,150
+BBB_2013J_606546,606546,BBB,2013J,F,B,Pass,1,1,0,East Anglian Region,Lower Than A Level,50-60%,0-35,N,0,60
+BBB_2013J_571693,571693,BBB,2013J,F,B,Fail,0,0,0,Wales,Lower Than A Level,20-30%,35-55,N,0,60
+BBB_2014J_518389,518389,BBB,2014J,M,A,Pass,1,1,0,Scotland,HE Qualification,90-100%,35-55,Y,4,180
+BBB_2014B_2611847,2611847,BBB,2014B,F,B,Fail,0,0,0,West Midlands Region,A Level or Equivalent,0-10%,0-35,N,0,60
+BBB_2013J_371888,371888,BBB,2013J,F,B,Withdrawn,0,0,0,East Midlands Region,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2014J_515329,515329,BBB,2014J,F,B,Pass,1,1,0,South Region,A Level or Equivalent,50-60%,0-35,Y,0,120
+BBB_2013B_2466123,2466123,BBB,2013B,F,B,Withdrawn,0,0,0,North Western Region,Lower Than A Level,30-40%,0-35,Y,0,60
+BBB_2013J_599423,599423,BBB,2013J,F,B,Withdrawn,0,0,0,London Region,Lower Than A Level,10-20,0-35,Y,0,120
+BBB_2013B_511067,511067,BBB,2013B,F,B,Pass,1,1,0,South Region,A Level or Equivalent,0-10%,0-35,N,0,60
+BBB_2014B_515648,515648,BBB,2014B,F,B,Withdrawn,0,0,0,South East Region,Lower Than A Level,50-60%,0-35,Y,1,60
+BBB_2013B_477164,477164,BBB,2013B,M,A,Pass,1,1,0,South West Region,A Level or Equivalent,30-40%,0-35,N,0,60
+BBB_2013B_123379,123379,BBB,2013B,F,B,Withdrawn,0,0,0,East Midlands Region,A Level or Equivalent,70-80%,0-35,N,1,180
+BBB_2014B_563754,563754,BBB,2014B,F,B,Pass,1,1,0,South West Region,Lower Than A Level,30-40%,0-35,N,1,120
+BBB_2013J_575927,575927,BBB,2013J,F,B,Withdrawn,0,0,0,East Midlands Region,HE Qualification,70-80%,0-35,N,0,120
+BBB_2014B_625465,625465,BBB,2014B,F,B,Withdrawn,0,0,0,London Region,Lower Than A Level,20-30%,0-35,N,0,120
+BBB_2014J_2698591,2698591,BBB,2014J,F,B,Withdrawn,0,0,0,Wales,Lower Than A Level,90-100%,35-55,N,0,180
+BBB_2014B_599207,599207,BBB,2014B,F,B,Pass,1,1,0,Wales,Lower Than A Level,20-30%,35-55,Y,0,60
+BBB_2014B_620889,620889,BBB,2014B,F,B,Pass,1,1,0,South East Region,A Level or Equivalent,30-40%,0-35,N,0,60
+BBB_2014J_645753,645753,BBB,2014J,F,B,Fail,0,0,0,Scotland,Lower Than A Level,40-50%,0-35,N,0,60
+BBB_2014J_598837,598837,BBB,2014J,F,B,Pass,1,1,0,Wales,Lower Than A Level,60-70%,0-35,N,0,60
+BBB_2013J_574591,574591,BBB,2013J,F,B,Withdrawn,0,0,0,North Western Region,Lower Than A Level,50-60%,35-55,N,0,180
+BBB_2013J_613293,613293,BBB,2013J,F,B,Pass,1,1,0,Ireland,Lower Than A Level,20-30%,35-55,N,0,60
+BBB_2014J_647346,647346,BBB,2014J,F,B,Distinction,1,1,0,South West Region,A Level or Equivalent,90-100%,0-35,N,0,60
+BBB_2013J_512883,512883,BBB,2013J,F,B,Withdrawn,0,0,0,Wales,Lower Than A Level,20-30%,0-35,N,2,60
+BBB_2013J_572054,572054,BBB,2013J,F,B,Withdrawn,0,0,0,Yorkshire Region,Lower Than A Level,30-40%,35-55,N,0,60
+BBB_2014J_632144,632144,BBB,2014J,F,B,Withdrawn,0,0,0,West Midlands Region,HE Qualification,10-20,35-55,N,1,60
+BBB_2013J_410052,410052,BBB,2013J,F,B,Pass,1,1,0,London Region,A Level or Equivalent,10-20,35-55,N,3,60
+BBB_2014B_562267,562267,BBB,2014B,M,A,Withdrawn,0,0,0,North Western Region,Lower Than A Level,10-20,35-55,N,0,60
+BBB_2014B_384099,384099,BBB,2014B,F,B,Withdrawn,0,0,0,East Anglian Region,Lower Than A Level,40-50%,35-55,N,1,150
+BBB_2014J_637238,637238,BBB,2014J,F,B,Pass,1,1,0,South East Region,HE Qualification,20-30%,35-55,N,0,120
+BBB_2014B_626245,626245,BBB,2014B,F,B,Pass,1,1,0,London Region,Lower Than A Level,10-20,0-35,N,0,60
+BBB_2013J_599787,599787,BBB,2013J,M,A,Pass,1,1,0,Scotland,A Level or Equivalent,50-60%,35-55,N,0,60
+BBB_2014B_2104426,2104426,BBB,2014B,F,B,Pass,1,1,0,Wales,Lower Than A Level,0-10%,35-55,N,0,60
+BBB_2014B_633599,633599,BBB,2014B,F,B,Withdrawn,0,0,0,West Midlands Region,Lower Than A Level,40-50%,0-35,N,0,60
+BBB_2013B_466800,466800,BBB,2013B,F,B,Withdrawn,0,0,0,Scotland,Lower Than A Level,60-70%,0-35,N,1,60
+BBB_2014J_688135,688135,BBB,2014J,F,B,Pass,1,1,0,North Western Region,A Level or Equivalent,20-30%,0-35,N,0,60
+BBB_2013J_466202,466202,BBB,2013J,F,B,Pass,1,1,0,Wales,Lower Than A Level,40-50%,0-35,N,3,60
+BBB_2014J_585074,585074,BBB,2014J,F,B,Fail,0,0,0,London Region,Lower Than A Level,40-50%,35-55,N,1,60
+BBB_2014B_201431,201431,BBB,2014B,F,B,Pass,1,1,0,Wales,Lower Than A Level,50-60%,35-55,N,0,120
+BBB_2013J_513836,513836,BBB,2013J,F,B,Withdrawn,0,0,0,East Anglian Region,HE Qualification,40-50%,35-55,N,0,60
+BBB_2013B_558689,558689,BBB,2013B,F,B,Pass,1,1,0,North Region,A Level or Equivalent,20-30%,0-35,N,0,120
+BBB_2014J_2346145,2346145,BBB,2014J,F,B,Pass,1,1,0,North Western Region,A Level or Equivalent,60-70%,35-55,N,0,60
+BBB_2013J_611268,611268,BBB,2013J,F,B,Fail,0,0,0,North Western Region,A Level or Equivalent,20-30%,35-55,N,0,120
+BBB_2014B_2181205,2181205,BBB,2014B,F,B,Pass,1,1,0,London Region,Lower Than A Level,10-20,0-35,N,0,120
+BBB_2013J_2095379,2095379,BBB,2013J,M,A,Pass,1,1,0,South West Region,Lower Than A Level,70-80%,35-55,N,0,60
+BBB_2014J_598313,598313,BBB,2014J,M,A,Pass,1,1,0,London Region,A Level or Equivalent,40-50%,35-55,N,1,120
+BBB_2013J_574973,574973,BBB,2013J,F,B,Pass,1,1,0,West Midlands Region,A Level or Equivalent,20-30%,0-35,N,0,180
+BBB_2014J_606004,606004,BBB,2014J,F,B,Withdrawn,0,0,0,London Region,Lower Than A Level,10-20,0-35,N,0,120
+BBB_2013B_559291,559291,BBB,2013B,F,B,Withdrawn,0,0,0,West Midlands Region,A Level or Equivalent,40-50%,35-55,N,0,60
+BBB_2014J_677201,677201,BBB,2014J,F,B,Fail,0,0,0,Scotland,Lower Than A Level,30-40%,0-35,N,0,120
+BBB_2013J_174487,174487,BBB,2013J,F,B,Pass,1,1,0,South Region,Lower Than A Level,10-20,0-35,N,1,60
+BBB_2014B_633883,633883,BBB,2014B,M,A,Withdrawn,0,0,0,West Midlands Region,A Level or Equivalent,0-10%,0-35,N,0,60
+BBB_2014J_117544,117544,BBB,2014J,F,B,Pass,1,1,0,South West Region,Lower Than A Level,80-90%,35-55,N,0,60
+BBB_2014B_369715,369715,BBB,2014B,F,B,Pass,1,1,0,West Midlands Region,Lower Than A Level,0-10%,0-35,Y,1,120
+BBB_2014J_570275,570275,BBB,2014J,F,B,Pass,1,1,0,Scotland,A Level or Equivalent,70-80%,35-55,N,0,120
+BBB_2014B_631561,631561,BBB,2014B,F,B,Withdrawn,0,0,0,West Midlands Region,A Level or Equivalent,10-20,0-35,Y,0,60
+BBB_2013B_280962,280962,BBB,2013B,F,B,Fail,0,0,0,East Midlands Region,A Level or Equivalent,90-100%,0-35,N,0,180
+BBB_2013J_613203,613203,BBB,2013J,F,B,Distinction,1,1,0,Ireland,HE Qualification,60-70%,0-35,N,0,60
+BBB_2014J_695084,695084,BBB,2014J,F,B,Pass,1,1,0,Ireland,A Level or Equivalent,20-30%,0-35,N,0,60
+BBB_2013J_603446,603446,BBB,2013J,F,B,Pass,1,1,0,East Anglian Region,A Level or Equivalent,60-70%,35-55,N,0,120
+BBB_2014B_630736,630736,BBB,2014B,F,B,Pass,1,1,0,West Midlands Region,Lower Than A Level,40-50%,0-35,N,0,60
+BBB_2014B_633491,633491,BBB,2014B,F,B,Fail,0,0,0,Scotland,HE Qualification,90-100%,0-35,N,0,60
+BBB_2013B_561448,561448,BBB,2013B,F,B,Pass,1,1,0,South West Region,A Level or Equivalent,20-30%,0-35,N,0,120
+BBB_2013B_2608453,2608453,BBB,2013B,F,B,Fail,0,0,0,Scotland,Lower Than A Level,30-40%,35-55,N,5,120
+BBB_2013J_606229,606229,BBB,2013J,F,B,Pass,1,1,0,West Midlands Region,A Level or Equivalent,70-80%,0-35,N,0,120
+BBB_2014J_609927,609927,BBB,2014J,M,A,Pass,1,1,0,Scotland,A Level or Equivalent,80-90%,35-55,N,1,60
+BBB_2013J_606797,606797,BBB,2013J,F,B,Withdrawn,0,0,0,North Western Region,Lower Than A Level,30-40%,0-35,N,0,60
+BBB_2013B_522373,522373,BBB,2013B,F,B,Pass,1,1,0,North Western Region,A Level or Equivalent,20-30%,0-35,N,0,120
+BBB_2014B_394067,394067,BBB,2014B,F,B,Distinction,1,1,0,West Midlands Region,Lower Than A Level,70-80%,0-35,N,0,90
+BBB_2014B_2363561,2363561,BBB,2014B,F,B,Withdrawn,0,0,0,East Anglian Region,Lower Than A Level,20-30%,0-35,N,1,90
+BBB_2013J_536664,536664,BBB,2013J,F,B,Fail,0,0,0,Ireland,Lower Than A Level,60-70%,35-55,N,0,60
+BBB_2013B_541232,541232,BBB,2013B,F,B,Pass,1,1,0,East Midlands Region,Lower Than A Level,80-90%,35-55,N,0,60
+BBB_2013B_560335,560335,BBB,2013B,F,B,Withdrawn,0,0,0,Scotland,Lower Than A Level,90-100%,0-35,N,0,60
+BBB_2013J_491907,491907,BBB,2013J,F,B,Fail,0,0,0,South East Region,Lower Than A Level,50-60%,0-35,N,1,60
+BBB_2014J_573297,573297,BBB,2014J,F,B,Pass,1,1,0,Wales,Lower Than A Level,50-60%,35-55,N,0,60
+BBB_2013J_576098,576098,BBB,2013J,F,B,Withdrawn,0,0,0,East Midlands Region,Lower Than A Level,30-40%,0-35,N,0,120
+BBB_2014J_695047,695047,BBB,2014J,F,B,Pass,1,1,0,Ireland,Lower Than A Level,40-50%,35-55,N,0,60
+BBB_2014B_559467,559467,BBB,2014B,F,B,Pass,1,1,0,East Anglian Region,A Level or Equivalent,30-40%,0-35,N,0,150
+BBB_2014J_509935,509935,BBB,2014J,F,B,Pass,1,1,0,Yorkshire Region,Lower Than A Level,40-50%,0-35,N,1,60
+BBB_2013B_531573,531573,BBB,2013B,F,B,Fail,0,0,0,Wales,Lower Than A Level,0-10%,35-55,Y,1,120
+BBB_2013J_612517,612517,BBB,2013J,F,B,Pass,1,1,0,Ireland,A Level or Equivalent,0-10%,0-35,N,0,60
+BBB_2014J_683783,683783,BBB,2014J,F,B,Pass,1,1,0,West Midlands Region,HE Qualification,40-50%,0-35,N,0,60
+BBB_2014B_620922,620922,BBB,2014B,F,B,Pass,1,1,0,North Western Region,Lower Than A Level,10-20,0-35,N,0,60
+BBB_2014J_2108914,2108914,BBB,2014J,F,B,Withdrawn,0,0,0,East Midlands Region,Lower Than A Level,80-90%,35-55,N,0,120
+BBB_2014J_678057,678057,BBB,2014J,F,B,Withdrawn,0,0,0,East Midlands Region,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2013J_523331,523331,BBB,2013J,F,B,Fail,0,0,0,London Region,Lower Than A Level,10-20,35-55,N,0,60
+BBB_2013B_2570633,2570633,BBB,2013B,F,B,Withdrawn,0,0,0,London Region,Lower Than A Level,30-40%,35-55,N,0,240
+BBB_2014J_679716,679716,BBB,2014J,F,B,Pass,1,1,0,North Western Region,Lower Than A Level,0-10%,0-35,N,0,60
+BBB_2014B_629094,629094,BBB,2014B,F,B,Fail,0,0,0,Yorkshire Region,Lower Than A Level,70-80%,35-55,N,0,60
+BBB_2013J_573159,573159,BBB,2013J,F,B,Withdrawn,0,0,0,West Midlands Region,A Level or Equivalent,,0-35,N,0,120
+BBB_2013J_580346,580346,BBB,2013J,F,B,Pass,1,1,0,South East Region,A Level or Equivalent,90-100%,35-55,N,0,60
+BBB_2014J_685812,685812,BBB,2014J,F,B,Distinction,1,1,0,South Region,A Level or Equivalent,90-100%,35-55,N,0,60
+BBB_2014J_602448,602448,BBB,2014J,F,B,Fail,0,0,0,Ireland,A Level or Equivalent,70-80%,0-35,N,1,60
+BBB_2014J_414663,414663,BBB,2014J,F,B,Withdrawn,0,0,0,North Western Region,Lower Than A Level,80-90%,0-35,N,0,120
+BBB_2014B_633613,633613,BBB,2014B,F,B,Withdrawn,0,0,0,East Anglian Region,Lower Than A Level,20-30%,35-55,N,0,60
+BBB_2014B_622867,622867,BBB,2014B,F,B,Fail,0,0,0,South Region,A Level or Equivalent,80-90%,0-35,Y,0,60
+BBB_2014J_608195,608195,BBB,2014J,F,B,Fail,0,0,0,West Midlands Region,Lower Than A Level,50-60%,35-55,N,0,60
+BBB_2013J_2607641,2607641,BBB,2013J,M,A,Pass,1,1,0,Ireland,A Level or Equivalent,50-60%,0-35,N,0,60
+BBB_2014J_689768,689768,BBB,2014J,F,B,Pass,1,1,0,London Region,A Level or Equivalent,30-40%,0-35,N,0,60
+BBB_2013B_1770733,1770733,BBB,2013B,F,B,Pass,1,1,0,Wales,HE Qualification,50-60%,35-55,N,0,120
+BBB_2014J_2051809,2051809,BBB,2014J,M,A,Withdrawn,0,0,0,London Region,HE Qualification,10-20,35-55,N,0,120
+BBB_2013J_579050,579050,BBB,2013J,F,B,Withdrawn,0,0,0,Scotland,Lower Than A Level,20-30%,0-35,N,0,120
+BBB_2014B_618258,618258,BBB,2014B,F,B,Pass,1,1,0,Scotland,HE Qualification,20-30%,35-55,N,0,60
+BBB_2013B_444784,444784,BBB,2013B,F,B,Fail,0,0,0,Wales,A Level or Equivalent,30-40%,0-35,N,0,120
+BBB_2013J_383571,383571,BBB,2013J,F,B,Distinction,1,1,0,East Midlands Region,A Level or Equivalent,40-50%,0-35,N,0,120
+BBB_2013J_591223,591223,BBB,2013J,F,B,Pass,1,1,0,Scotland,HE Qualification,20-30%,35-55,N,0,120
+BBB_2014B_607220,607220,BBB,2014B,F,B,Pass,1,1,0,Yorkshire Region,Lower Than A Level,0-10%,0-35,N,0,60
+BBB_2014J_552698,552698,BBB,2014J,M,A,Fail,0,0,0,South West Region,Lower Than A Level,10-20,35-55,Y,0,60
+BBB_2013J_520006,520006,BBB,2013J,F,B,Distinction,1,1,0,East Midlands Region,A Level or Equivalent,80-90%,35-55,N,0,60
+BBB_2014J_653762,653762,BBB,2014J,F,B,Fail,0,0,0,South West Region,Lower Than A Level,,0-35,N,0,60
+BBB_2013J_599402,599402,BBB,2013J,F,B,Pass,1,1,0,North Region,A Level or Equivalent,70-80%,0-35,N,0,60
+BBB_2013B_561366,561366,BBB,2013B,F,B,Withdrawn,0,0,0,South Region,Lower Than A Level,30-40%,35-55,N,0,60
+BBB_2013J_414495,414495,BBB,2013J,M,A,Distinction,1,1,0,North Western Region,A Level or Equivalent,90-100%,0-35,N,0,90
+BBB_2014J_631248,631248,BBB,2014J,M,A,Pass,1,1,0,London Region,Lower Than A Level,40-50%,35-55,N,0,120
+BBB_2013J_537271,537271,BBB,2013J,F,B,Fail,0,0,0,South Region,A Level or Equivalent,80-90%,0-35,N,0,120
+BBB_2014B_340962,340962,BBB,2014B,F,B,Withdrawn,0,0,0,Ireland,A Level or Equivalent,40-50%,0-35,N,0,60
+BBB_2014J_678585,678585,BBB,2014J,F,B,Withdrawn,0,0,0,North Region,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2014B_2687644,2687644,BBB,2014B,M,A,Withdrawn,0,0,0,South West Region,Lower Than A Level,10-20,35-55,Y,1,60
+BBB_2014J_2216682,2216682,BBB,2014J,M,A,Pass,1,1,0,Ireland,A Level or Equivalent,90-100%,0-35,N,0,60
+BBB_2014J_522381,522381,BBB,2014J,F,B,Pass,1,1,0,Scotland,Lower Than A Level,30-40%,35-55,N,0,60
+BBB_2013J_577286,577286,BBB,2013J,M,A,Pass,1,1,0,East Anglian Region,Lower Than A Level,40-50%,35-55,N,0,120
+BBB_2013B_430160,430160,BBB,2013B,M,A,Withdrawn,0,0,0,Scotland,Lower Than A Level,30-40%,35-55,N,1,75
+BBB_2013J_601896,601896,BBB,2013J,F,B,Fail,0,0,0,Scotland,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2014J_689274,689274,BBB,2014J,F,B,Pass,1,1,0,Ireland,Lower Than A Level,70-80%,35-55,N,0,60
+BBB_2013J_606762,606762,BBB,2013J,F,B,Fail,0,0,0,South East Region,A Level or Equivalent,40-50%,0-35,N,0,60
+BBB_2013B_546632,546632,BBB,2013B,F,B,Pass,1,1,0,East Midlands Region,A Level or Equivalent,40-50%,0-35,N,0,60
+BBB_2013B_229426,229426,BBB,2013B,F,B,Distinction,1,1,0,West Midlands Region,Lower Than A Level,20-30%,0-35,N,0,60
+BBB_2014J_686762,686762,BBB,2014J,F,B,Pass,1,1,0,West Midlands Region,Lower Than A Level,0-10%,35-55,N,0,60
+BBB_2013J_530112,530112,BBB,2013J,F,B,Fail,0,0,0,Scotland,Lower Than A Level,40-50%,0-35,N,1,60
+BBB_2013B_402660,402660,BBB,2013B,F,B,Withdrawn,0,0,0,East Midlands Region,Lower Than A Level,50-60%,0-35,N,0,60
+BBB_2013B_477009,477009,BBB,2013B,F,B,Fail,0,0,0,Wales,A Level or Equivalent,80-90%,35-55,N,0,60
+BBB_2014B_567757,567757,BBB,2014B,F,B,Pass,1,1,0,Wales,A Level or Equivalent,10-20,0-35,N,0,60
+BBB_2014J_692805,692805,BBB,2014J,F,B,Pass,1,1,0,Scotland,Lower Than A Level,10-20,35-55,N,0,60
+BBB_2014B_2636696,2636696,BBB,2014B,F,B,Pass,1,1,0,West Midlands Region,A Level or Equivalent,40-50%,0-35,N,0,60
+BBB_2013B_556898,556898,BBB,2013B,F,B,Pass,1,1,0,South Region,Lower Than A Level,,35-55,N,0,60
+BBB_2013B_334291,334291,BBB,2013B,F,B,Fail,0,0,0,South West Region,Lower Than A Level,40-50%,0-35,N,1,90

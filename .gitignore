@@ -1,0 +1,41 @@
+# Raw datasets — not redistributed. See README.md for download instructions.
+data/
+.idea/
+# Run artifacts: checkpoints, tokenizers, fitted preprocessors
+runs/
+models/
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.pkl
+*.joblib
+
+!results/oulad/**/*.pt
+!results/oulad/**/*.joblib
+!results/xapi/**/*.pt
+!results/xapi/**/*.joblib
+
+# Hugging Face / PyTorch caches
+.cache/
+~/.cache/huggingface/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+*.egg-info/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*~

@@ -1,0 +1,2 @@
+n_scored,top_k,mean_influence,std_influence,min_influence,max_influence,positive_influence_fraction,top_k_group_A_fraction,top_k_positive_label_fraction
+3954,100,1.189252138598755e-08,2.5388711570806144e-07,-1.3956359907751903e-06,3.3599340554246737e-07,0.6234193222053617,0.07,0.06

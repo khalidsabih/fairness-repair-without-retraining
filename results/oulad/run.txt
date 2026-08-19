@@ -1,0 +1,366 @@
+OULAD Experiment Summary (Phases 1–5)
+
+Overview
+
+Dataset: OULAD (Open University Learning Analytics Dataset)
+
+Experiment type: Natural educational disparities (no artificial bias
+injection)
+
+Pipeline: 1. Baseline training 2. Influence diagnostics 3. Direction
+comparison 4. Repair selection 5. Final untouched-test audit
+
+------------------------------------------------------------------------
+
+Phase 1 – OULAD Data and Baseline Training
+
+Objective
+
+Train a baseline educational prediction model on real OULAD data without
+introducing synthetic bias.
+
+Dataset
+
+-   Usable registrations: 7,909
+-   Protected attribute:
+    -   Group A: 11.6%
+    -   Group B: 88.4%
+
+Outcome distribution:
+
+-   Class 0: 52.5%
+-   Class 1: 47.5%
+
+Data split:
+
+-   Train: 3,954
+-   Validation: 1,186
+-   Fairness probe: 1,187
+-   Untouched test: 1,582
+
+Model:
+
+-   Two-layer MLP
+-   Feature dimension: 39
+-   Early stopping after 11 epochs
+
+Untouched test baseline
+
+Accuracy: 0.6176
+
+Balanced Accuracy: 0.6162
+
+Macro-F1: 0.6163
+
+AUROC: 0.6499
+
+Equalized Odds Difference: 0.1621
+
+Result:
+
+A naturally occurring fairness disparity exists without artificial
+corruption.
+
+------------------------------------------------------------------------
+
+Phase 2 – Influence Diagnostics
+
+Objective
+
+Estimate the oracle-free fairness repair direction using influence
+functions.
+
+Selected parameters:
+
+-   Final encoder layer
+-   Classifier
+
+Total parameters:
+
+2,146
+
+Fairness probe:
+
+Balanced across
+
+-   Group A / label 0
+-   Group A / label 1
+-   Group B / label 0
+-   Group B / label 1
+
+Results:
+
+Smooth EO surrogate:
+
+0.0006725132
+
+Fairness-gradient norm:
+
+0.00347102
+
+Inverse-HVP norm:
+
+0.00275728
+
+Cosine(raw gradient, influence direction):
+
+0.997237
+
+Training registrations scored:
+
+3,954
+
+No corruption metrics were computed because OULAD contains no injected
+corruption.
+
+------------------------------------------------------------------------
+
+Phase 3 – Direction Comparison
+
+Objective
+
+Compare
+
+-   Raw fairness gradient
+-   Hessian-preconditioned influence direction
+
+Phase consistency:
+
+Phase 2 fairness:
+
+0.0006725132
+
+Phase 3 fairness:
+
+0.0006725132
+
+Difference:
+
+0
+
+Common-distance radius:
+
+0.0027572776
+
+Best native intervention:
+
+Influence-Hessian
+
+Fraction:
+
+10
+
+Probe smooth EO:
+
+0.0005819772
+
+Validation Balanced Accuracy:
+
+0.611232
+
+Raw Gradient
+
+Fraction:
+
+10
+
+Probe smooth EO:
+
+0.0005597526
+
+Validation Balanced Accuracy:
+
+0.611232
+
+Conclusion:
+
+Both directions are almost identical because the fairness gradient is
+already very small.
+
+------------------------------------------------------------------------
+
+Phase 4 – Repair Selection
+
+Objective
+
+Automatically select the repair satisfying validation utility
+constraints.
+
+Utility constraints:
+
+Baseline validation BA:
+
+0.609456
+
+Minimum accepted BA:
+
+0.589456
+
+Baseline validation Macro-F1:
+
+0.609456
+
+Minimum accepted Macro-F1:
+
+0.589456
+
+Selected repairs:
+
+Influence-Hessian
+
+Fraction:
+
+10
+
+Probe smooth EO:
+
+0.0005819772
+
+Probe hard EO:
+
+0.069355
+
+Validation BA:
+
+0.611232
+
+Validation Macro-F1:
+
+0.611212
+
+Raw Fairness Gradient
+
+Fraction:
+
+10
+
+Probe smooth EO:
+
+0.0005597526
+
+Probe hard EO:
+
+0.069355
+
+Validation BA:
+
+0.611232
+
+Validation Macro-F1:
+
+0.611212
+
+The untouched test split was not used.
+
+------------------------------------------------------------------------
+
+Phase 5 – Final Untouched-Test Audit
+
+Objective
+
+Evaluate the frozen repaired models exactly once on the untouched test
+set.
+
+Baseline
+
+Accuracy:
+
+0.617573
+
+Balanced Accuracy:
+
+0.616240
+
+Macro-F1:
+
+0.616303
+
+Average Precision:
+
+0.594132
+
+AUROC:
+
+0.649904
+
+Smooth EO surrogate:
+
+0.001249
+
+Equalized Odds Difference:
+
+0.162107
+
+Influence-Hessian Repair
+
+Accuracy:
+
+0.616308
+
+Balanced Accuracy:
+
+0.614972
+
+Macro-F1:
+
+0.615035
+
+Smooth EO surrogate:
+
+0.001144
+
+Equalized Odds Difference:
+
+0.160739
+
+Changed predictions:
+
+4
+
+Raw Fairness Gradient Repair
+
+Accuracy:
+
+0.615676
+
+Balanced Accuracy:
+
+0.614371
+
+Macro-F1:
+
+0.614428
+
+Smooth EO surrogate:
+
+0.001112
+
+Equalized Odds Difference:
+
+0.159371
+
+Changed predictions:
+
+5
+
+------------------------------------------------------------------------
+
+Overall Conclusions
+
+-   The complete five-phase pipeline successfully transferred from the
+    synthetic experiment to a real educational dataset.
+-   No artificial bias was injected and no oracle model was available.
+-   Influence functions estimated an oracle-free fairness repair
+    direction.
+-   The fairness gradient on OULAD was much smaller than in the
+    synthetic benchmark.
+-   Consequently, both the raw-gradient and Hessian-preconditioned
+    repairs produced only modest improvements.
+-   Equalized Odds improved slightly while predictive performance
+    remained essentially unchanged.
+-   The repairs modified fewer than 0.4% of test predictions,
+    demonstrating that the intervention remained highly localized.
+
+This experiment complements the synthetic benchmark by evaluating the
+proposed machine-unlearning framework under naturally occurring
+educational disparities.

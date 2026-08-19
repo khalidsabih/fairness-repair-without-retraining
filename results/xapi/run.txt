@@ -1,0 +1,391 @@
+==============================================================
+EXPERIMENT 3: xAPI-Edu-Data
+Machine Unlearning for Responsible and Adaptive AI in Education
+==============================================================
+
+--------------------------------------------------------------
+PHASE 1 – BASELINE MODEL TRAINING
+--------------------------------------------------------------
+
+Dataset
+-------
+Dataset: xAPI-Edu-Data
+Samples: 480
+
+Protected Attribute:
+    Group A = Male
+    Group B = Female
+
+Prediction Target:
+    1 = Medium or High Performance
+    0 = Low Performance
+
+Dataset Distribution
+--------------------
+
+Original Class Distribution
+    Low      : 26.46%
+    Medium   : 43.96%
+    High     : 29.58%
+
+Binary Label Distribution
+    Low                 : 26.46%
+    Medium/High         : 73.54%
+
+Gender Distribution
+    Male               : 63.54%
+    Female             : 36.46%
+
+Dataset Split
+-------------
+
+Training Set           : 240
+Validation Set         : 72
+Fairness Probe         : 72
+Untouched Test Set     : 96
+
+Model Performance (Untouched Test)
+----------------------------------
+
+Accuracy               : 0.864583
+Balanced Accuracy      : 0.798352
+Macro-F1               : 0.816875
+Average Precision      : 0.980836
+ROC-AUC                : 0.947802
+
+Baseline Fairness
+-----------------
+
+Equalized Odds Difference : 0.180952
+TPR Gap                   : 0.041667
+FPR Gap                   : 0.180952
+Selection Rate Gap        : 0.119438
+
+Saved Artefacts
+---------------
+
+xapi_phase1/
+    m0_xapi.pt
+    train.csv
+    validation.csv
+    fairness_probe.csv
+    test.csv
+    preprocessor.joblib
+    feature_names.json
+    validation_metrics.json
+    probe_metrics.json
+    test_metrics.json
+    training_history.json
+
+--------------------------------------------------------------
+PHASE 2 – FAIRNESS INFLUENCE DIAGNOSTICS
+--------------------------------------------------------------
+
+Balanced Fairness Probe
+-----------------------
+
+Group A, Label 0 : 16
+Group A, Label 1 : 31
+
+Group B, Label 0 : 3
+Group B, Label 1 : 22
+
+Fairness Objective
+------------------
+
+Smooth EO Surrogate
+
+0.0001266542
+
+Gradient Information
+--------------------
+
+Fairness Gradient Norm      : 0.00236179
+
+Inverse-HVP Norm            : 0.00194330
+
+Cosine Similarity
+(Raw Gradient vs Influence Direction)
+
+0.985658
+
+Influence Ranking
+-----------------
+
+Training Samples Scored : 240
+
+Top-k Analysed          : 100
+
+Positive Influence
+Fraction               : 26.25%
+
+Highest Ranked Sample
+
+xapi_445
+
+Influence Score
+
+0.000008
+
+Saved Artefacts
+---------------
+
+xapi_phase2/
+    fairness_probe_gradient.pt
+    fairness_unlearning_directions.pt
+    influence_scores.csv
+    topk_influential_samples.csv
+    influence_summary.csv
+    influence_summary_by_group.csv
+    influence_run_metadata.json
+
+--------------------------------------------------------------
+PHASE 3 – DIRECTION COMPARISON
+--------------------------------------------------------------
+
+Consistency Check
+-----------------
+
+Phase 2 Fairness
+
+0.0001266542
+
+Phase 3 Fairness
+
+0.0001266542
+
+Difference
+
+0.0000000000
+
+Direction Norms
+---------------
+
+Raw Fairness Gradient
+
+0.002362
+
+Influence-Hessian
+
+0.001943
+
+Cosine Similarity
+
+0.985658
+
+Best Native Update
+------------------
+
+Influence-Hessian
+
+Fraction                     : 10
+
+Probe Smooth EO              : 0.0000891
+
+Probe Hard EO                : 0.187500
+
+Validation Balanced Accuracy : 0.787488
+
+Validation Macro-F1          : 0.807487
+
+
+Raw Fairness Gradient
+
+Fraction                     : 10
+
+Probe Smooth EO              : 0.0000814
+
+Probe Hard EO                : 0.145833
+
+Validation Balanced Accuracy : 0.787488
+
+Validation Macro-F1          : 0.807487
+
+Saved Artefacts
+---------------
+
+xapi_phase3/
+    direction_summary.csv
+    direction_path_metrics.csv
+    direction_functional_diagnostics.csv
+    native_path_best_probe_points.csv
+    direction_comparison_metadata.json
+
+--------------------------------------------------------------
+PHASE 4 – REPAIR SELECTION
+--------------------------------------------------------------
+
+Selection Constraints
+---------------------
+
+Minimum Validation Balanced Accuracy
+
+0.767488
+
+Minimum Validation Macro-F1
+
+0.787487
+
+Selected Repairs
+----------------
+
+Influence-Hessian
+
+Fraction          : 10
+
+Probe Smooth EO   : 0.0000891
+
+Probe Hard EO     : 0.187500
+
+
+Raw Fairness Gradient
+
+Fraction          : 10
+
+Probe Smooth EO   : 0.0000814
+
+Probe Hard EO     : 0.145833
+
+Validation Utility
+------------------
+
+Balanced Accuracy : 0.787488
+
+Macro-F1          : 0.807487
+
+No utility degradation was observed.
+
+Saved Artefacts
+---------------
+
+xapi_phase4/
+    repair_candidates.csv
+    repair_selection.csv
+    selected_repair_updates.pt
+    repair_selection_metadata.json
+
+    models/
+        baseline/
+        m1_influence_repaired/
+        m1_raw_gradient_repaired/
+
+--------------------------------------------------------------
+PHASE 5 – FINAL UNTOUCHED TEST AUDIT
+--------------------------------------------------------------
+
+Final Model Comparison
+----------------------
+
+Baseline
+
+Accuracy               : 0.864583
+
+Balanced Accuracy      : 0.798352
+
+Macro-F1               : 0.816875
+
+Average Precision      : 0.980836
+
+ROC-AUC                : 0.947802
+
+Smooth EO              : 0.003012
+
+Equalized Odds         : 0.180952
+
+
+Influence-Hessian Repair
+
+Accuracy               : 0.864583
+
+Balanced Accuracy      : 0.798352
+
+Macro-F1               : 0.816875
+
+Average Precision      : 0.980836
+
+ROC-AUC                : 0.947802
+
+Smooth EO              : 0.002961
+
+Equalized Odds         : 0.180952
+
+
+Raw Fairness Gradient Repair
+
+Accuracy               : 0.864583
+
+Balanced Accuracy      : 0.798352
+
+Macro-F1               : 0.816875
+
+Average Precision      : 0.980836
+
+ROC-AUC                : 0.947802
+
+Smooth EO              : 0.002920
+
+Equalized Odds         : 0.180952
+
+Prediction Changes
+------------------
+
+Influence-Hessian Repair
+
+Changed Predictions : 0
+
+Beneficial Flips    : 0
+
+Harmful Flips       : 0
+
+
+Raw Fairness Gradient Repair
+
+Changed Predictions : 0
+
+Beneficial Flips    : 0
+
+Harmful Flips       : 0
+
+Saved Artefacts
+---------------
+
+xapi_phase5/
+    final_test_metrics.csv
+    final_test_group_confusions.csv
+    final_test_pairwise_changes.csv
+    final_test_bootstrap_intervals.csv
+    final_test_predictions.csv
+    final_test_audit_metadata.json
+
+--------------------------------------------------------------
+OVERALL CONCLUSION
+--------------------------------------------------------------
+
+The xAPI-Edu-Data experiment demonstrated that the proposed
+influence-guided machine unlearning framework successfully
+computed meaningful fairness repair directions while fully
+preserving predictive performance.
+
+Compared with the baseline model:
+
+    Smooth EO:
+        0.003012
+            ↓
+        0.002920
+
+    Accuracy:
+        unchanged (0.864583)
+
+    Balanced Accuracy:
+        unchanged (0.798352)
+
+    Macro-F1:
+        unchanged (0.816875)
+
+    Prediction Changes:
+        0
+
+The repair therefore produced small probability-level fairness
+improvements without changing any final classification decisions,
+illustrating the conservative behaviour of the framework on a
+high-performing real educational dataset.

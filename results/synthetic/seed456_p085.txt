@@ -1,0 +1,373 @@
+Generating controlled synthetic educational dataset...
+
+Saved dataset splits:
+Biased training set : 1750
+Fairness probe set  : 375
+Final test set      : 375
+Oracle training set : 1750
+
+Corruption summary:
+demo  true_quality  count  eligible  corrupted  corruption_rate_all  corruption_rate_eligible
+   A             0    653         0          0             0.000000                  0.000000
+   A             1    623       623        534             0.857143                  0.857143
+   B             0    589       589        508             0.862479                  0.862479
+   B             1    635         0          0             0.000000                  0.000000
+
+Overall corrupted samples: 1042/2500 (0.4168)
+Corruption rate among eligible samples: 0.8597
+
+Training M0 Biased...
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights: 100%|██████████| 199/199 [00:00<00:00, 7777.94it/s]
+[transformers] BertForSequenceClassification LOAD REPORT from: bert-base-uncased
+Key                                        | Status     |
+-------------------------------------------+------------+-
+cls.predictions.transform.LayerNorm.weight | UNEXPECTED |
+cls.seq_relationship.weight                | UNEXPECTED |
+cls.seq_relationship.bias                  | UNEXPECTED |
+cls.predictions.transform.LayerNorm.bias   | UNEXPECTED |
+cls.predictions.transform.dense.weight     | UNEXPECTED |
+cls.predictions.transform.dense.bias       | UNEXPECTED |
+cls.predictions.bias                       | UNEXPECTED |
+classifier.weight                          | MISSING    |
+classifier.bias                            | MISSING    |
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+- MISSING:	those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.
+  0%|          | 0/440 [00:00<?, ?it/s]/Users/khalidsabih/Desktop/Masterarbeit/final/.venv/lib/python3.14/site-packages/torch/utils/data/dataloader.py:759: UserWarning: 'pin_memory' argument is set as true but not supported on MPS now, device pinned memory won't be used.
+  super().__init__(loader)
+ 11%|█▏        | 50/440 [00:32<04:14,  1.53it/s]{'loss': '0.654', 'grad_norm': '3.17', 'learning_rate': '1.777e-05', 'epoch': '0.4545'}
+ 23%|██▎       | 100/440 [01:05<03:41,  1.54it/s]{'loss': '0.2834', 'grad_norm': '2.746', 'learning_rate': '1.55e-05', 'epoch': '0.9091'}
+ 34%|███▍      | 150/440 [01:37<03:08,  1.54it/s]{'loss': '0.2997', 'grad_norm': '2.655', 'learning_rate': '1.323e-05', 'epoch': '1.364'}
+ 45%|████▌     | 200/440 [02:10<02:35,  1.54it/s]{'loss': '0.2352', 'grad_norm': '2.404', 'learning_rate': '1.095e-05', 'epoch': '1.818'}
+ 57%|█████▋    | 250/440 [02:42<02:03,  1.54it/s]{'loss': '0.2522', 'grad_norm': '1.368', 'learning_rate': '8.682e-06', 'epoch': '2.273'}
+ 68%|██████▊   | 300/440 [03:15<01:31,  1.53it/s]{'loss': '0.2892', 'grad_norm': '2.286', 'learning_rate': '6.409e-06', 'epoch': '2.727'}
+ 80%|███████▉  | 350/440 [03:47<00:58,  1.54it/s]{'loss': '0.2333', 'grad_norm': '2.491', 'learning_rate': '4.136e-06', 'epoch': '3.182'}
+ 91%|█████████ | 400/440 [04:20<00:25,  1.54it/s]{'loss': '0.2447', 'grad_norm': '1.25', 'learning_rate': '1.864e-06', 'epoch': '3.636'}
+100%|██████████| 440/440 [04:46<00:00,  1.54it/s]
+{'train_runtime': '286.4', 'train_samples_per_second': '24.44', 'train_steps_per_second': '1.536', 'train_loss': '0.3041', 'epoch': '4'}
+Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  2.09it/s]
+M0 Biased saved to: models/m0_biased
+M0 Biased runtime: 287.45 seconds
+
+Training MR Oracle Reference...
+Loading weights: 100%|██████████| 199/199 [00:00<00:00, 6478.87it/s]
+[transformers] BertForSequenceClassification LOAD REPORT from: bert-base-uncased
+Key                                        | Status     |
+-------------------------------------------+------------+-
+cls.predictions.transform.LayerNorm.weight | UNEXPECTED |
+cls.seq_relationship.weight                | UNEXPECTED |
+cls.seq_relationship.bias                  | UNEXPECTED |
+cls.predictions.transform.LayerNorm.bias   | UNEXPECTED |
+cls.predictions.transform.dense.weight     | UNEXPECTED |
+cls.predictions.transform.dense.bias       | UNEXPECTED |
+cls.predictions.bias                       | UNEXPECTED |
+classifier.weight                          | MISSING    |
+classifier.bias                            | MISSING    |
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+- MISSING:	those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.
+  0%|          | 0/440 [00:00<?, ?it/s]/Users/khalidsabih/Desktop/Masterarbeit/final/.venv/lib/python3.14/site-packages/torch/utils/data/dataloader.py:759: UserWarning: 'pin_memory' argument is set as true but not supported on MPS now, device pinned memory won't be used.
+  super().__init__(loader)
+ 11%|█▏        | 50/440 [00:32<04:13,  1.54it/s]{'loss': '0.5914', 'grad_norm': '5.638', 'learning_rate': '1.777e-05', 'epoch': '0.4545'}
+ 23%|██▎       | 100/440 [01:05<03:40,  1.54it/s]{'loss': '0.3029', 'grad_norm': '3.318', 'learning_rate': '1.55e-05', 'epoch': '0.9091'}
+ 34%|███▍      | 150/440 [01:37<03:08,  1.54it/s]{'loss': '0.1964', 'grad_norm': '1.593', 'learning_rate': '1.323e-05', 'epoch': '1.364'}
+ 45%|████▌     | 200/440 [02:10<02:37,  1.52it/s]{'loss': '0.1866', 'grad_norm': '2.908', 'learning_rate': '1.095e-05', 'epoch': '1.818'}
+ 57%|█████▋    | 250/440 [02:43<02:04,  1.53it/s]{'loss': '0.1417', 'grad_norm': '2.092', 'learning_rate': '8.682e-06', 'epoch': '2.273'}
+ 68%|██████▊   | 300/440 [03:16<01:33,  1.49it/s]{'loss': '0.1541', 'grad_norm': '2.761', 'learning_rate': '6.409e-06', 'epoch': '2.727'}
+ 80%|███████▉  | 350/440 [03:49<00:59,  1.51it/s]{'loss': '0.146', 'grad_norm': '1.92', 'learning_rate': '4.136e-06', 'epoch': '3.182'}
+ 91%|█████████ | 400/440 [04:22<00:26,  1.51it/s]{'loss': '0.1464', 'grad_norm': '0.8486', 'learning_rate': '1.864e-06', 'epoch': '3.636'}
+100%|██████████| 440/440 [04:49<00:00,  1.52it/s]
+{'train_runtime': '289', 'train_samples_per_second': '24.22', 'train_steps_per_second': '1.522', 'train_loss': '0.2251', 'epoch': '4'}
+Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.94it/s]
+MR Oracle Reference saved to: models/mr_oracle_reference
+MR Oracle Reference runtime: 290.10 seconds
+
+==============================
+M0_Biased — fairness_probe
+==============================
+Accuracy              : 0.5147
+F1 Score              : 0.5108
+EO Difference         : 1.0000
+Average Probability A : 0.0544
+Average Probability B : 0.9527
+Pass Rate A           : 0.0000
+Pass Rate B           : 1.0000
+TPR Gap               : 1.0000
+FPR Gap               : 1.0000
+
+==============================
+M0_Biased — test
+==============================
+Accuracy              : 0.5147
+F1 Score              : 0.5108
+EO Difference         : 1.0000
+Average Probability A : 0.0543
+Average Probability B : 0.9479
+Pass Rate A           : 0.0000
+Pass Rate B           : 1.0000
+TPR Gap               : 1.0000
+FPR Gap               : 1.0000
+
+==============================
+MR_Oracle_Reference — fairness_probe
+==============================
+Accuracy              : 0.9067
+F1 Score              : 0.9118
+EO Difference         : 0.0383
+Average Probability A : 0.5037
+Average Probability B : 0.5432
+Pass Rate A           : 0.5521
+Pass Rate B           : 0.5574
+TPR Gap               : 0.0004
+FPR Gap               : 0.0383
+
+==============================
+MR_Oracle_Reference — test
+==============================
+Accuracy              : 0.9093
+F1 Score              : 0.9110
+EO Difference         : 0.0441
+Average Probability A : 0.4721
+Average Probability B : 0.5128
+Pass Rate A           : 0.4921
+Pass Rate B           : 0.5435
+TPR Gap               : 0.0441
+FPR Gap               : 0.0103
+
+Saved Phase 1 metrics to: data/phase1_metrics.csv
+Saved experiment configuration to: data/experiment_config.json
+Saved corruption summary to: data/corruption_summary.csv
+
+Phase 1 completed successfully.
+Using device: mps
+Loading M0 and Phase 1 datasets...
+Loading weights: 100%|██████████| 201/201 [00:00<00:00, 7741.13it/s]
+Selected 18 parameter tensors.
+Selected parameter elements: 7,089,410
+Fairness-probe composition:
+demo  true_quality
+A     0               24
+      1               24
+B     0               24
+      1               24
+Fairness surrogate loss: 1.62931252
+Fairness-gradient norm: 9.07260132
+LiSSA repetition 1/3: 100%|██████████| 100/100 [00:14<00:00,  6.98it/s]
+LiSSA repetition 2/3: 100%|██████████| 100/100 [00:14<00:00,  6.99it/s]
+LiSSA repetition 3/3: 100%|██████████| 100/100 [00:14<00:00,  6.95it/s]
+Inverse-HVP norm: 0.17886768
+Influence repair-direction norm: 0.17886768
+Predicted first-order fairness change: -1.61331344
+Scoring training examples: 100%|██████████| 1750/1750 [00:47<00:00, 37.21it/s]
+
+Top influential training examples:
+ rank  sample_id  harmful_influence demo  observed_label  true_quality  was_corrupted
+    1       1836           0.000406    B               1             0              1
+    2       1712           0.000406    B               1             0              1
+    3        430           0.000401    B               1             0              1
+    4       1629           0.000401    B               1             0              1
+    5        249           0.000401    B               1             0              1
+    6        450           0.000399    B               1             0              1
+    7       2270           0.000397    B               1             0              1
+    8        189           0.000392    B               1             0              1
+    9       1608           0.000392    B               1             0              1
+   10        698           0.000391    B               1             0              1
+   11       2038           0.000391    B               1             0              1
+   12        756           0.000391    B               1             0              1
+   13        419           0.000391    B               1             0              1
+   14        536           0.000390    B               1             0              1
+   15       2199           0.000390    B               1             0              1
+   16        799           0.000390    B               1             0              1
+   17       1315           0.000389    B               1             0              1
+   18        432           0.000389    B               1             0              1
+   19        662           0.000389    B               1             0              1
+   20       1166           0.000388    B               1             0              1
+   21        987           0.000387    B               1             0              1
+   22       1217           0.000387    B               1             0              1
+   23       1434           0.000387    B               1             0              1
+   24        975           0.000386    B               1             0              1
+   25       2384           0.000386    B               1             0              1
+   26       2291           0.000385    B               1             0              1
+   27       2097           0.000385    B               1             0              1
+   28         98           0.000385    B               1             0              1
+   29        933           0.000383    B               1             0              1
+   30       1850           0.000368    B               1             0              1
+   31       1832           0.000363    B               1             0              1
+   32       1695           0.000360    B               1             0              1
+   33        160           0.000360    B               1             0              1
+   34       1842           0.000358    B               1             0              1
+   35       1603           0.000357    B               1             0              1
+   36        400           0.000354    B               1             0              1
+   37        751           0.000350    B               1             0              1
+   38       1587           0.000349    B               1             0              1
+   39        732           0.000349    B               1             0              1
+   40        108           0.000349    B               1             0              1
+   41       2332           0.000348    B               1             0              1
+   42        802           0.000348    B               1             0              1
+   43         56           0.000347    B               1             0              1
+   44       1517           0.000347    B               1             0              1
+   45       2464           0.000347    B               1             0              1
+   46       1197           0.000347    B               1             0              1
+   47        746           0.000347    B               1             0              1
+   48       1983           0.000347    B               1             0              1
+   49       2033           0.000347    B               1             0              1
+   50       2460           0.000347    B               1             0              1
+
+Detection metrics (synthetic validation only):
+ n_scored  n_corrupted  corruption_prevalence  average_precision  roc_auc  precision_at_10  recall_at_10  precision_at_20  recall_at_20  precision_at_50  recall_at_50  precision_at_100  recall_at_100  mean_corrupted_rank  median_corrupted_rank
+     1750          721                  0.412            0.91124 0.939158              1.0       0.01387              1.0      0.027739              1.0      0.069348              0.93       0.128988           423.606103                  383.0
+
+Saved outputs:
+- ./data/influence_scores.csv
+- ./data/topk_influential_samples.csv
+- ./data/influence_detection_metrics.csv
+- ./data/influence_detection_by_group.csv
+- ./data/fairness_probe_gradient.pt
+- ./data/influence_fairness_direction.pt
+- ./data/influence_run_metadata.json
+
+Phase 2 completed in 93.55 seconds.
+Using device: mps
+Loading biased model, oracle reference, and Phase 2 direction...
+Loading weights: 100%|██████████| 201/201 [00:00<00:00, 7105.99it/s]
+Loading weights: 100%|██████████| 201/201 [00:00<00:00, 6489.28it/s]
+
+Parameter-space direction summary:
+                            method  n_parameter_tensors  n_parameter_elements  direction_norm  cosine_with_oracle  dot_with_fairness_gradient
+             raw_fairness_gradient                   18               7089410        9.072601            0.046949                  -82.312103
+                 influence_hessian                   18               7089410        0.178868            0.059025                   -1.613313
+oracle_selected_subspace_direction                   18               7089410        1.898634            1.000000                   -0.808714
+                 deletion_baseline                   18               7089410        0.022222           -0.000960                   -0.038389
+
+Phase-2/Phase-3 fairness consistency check:
+Phase 2 saved fairness loss : 1.62931252
+Phase 3 reproduced loss     : 1.62931265
+Absolute difference         : 0.0000001337
+
+Common-distance reference radius (native IF norm): 0.17886768
+
+Running common-distance comparison...
+Running native-update comparison...
+
+Common-distance summary at fraction 1.0:
+                            method  smooth_eo_surrogate_before  smooth_eo_surrogate_after  equalized_odds_before  equalized_odds_after  accuracy_before  accuracy_after  changed_predictions  changed_predictions_A  changed_predictions_B
+             raw_fairness_gradient                    1.629313                   0.414793                    1.0              0.833333              0.5        0.677083                   71                     48                     23
+                 influence_hessian                    1.629313                   0.434448                    1.0              0.833333              0.5        0.677083                   71                     48                     23
+oracle_selected_subspace_direction                    1.629313                   1.544873                    1.0              1.000000              0.5        0.500000                    0                      0                      0
+                 deletion_baseline                    1.629313                   1.084836                    1.0              1.000000              0.5        0.500000                    0                      0                      0
+
+Native-update summary at each method's largest tested fraction:
+                            method  smooth_eo_surrogate_before  smooth_eo_surrogate_after  equalized_odds_before  equalized_odds_after  accuracy_before  accuracy_after  changed_predictions  changed_predictions_A  changed_predictions_B  path_fraction  parameter_distance
+             raw_fairness_gradient                    1.629313                   1.431132                    1.0              1.000000              0.5        0.593750                   87                     48                     39           0.05            0.453630
+                 influence_hessian                    1.629313                   0.434448                    1.0              0.833333              0.5        0.677083                   71                     48                     23           1.00            0.178868
+oracle_selected_subspace_direction                    1.629313                   0.045590                    1.0              0.791667              0.5        0.333333                   26                      0                     26           1.00            1.898634
+                 deletion_baseline                    1.629313                   1.588165                    1.0              1.000000              0.5        0.500000                    0                      0                      0           1.00            0.022222
+
+Native functional alignment at each method's largest tested fraction:
+comparison_mode                             method  path_fraction  parameter_distance  logit_change_cosine_with_oracle_path  probability_change_cosine_with_oracle_path  margin_change_cosine_with_oracle  margin_change_correlation_with_oracle  logit_change_sign_agreement  probability_change_sign_agreement  margin_change_sign_agreement  functional_distance_to_full_oracle  functional_distance_reduction
+  native_update              raw_fairness_gradient           0.05            0.453630                              0.797031                                    0.958201                          0.802931                               0.843004                          1.0                                1.0                           1.0                           64.356335                      -0.625707
+  native_update                  influence_hessian           1.00            0.178868                              0.785412                                    0.755981                          0.790903                               0.844144                          1.0                                1.0                           1.0                           31.494598                       0.204414
+  native_update oracle_selected_subspace_direction           1.00            1.898634                              1.000000                                    1.000000                          1.000000                               1.000000                          1.0                                1.0                           1.0                           39.471388                       0.002912
+  native_update                  deletion_baseline           1.00            0.022222                              0.933942                                    0.802645                          0.940339                               0.959574                          1.0                                1.0                           1.0                           39.379491                       0.005234
+
+Saved outputs:
+- ./data/direction_parameter_alignment.csv
+- data/direction_path_metrics.csv
+- ./data/direction_functional_alignment.csv
+- ./data/direction_comparison_metadata.json
+
+Phase 3 completed in 97.16 seconds.
+Using device: mps
+Loading biased model, oracle reference, and Phase 2 direction...
+Loading weights: 100%|██████████| 201/201 [00:00<00:00, 8200.05it/s]
+Loading weights: 100%|██████████| 201/201 [00:00<00:00, 7900.65it/s]
+
+Phase-2/Phase-4 fairness consistency check:
+Phase 2 saved fairness loss : 1.62931252
+Phase 4 reproduced loss     : 1.62931261
+Absolute difference         : 0.0000000916
+
+Evaluating candidate fractions on the exact Phase 2 probe...
+Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  2.99it/s]
+influence_hessian                      fraction=   0.75  smooth_EO=0.09750594  accuracy=0.6562  saved=models/m1_influence_repaired
+Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  3.65it/s]
+raw_fairness_gradient                  fraction=   0.01  smooth_EO=0.22756278  accuracy=0.8333  saved=models/m1_raw_gradient_baseline
+Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  3.48it/s]
+oracle_selected_subspace_direction     fraction=   0.75  smooth_EO=0.39132286  accuracy=0.5000  saved=models/m1_oracle_direction_reference
+Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  3.56it/s]
+deletion_baseline                      fraction=      1  smooth_EO=1.58816456  accuracy=0.5000  saved=models/m1_deletion_baseline
+
+Selected repairs:
+                            method  fraction  parameter_distance  smooth_eo_surrogate  accuracy  changed_predictions                     output_model_dir
+                 influence_hessian      0.75            0.134151             0.097506  0.656250                   67         models/m1_influence_repaired
+             raw_fairness_gradient      0.01            0.090726             0.227563  0.833333                   38      models/m1_raw_gradient_baseline
+oracle_selected_subspace_direction      0.75            1.423976             0.391323  0.500000                    0 models/m1_oracle_direction_reference
+                 deletion_baseline      1.00            0.022222             1.588165  0.500000                    0          models/m1_deletion_baseline
+
+Saved outputs:
+- ./data/repair_selection.csv
+- ./data/repair_selection_metadata.json
+- ./data/selected_repair_updates.pt
+- models/m1_influence_repaired
+- models/m1_raw_gradient_baseline
+- models/m1_oracle_direction_reference
+- models/m1_deletion_baseline
+
+Phase 4 completed in 33.48 seconds.
+Using device: mps
+
+Evaluating frozen models on untouched test.csv...
+- biased_baseline
+Loading weights: 100%|██████████| 201/201 [00:00<00:00, 7964.17it/s]
+- influence_hessian_repair
+Loading weights: 100%|██████████| 201/201 [00:00<00:00, 8293.22it/s]
+- raw_gradient_baseline
+Loading weights: 100%|██████████| 201/201 [00:00<00:00, 7510.91it/s]
+- deletion_baseline
+Loading weights: 100%|██████████| 201/201 [00:00<00:00, 7174.27it/s]
+- oracle_direction_reference
+Loading weights: 100%|██████████| 201/201 [00:00<00:00, 8194.07it/s]
+- full_oracle_reference
+Loading weights: 100%|██████████| 201/201 [00:00<00:00, 7217.50it/s]
+
+Computing stratified bootstrap confidence intervals...
+Bootstrap: 100/1000
+Bootstrap: 200/1000
+Bootstrap: 300/1000
+Bootstrap: 400/1000
+Bootstrap: 500/1000
+Bootstrap: 600/1000
+Bootstrap: 700/1000
+Bootstrap: 800/1000
+Bootstrap: 900/1000
+Bootstrap: 1000/1000
+
+Final untouched-test summary:
+                     model  accuracy  balanced_accuracy  macro_f1  smooth_eo_surrogate  equalized_odds_difference  tpr_gap  fpr_gap  pass_rate_gap
+           biased_baseline  0.514667           0.514692  0.514636             1.592202                   1.000000 1.000000 1.000000       1.000000
+  influence_hessian_repair  0.685333           0.684677  0.664712             0.157280                   0.921348 0.136842 0.921348       0.516304
+     raw_gradient_baseline  0.882667           0.882708  0.882646             0.155388                   0.170603 0.034748 0.170603       0.124829
+         deletion_baseline  0.514667           0.514692  0.514636             1.549907                   1.000000 1.000000 1.000000       1.000000
+oracle_direction_reference  0.514667           0.514692  0.514636             0.386345                   1.000000 1.000000 1.000000       1.000000
+     full_oracle_reference  0.909333           0.909290  0.909302             0.000572                   0.044143 0.044143 0.010319       0.051332
+
+Prediction changes relative to biased baseline:
+reference_model            candidate_model  changed_predictions  fraction_changed  flips_0_to_1  flips_1_to_0  beneficial_flips  harmful_flips  mean_probability_change  mean_absolute_probability_change  changed_predictions_A  A_0_to_1  A_1_to_0  mean_probability_change_A  changed_predictions_B  B_0_to_1  B_1_to_0  mean_probability_change_B
+biased_baseline   influence_hessian_repair                  286          0.762667           191            95               175            111                 0.132331                          0.529878                    191       191         0                   0.650074                     95         0        95                  -0.405109
+biased_baseline      raw_gradient_baseline                  164          0.437333            81            83               151             13                 0.054357                          0.315821                     81        81         0                   0.363395                     83         0        83                  -0.266438
+biased_baseline          deletion_baseline                    0          0.000000             0             0                 0              0                 0.001490                          0.006017                      0         0         0                   0.007370                      0         0         0                  -0.004613
+biased_baseline oracle_direction_reference                    0          0.000000             0             0                 0              0                -0.008543                          0.227122                      0         0         0                   0.214573                      0         0         0                  -0.240147
+biased_baseline      full_oracle_reference                  178          0.474667            94            84               163             15                -0.000661                          0.444976                     94        94         0                   0.417864                     84         0        84                  -0.435107
+
+Saved outputs:
+- ./data/final_test_metrics.csv
+- ./data/final_test_group_confusions.csv
+- ./data/final_test_pairwise_changes.csv
+- ./data/final_test_bootstrap_intervals.csv
+- ./data/final_test_predictions.csv
+- ./data/final_test_audit_metadata.json
+
+Phase 5 completed in 111.25 seconds.

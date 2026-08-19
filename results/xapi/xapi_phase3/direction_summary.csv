@@ -1,0 +1,4 @@
+method,n_parameter_tensors,n_parameter_elements,direction_norm,cosine_similarity
+influence_hessian,4,2146,0.0019433038542047143,
+raw_fairness_gradient,4,2146,0.0023617930710315704,
+raw_vs_influence,4,2146,,0.9856576680320973

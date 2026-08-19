@@ -1,0 +1,69 @@
+{
+  "output_dir": "/Users/khalidsabih/Downloads/final/xapi_phase1",
+  "dataset_dir": "/Users/khalidsabih/Downloads/final/archive",
+  "dataset_name": "xAPI-Edu-Data",
+  "experiment_type": "natural_disparity",
+  "protected_attribute": "gender",
+  "group_a_value": "M",
+  "group_b_value": "F",
+  "positive_classes": [
+    "M",
+    "H"
+  ],
+  "negative_classes": [
+    "L"
+  ],
+  "test_size": 0.2,
+  "probe_size": 0.15,
+  "validation_size": 0.15,
+  "hidden_dim_1": 64,
+  "hidden_dim_2": 32,
+  "dropout": 0.2,
+  "batch_size": 64,
+  "epochs": 100,
+  "learning_rate": 0.001,
+  "weight_decay": 0.0001,
+  "patience": 12,
+  "seed": 42,
+  "decision_threshold": 0.5,
+  "source_csv": "/Users/khalidsabih/Downloads/final/archive/xAPI-Edu-Data.csv",
+  "target_definition": {
+    "positive": [
+      "M",
+      "H"
+    ],
+    "negative": [
+      "L"
+    ],
+    "interpretation": "medium/high performance versus low performance"
+  },
+  "protected_group_mapping": {
+    "A": "M",
+    "B": "F"
+  },
+  "categorical_features": [
+    "NationalITy",
+    "PlaceofBirth",
+    "StageID",
+    "GradeID",
+    "SectionID",
+    "Topic",
+    "Semester",
+    "Relation",
+    "ParentAnsweringSurvey",
+    "ParentschoolSatisfaction",
+    "StudentAbsenceDays"
+  ],
+  "numerical_features": [
+    "raisedhands",
+    "VisITedResources",
+    "AnnouncementsView",
+    "Discussion"
+  ],
+  "protected_attribute_excluded_from_model_input": true,
+  "bias_injection_applied": false,
+  "oracle_model_available": false,
+  "fairness_probe_used_for_training": false,
+  "test_used_for_model_selection": false,
+  "important_scope_note": "The public xAPI file has no stable student identifier. Rows are treated as educational records, and random splitting therefore cannot guarantee student-level separation."
+}
