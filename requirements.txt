@@ -1,27 +1,11 @@
 # Dependencies for the five-phase fairness-repair pipeline.
-#
-# The versions below are placeholders. Replace them with the versions you
-# actually ran before publishing; a requirements file that does not match the
-# environment that produced the reported results is worse than none, because it
-# looks authoritative while being wrong.
-#
-# Print your versions with:
-#
-#   python -c "import torch, transformers, sklearn, pandas, numpy, fairlearn, joblib, tqdm; \
-#              print('torch', torch.__version__); \
-#              print('transformers', transformers.__version__); \
-#              print('scikit-learn', sklearn.__version__); \
-#              print('pandas', pandas.__version__); \
-#              print('numpy', numpy.__version__); \
-#              print('fairlearn', fairlearn.__version__); \
-#              print('joblib', joblib.__version__); \
-#              print('tqdm', tqdm.__version__)"
 
-torch==X.Y.Z
-transformers==X.Y.Z
-scikit-learn==X.Y.Z
-pandas==X.Y.Z
-numpy==X.Y.Z
-fairlearn==X.Y.Z
-joblib==X.Y.Z
-tqdm==X.Y.Z
+
+torch==2.13.0
+transformers==5.14.1
+scikit-learn==1.9.0
+pandas==3.0.5
+numpy==2.5.1
+fairlearn==0.14.0
+joblib==1.5.3
+tqdm==4.69.1

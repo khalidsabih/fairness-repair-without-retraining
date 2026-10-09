@@ -1,8 +1,8 @@
-# Repairing Fairness Without Retraining
+# An Influence-Guided, Machine-Unlearning-Inspired Framework for Post-Training Fairness Repair
 
-Implementation accompanying the master's thesis *Repairing Fairness Without
-Retraining: An Influence-Guided Approach for Educational Machine Learning*
-(Khalid Sabih, Universität Leipzig, 2026).
+Implementation accompanying the master's thesis *An Influence-Guided,
+Machine-Unlearning-Inspired Framework for Post-Training Fairness Repair in
+Educational Machine Learning* (Khalid Sabih, Universität Leipzig, 2026).
 
 The code implements a five-phase pipeline that repairs group-fairness
 behaviour in a trained classifier through a localized parameter update. The
@@ -21,12 +21,14 @@ Phases can be re-executed independently.
 | Phase | Purpose | Principal outputs |
 |-------|---------|-------------------|
 | 1 | Data preparation and baseline training | model checkpoint, partitions, preprocessing objects |
-| 2 | Fairness gradient, LiSSA inverse-HVP, per-sample influence scores | `influence_scores.csv`, `influence_fairness_direction.pt` |
+| 2 | Fairness gradient, LiSSA inverse-HVP, per-sample influence scores | `influence_scores.csv`; the repair direction, as `influence_fairness_direction.pt` (synthetic) or `fairness_unlearning_directions.pt` (tabular) |
 | 3 | Comparison of candidate repair directions | direction summary, candidate paths |
 | 4 | Utility-constrained selection of a repair fraction | frozen repaired checkpoints, `repair_selection_metadata.json` |
 | 5 | Single audit on the untouched test partition | `final_test_metrics.csv`, bootstrap intervals, prediction changes |
 
-The untouched test partition is read only in Phase 5.
+The untouched test partition is read only in Phase 5. The synthetic pipeline
+writes its artifacts to `data/` and `models/` beside the scripts under its own
+file names; the tabular pipelines write to the `--output-dir` of each phase.
 
 ---
 
@@ -73,8 +75,9 @@ mapping from files to thesis tables.
 
 ## Installation
 
-Python 3.10 or later. The reported results were produced on an Apple M1 with
-16 GB unified memory using the PyTorch Metal Performance Shaders backend.
+The code uses no syntax newer than Python 3.9. The reported results were
+produced on an Apple M1 with 16 GB unified memory using the PyTorch Metal
+Performance Shaders backend.
 
 ```bash
 python -m venv .venv
@@ -85,10 +88,17 @@ pip install -r requirements.txt
 The synthetic benchmark downloads `bert-base-uncased` from the Hugging Face
 Hub on first run.
 
-Approximate runtimes on the hardware above: a full synthetic run takes about
-fifteen minutes, of which Phase 1 (fine-tuning) accounts for roughly five and
-Phase 5 (audit with bootstrap resampling) for two. The tabular pipelines
-complete in seconds.
+The versions in `requirements.txt` are those of the environment that produced
+the reported results. The eight packages it lists are the complete set of
+third-party imports across all fifteen phase scripts.
+
+Approximate runtimes on the hardware above, taken from the logs in `results/`.
+A full synthetic run takes fifteen to seventeen minutes, of which Phase 1
+accounts for about ten: it fine-tunes two models, the biased baseline and the
+clean-label oracle reference, at roughly five minutes each. Phase 5, the audit
+with bootstrap resampling, takes just under two minutes. Phases 2 to 5 of the
+tabular pipelines together take about ninety seconds on OULAD and sixty on
+xAPI-Edu-Data, with Phase 1 training faster still.
 
 ---
 
@@ -96,8 +106,12 @@ complete in seconds.
 
 Neither dataset is redistributed here.
 
-**OULAD** — download from <https://analyse.kmi.open.ac.uk/open-dataset> and
-place `studentInfo.csv` under `data/oulad/`. The experiments use module BBB.
+**OULAD** — download `anonymisedData.zip` from
+<https://research.stem.open.ac.uk/ouanalyse/dataset/> and unpack it under
+`data/oulad/`; Phase 1 finds `studentInfo.csv` there or in any subfolder. The
+experiments use module BBB. The dataset is described in Kuzilek, Hlosta and
+Zdrahal, "Open University Learning Analytics Dataset", *Scientific Data* 4
+(2017), 170171, <https://doi.org/10.1038/sdata.2017.171>.
 
 **xAPI-Edu-Data** — download from
 <https://www.kaggle.com/datasets/aljarah/xAPI-Edu-Data> and place
@@ -112,19 +126,29 @@ download.
 
 ### Synthetic benchmark
 
+The synthetic scripts take no command-line arguments. Each one carries a
+`Config` class near the top of the file, and a run is configured by editing it;
+paths are relative, so the scripts must be run from inside `synthetic/`.
+
 ```bash
 cd synthetic
-python 01_bias_injection.py --seed 42 --bias-probability 0.85
+# edit the Config class in 01_bias_injection.py: seed, bias_probability
+python 01_bias_injection.py
 python 02_influence_diagnostics_direction.py
 python 03_direction_comparison.py
 python 04_geometric_intervention.py
 python 05_model_audit.py
 ```
 
-The five runs reported in the thesis use seed 42 at bias probabilities 0.50,
-0.70 and 0.85, and probability 0.85 at seeds 123 and 456.
+The five runs reported in the thesis use `seed = 42` at `bias_probability`
+0.50, 0.70 and 0.85, and `bias_probability = 0.85` at seeds 123 and 456.
+Phase 1 writes the baseline checkpoint to `models/m0_biased` and the partitions
+under `data/`, where the later phases expect them.
 
 ### OULAD
+
+The tabular pipelines are argument-driven, and every phase takes the output
+directories of the phases before it.
 
 ```bash
 cd oulad
@@ -135,8 +159,24 @@ python 04_oulad_repair_selection.py  --phase1-dir runs/oulad_phase1 --phase2-dir
 python 05_oulad_final_audit.py       --phase1-dir runs/oulad_phase1 --phase4-dir runs/oulad_phase4 --output-dir runs/oulad_phase5
 ```
 
-The xAPI pipeline follows the same pattern with `--xapi-dir` in place of
-`--oulad-dir`.
+Phase 1 selects module BBB by default; pass `--module ALL` for the full
+dataset. The protected attribute defaults to `gender` with groups `M` and `F`.
+
+### xAPI-Edu-Data
+
+Identical to OULAD except that Phase 1 takes `--dataset-dir` rather than
+`--oulad-dir`:
+
+```bash
+cd xapi
+python 01_xapi_data_and_training.py --dataset-dir ../data/xapi --output-dir runs/xapi_phase1
+```
+
+Phases 2 to 5 take the same flags as their OULAD counterparts.
+
+If no `--*-dir` is given, each tabular script falls back to a directory beside
+itself: `archive/` for the raw data and `<pipeline>_phase<N>/` for its own
+output.
 
 Run `python <script> --help` for the full option list of any phase.
 
@@ -148,10 +188,10 @@ Values used for the results reported in the thesis:
 
 | Setting | Value |
 |---|---|
-| LiSSA recursion depth | 100 |
+| LiSSA recursion depth (synthetic / real) | 100 / 200 |
 | LiSSA damping | 0.01 |
-| LiSSA scale | 1000 |
-| LiSSA repetitions (averaged) | 3 |
+| LiSSA scale (synthetic / real) | 1000 / 100 |
+| LiSSA repetitions, averaged (synthetic / real) | 3 / 1 |
 | Decision threshold | 0.50 |
 | Utility tolerance | 0.02 |
 | Bootstrap resamples | 1000, stratified |
@@ -163,9 +203,16 @@ Values used for the results reported in the thesis:
 | Repair grid (raw gradient, synthetic) | 0, 0.001, 0.005, 0.010, 0.025, 0.050 |
 | Repair grid (both, real data) | 0, 0.25, 0.50, 0.75, 1, 2, 5, 10 |
 
-The two synthetic grids differ because the raw gradient has a norm roughly an
-order of magnitude larger than the preconditioned direction; the grids were
-chosen to span comparable ranges of parameter displacement.
+The two synthetic grids differ because the raw fairness gradient has a norm
+between roughly thirty and seventy-five times larger than the preconditioned
+direction; the grids were chosen to span comparable ranges of parameter
+displacement. Equal fractions on a shared grid would therefore not be
+comparable, which is why the thesis also reports common-distance results that
+normalise both directions to the same parameter-space radius.
+
+The LiSSA settings above are the defaults in the synthetic `Config` classes and
+the defaults of `--recursion-depth`, `--damping`, `--scale` and
+`--lissa-repetitions` in the tabular Phase 2 scripts.
 
 ---
 
@@ -194,8 +241,8 @@ are recorded in the phase metadata.
 ```bibtex
 @mastersthesis{sabih2026fairnessrepair,
   author = {Khalid Sabih},
-  title  = {Repairing Fairness Without Retraining: An Influence-Guided
-            Approach for Educational Machine Learning},
+  title  = {An Influence-Guided, Machine-Unlearning-Inspired Framework for
+            Post-Training Fairness Repair in Educational Machine Learning},
   school = {Universit\"at Leipzig},
   year   = {2026}
 }
